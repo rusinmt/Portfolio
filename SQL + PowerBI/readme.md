@@ -37,7 +37,7 @@ and data from 2020 until the first month of 2023.
   AND
     CalendarYear < 2023 OR (CalendarYear = 2023 AND MonthNumberOfYear <= 1)
 ```
-Customers table concatenates FirstName column with LastName and assings it an alias 'FullName'. Creates a new column with gender information, checking the values and assinging them 'Male' if the value stated is 'M' and 'Female' for 'F'. Finnaly LEFT JOIN based on GeographyKey, dbo.dimgeography joins records with dbo.customer table adding g.city column with assigned alias 'CustomerCity'.
+
 ```sql
   c.firstname + ' ' + lastname As FullName,
   CASE c.gender WHEN 'M' THEN 'Male' WHEN 'F' Then 'Female' END AS Gender,
@@ -49,6 +49,7 @@ FROM
 ORDER BY 
   CustomerKey ASC
 ```
+Customers table concatenates FirstName column with LastName and assings it an alias 'FullName'. Creates a new column with gender information, checking the values and assinging them 'Male' if the value stated is 'M' and 'Female' for 'F'. Finnaly LEFT JOIN based on GeographyKey, dbo.dimgeography joins records with dbo.customer table adding g.city column with assigned alias 'CustomerCity'.
 ```sql
    SUM(f.SalesAmount) AS [Sales]
 FROM DimSalesTerritory d
@@ -57,3 +58,11 @@ GROUP BY d.SalesTerritoryCountry, d.SalesTerritoryRegion, d.SalesTerritoryKey
 ORDER BY [Sales] DESC
 ```
 The DIM_SalesTerritory table groups the sum of SalesAmount for each sales territory and orders the results by three specified columns in descending order.
+```sql
+ISNULL (p.Status, 'Outdated') AS ProductStatus 
+FROM 
+  [dbo].[DimProduct] AS p 
+  LEFT JOIN dbo.DimProductSubcategory AS ps ON ps.ProductSubcategoryKey = p.ProductSubcategoryKey 
+  LEFT JOIN dbo.DimProductCategory AS pc ON ps.ProductCategoryKey = pc.ProductCategoryKey 
+```
+The ISNULL function checks the 'Status' column in the DimProduct table. If the column has no value, it assigns the default value 'Outdated' to the 'ProductStatus' column. However, if there is information in the 'Status' column, it returns that information. Additionally, the query uses LEFT JOIN operations to add subcategory and category records to the DimProduct table from related tables.
