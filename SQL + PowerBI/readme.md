@@ -66,3 +66,8 @@ FROM
   LEFT JOIN dbo.DimProductCategory AS pc ON ps.ProductCategoryKey = pc.ProductCategoryKey 
 ```
 The ISNULL function checks the 'Status' column in the DimProduct table. If the column has no value, it assigns the default value 'Outdated' to the 'ProductStatus' column. However, if there is information in the 'Status' column, it returns that information. Additionally, the query uses LEFT JOIN operations to add subcategory and category records to the DimProduct table from related tables.
+
+### Power BI Modeling
+
+Exported CSV files are imported to Power BI. Primary Keys, identifying the tables, will now be used to define relationships and create a data model.
+![Alt text](file:///D:/portfolio/date/SQL%20+%20PowerBI/model.png)
