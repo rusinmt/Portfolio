@@ -7,7 +7,7 @@ Adventure Works Cycles, for past three years, encounters formidable challenges i
 The primary objective of this initiative is to provide Adventure Works Cycles with strategic guidance to identify the most profitable markets and augment the flexibility of their budget planning processes.
 
 ### Data Wrangling:
-Setting up a data model in Power BI using a well-known star schema begins with defining the fact table FACT_InternetSales from the restored and updated ([AdventureWorksDW2022](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorksDW2022.bak)) database in MS SQL Server.
+Setting up a data model in Power BI using a well-known star schema begins with defining the fact table FACT_InternetSales from the restored and updated [AdventureWorksDW2022](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorksDW2022.bak) database in MS SQL Server.
 ```sql
 SELECT 
   [ProductKey], 
@@ -71,4 +71,5 @@ The ISNULL function checks the 'Status' column in the DimProduct table. If the c
 ### Power BI Modeling
 
 Exported CSV files are imported to Power BI. Primary Keys, identifying the tables, will now be used to define relationships and create a data model.
+
 ![model](https://github.com/rusinmt/portfolio/assets/143091357/14987950-1e98-4daf-9404-ee5a7511306d)
