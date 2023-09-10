@@ -68,15 +68,27 @@ FROM
 ```
 The ISNULL function checks the 'Status' column in the DimProduct table. If the column has no value, it assigns the default value 'Outdated' to the 'ProductStatus' column. However, if there is information in the 'Status' column, it returns that information. Additionally, the query uses LEFT JOIN operations to add subcategory and category records to the DimProduct table from related tables.
 
+Providing random Budget values in DIM_Budget for training purposes.
+
 ### Power BI Modeling:
 
 Exported CSV files are imported to Power BI. Primary Keys, identifying the tables, will now be used to define relationships and create a data model.
 
 ![model](https://github.com/rusinmt/portfolio/assets/143091357/14987950-1e98-4daf-9404-ee5a7511306d)
 
-Defining Key Measures for analyzing and visualizing data within given time period.
+Defining Key Measures in DAX, for analyzing and visualizing data within given time period.
 ```dax
 Sales = SUM ( FACT_InternetSales[SalesAmount] )
 ```
-Total Sales as Sales
-
+Total Sales as 'Sales'
+```dax
+Budget Amount = SUM ( FACTS_Budget[Budget] )
+```
+'Budget Amount" sum of Budget column, and 'Sales / Budget' for dynamic KPI visualisation to show sales and budget variance during significant expenditure.
+```dax
+Sales / Budget = [Sales] - [Budget Amount]
+Cost = SUM(FACT_InternetSales[ProductStandardCost] )
+Profit Margin = [Sales] - [Cost] 
+Profit Margin % = DIVIDE( [Profit Margin], [Sales], 0 )
+```
+Useage of the third argument will eansure that if the denominator is 0, formula will return '0' instead of producing an error.
