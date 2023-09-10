@@ -6,7 +6,8 @@ Adventure Works Cycles, for past three years, encounters formidable challenges i
 ### Project Objective:
 The primary objective of this initiative is to provide Adventure Works Cycles with strategic guidance to identify the most profitable markets and augment the flexibility of their budget planning processes.
 
-Setting up a data model in Power BI using a well-known star schema begins with defining the Fact Table from the restored and updated [AdventureWorksDW2022]([url](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorksDW2022.bak)) database in MS SQL Server.
+### Data Wrangling:
+Setting up a data model in Power BI using a well-known star schema begins with defining the Fact Table from the restored and updated ([AdventureWorksDW2022](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorksDW2022.bak)) database in MS SQL Server.
 ```sql
 SELECT 
   [ProductKey], 
@@ -27,3 +28,5 @@ ORDER BY
   OrderDateKey ASC;
 ```
 In witch I defined specific period in the scope of analysis using the OrderDateKey from last 3 tears.
+
+
