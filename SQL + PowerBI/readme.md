@@ -91,7 +91,37 @@ Cost = SUM(FACT_InternetSales[ProductStandardCost] )
 Profit Margin = [Sales] - [Cost] 
 Profit Margin % = DIVIDE( [Profit Margin], [Sales], 0 )
 ```
-Useage of the third argument in 'Profit Margin %' will eansure that if the denominator is 0, formula will return '0' instead of producing an error.
+Usage of the third argument in 'Profit Margin %' will eansure that if the denominator is 0, formula will return '0' instead of producing an error.
 
-### Dasboard:
+### Dashboard:
+
+In the charts, there's a highlighting mechanism connected to the month slicer through an additional hidden synchronized slicer. This hidden slicer draws its values from a separate table that is not directly linked to the main data model. The functionality is achieved using the following DAX code.
+```dax
+SalesChartUnpluged = 
+CALCULATE(
+    [Sales],
+    TREATAS(VALUES(DIM_ChartUnpluged[MonthShort]), DIM_Calendar[MonthShort])
+    )
+```
+This measure establishes a virtual relationship between the DIM_Calendar table in the model, and its DIM_ChartUnplugged counterpart outside. This connection is based on the common 'MonthShort' column. It enables calculations as though the two tables were related by month, even in cases where there is no direct relationship between them in the data model.
+HIghlight Sales = 
+```dax
+IF(
+    SELECTEDVALUE('DIM_Calendar'[MonthShort]) = SELECTEDVALUE('DIM_ChartUnpluged'[MonthShort]),
+    [SalesChartUnpluged]
+    )
+```
+Formula returns value of 'SalesChartUnpluged' if the months in two slicers match. This mechanism highlights the 'Sales' data based on users the month selection.
+
+In ranking the top 10 Customers by Sales using the 'Top N' filter option, a problem has arisen when multiple clients have the same sales values, resulting in a tie. To address this tiebreak situation.
+```dax
+Tiebreaker = 
+VAR DateFirstPurchase = MIN(DIM_Customers[DateFirstPurchase])
+RETURN
+[Sales] * DateFirstPurchase * ( RAND() / 10000 )
+```
+Secondary crieterion of earliest DateFirstPurchase was not sufficient to break the ties among clients. Therfore there is a RAND() function generating  a random decimal number, scaled down by a factor of 10 000.
+
+### Data Analysis:
+
 
