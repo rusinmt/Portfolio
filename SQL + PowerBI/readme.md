@@ -6,7 +6,7 @@ Adventure Works Cycles, for past three years, encounters formidable challenges i
 ###Project Objective:
 The primary objective of this initiative is to provide Adventure Works Cycles with strategic guidance to identify the most profitable markets and augment the flexibility of their budget planning processes.
 
-Setting up a data model in Power BI using a well-known star schema begins with defining the Fact Table from the restored and updated [AdventureWorksDW2022]([url](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorksDW2022.bak)) database in MS SQL Server.
+Setting up a data model in Power BI using a well-known star schema begins with defining the fact table FACT_InternetSales from the restored and updated [AdventureWorksDW2022]([url](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorksDW2022.bak)) database in MS SQL Server.
 ```sql
 SELECT 
   [ProductKey], 
@@ -27,15 +27,26 @@ ORDER BY
   OrderDateKey ASC;
 ```
 In which I defined specific period in the scope of analysis using the OrderDateKey from last 3 tears.
+Filtered dimension table DIM_Calendar uses newly created, renamed columns,
 ```sql
  LEFT([EnglishMonthName],3) AS MonthShort,
 ```
-Filtered dimension table DIM_Calendar uses newly created, renamed columns,
+and data from 2020 until the first month of 2023.
 ```sql
   WHERE CalendarYear >=2020
   AND
     CalendarYear < 2023 OR (CalendarYear = 2023 AND MonthNumberOfYear <= 1)
 ```
-and data from 2020 until the first month of 2023.
-
+Customers table concatenates FirstName column with LastName and assings it an alias 'FullName'. Creates a new column with gender information, checking the values and assinging them 'Male' if the value stated is 'M' and 'Female' for 'F'. Finnaly LEFT JOIN based on GeographyKey, dbo.dimgeography joins records with dbo.customer table adding g.city column with assigned alias 'CustomerCity'.
+```sql
+  c.firstname + ' ' + lastname As FullName,
+  CASE c.gender WHEN 'M' THEN 'Male' WHEN 'F' Then 'Female' END AS Gender,
+  c.datefirstpurchase AS DateFirstPurchase,
+  g.city AS CustomerCity
+FROM 
+  dbo.dimcustomer AS c 
+  LEFT JOIN dbo.dimgeography AS g ON g.geographykey = c.geographykey 
+ORDER BY 
+  CustomerKey ASC
+```
 
