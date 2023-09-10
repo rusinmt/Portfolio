@@ -91,4 +91,7 @@ Cost = SUM(FACT_InternetSales[ProductStandardCost] )
 Profit Margin = [Sales] - [Cost] 
 Profit Margin % = DIVIDE( [Profit Margin], [Sales], 0 )
 ```
-Useage of the third argument will eansure that if the denominator is 0, formula will return '0' instead of producing an error.
+Useage of the third argument in 'Profit Margin %' will eansure that if the denominator is 0, formula will return '0' instead of producing an error.
+
+### Dasboard:
+
