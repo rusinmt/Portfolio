@@ -49,4 +49,11 @@ FROM
 ORDER BY 
   CustomerKey ASC
 ```
-
+```sql
+   SUM(f.SalesAmount) AS [Sales]
+FROM DimSalesTerritory d
+JOIN FactInternetSales f ON d.SalesTerritoryKey = f.SalesTerritoryKey
+GROUP BY d.SalesTerritoryCountry, d.SalesTerritoryRegion, d.SalesTerritoryKey
+ORDER BY [Sales] DESC
+```
+The DIM_SalesTerritory table groups the sum of SalesAmount for each sales territory and orders the results by three specified columns in descending order.
