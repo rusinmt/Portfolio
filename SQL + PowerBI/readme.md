@@ -75,7 +75,7 @@ Providing random Budget values in DIM_Budget for training purposes.
 Exported CSV files are imported to Power BI. Primary Keys, identifying the tables, will now be used to define relationships and create a data model.
 
 <p align="center">
-  <img src="(https://github.com/rusinmt/portfolio/assets/143091357/14987950-1e98-4daf-9404-ee5a7511306d)" >
+  <img src="(https://github.com/rusinmt/portfolio/assets/143091357/14987950-1e98-4daf-9404-ee5a7511306d)"
 </p>
     
 Defining Key Measures in DAX, for analyzing and visualizing data within given time period.
