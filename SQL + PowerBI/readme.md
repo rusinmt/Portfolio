@@ -96,7 +96,7 @@ Usage of the third argument in 'Profit Margin %' will eansure that if the denomi
 ### Dashboard:
 
 <p align="center">
-  <img src="https://github.com/rusinmt/portfolio/assets/143091357/aaaabade-d14d-4cb7-a916-04144389cdb3"
+  <img src="https://github.com/rusinmt/portfolio/assets/143091357/aaaabade-d14d-4cb7-a916-04144389cdb3" width="200" height="200">
 </p>
     
 In the charts, there's a highlighting mechanism connected to the month slicer through an additional hidden synchronized slicer. This hidden slicer draws its values from a separate table that is not directly linked to the main data model. The functionality is achieved using the following DAX code.
