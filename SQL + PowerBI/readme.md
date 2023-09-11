@@ -129,10 +129,10 @@ RETURN
 Secondary crieterion of earliest DateFirstPurchase was not sufficient to break the ties among clients. Therfore there is a RAND() function generating  a random decimal number, scaled down by a factor of 10 000.
 
 <p align="center">
-  <img src="(https://github.com/rusinmt/portfolio/assets/143091357/fe4e520d-54a9-448d-8b86-f0919d5c24cd)" width="400">
+  <img src="https://github.com/rusinmt/portfolio/assets/143091357/fe4e520d-54a9-448d-8b86-f0919d5c24cd" width="400">
 </p>
 
-    For the purpose of using Full region name wihout repeating by joining results,
+For the purpose of using the full region name wihout repeating,
 ```dax
 Territory Region Full Name = 
 VAR Region = DIM_Territory[SalesTerritoryRegion]
@@ -140,6 +140,7 @@ VAR Country = DIM_Territory[SalesTerritoryCountry]
 RETURN
     IF(Region <> Country, Region & " " & Country, Region)
 ```
+the DAX code returns Region and Country names if they are different, and only the region name if the values are the same.
 
 ### Analysis:
 
