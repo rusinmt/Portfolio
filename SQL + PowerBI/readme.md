@@ -84,7 +84,7 @@ Total Sales as 'Sales'
 ```dax
 Budget Amount = SUM ( FACTS_Budget[Budget] )
 ```
-'Budget Amount" sum of Budget column, and 'Sales / Budget' for dynamic KPI visualisation to show sales and budget variance during significant expenditure.
+'Budget Amount" sum of Budget column, and 'Sales / Budget' for dynamic KPI visualisation to show sales and budget variance during significant budget expenditure.
 ```dax
 Sales / Budget = [Sales] - [Budget Amount]
 Cost = SUM(FACT_InternetSales[ProductStandardCost] )
