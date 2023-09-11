@@ -128,6 +128,19 @@ RETURN
 ```
 Secondary crieterion of earliest DateFirstPurchase was not sufficient to break the ties among clients. Therfore there is a RAND() function generating  a random decimal number, scaled down by a factor of 10 000.
 
+<p align="center">
+  <img src="(https://github.com/rusinmt/portfolio/assets/143091357/fe4e520d-54a9-448d-8b86-f0919d5c24cd)" width="400">
+</p>
+
+    For the purpose of using Full region name wihout repeating by joining results,
+```dax
+Territory Region Full Name = 
+VAR Region = DIM_Territory[SalesTerritoryRegion]
+VAR Country = DIM_Territory[SalesTerritoryCountry]
+RETURN
+    IF(Region <> Country, Region & " " & Country, Region)
+```
+
 ### Analysis:
 
 The dashboard serves as a comprehensive tool for the Sales Department and managers, offering a detailed overview of sales, client insights, and product details. That could be extended futher to develope the best seeling product or to shift company's focus from equipment and accesories. 
