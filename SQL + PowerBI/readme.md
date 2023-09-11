@@ -98,7 +98,7 @@ Usage of the third argument in 'Profit Margin %' will eansure that if the denomi
 ### Dashboard:
 
 <p align="center">
-  <img src="https://github.com/rusinmt/portfolio/assets/143091357/aaaabade-d14d-4cb7-a916-04144389cdb3" width="250" height="300">
+  <img src="https://github.com/rusinmt/portfolio/assets/143091357/aaaabade-d14d-4cb7-a916-04144389cdb3" width="300" >
 </p>
     
 In the charts, there's a highlighting mechanism connected to the month slicer through an additional hidden synchronized slicer. This hidden slicer draws its values from a separate table that is not directly linked to the main data model. The functionality is achieved using the following DAX code.
@@ -134,13 +134,13 @@ The dashboard serves as a comprehensive tool for the Sales Department and manage
 The primary analytics problem revolves around the annual sales performance, which exhibited remarkable growth in 2022, nearly tripling from the previous year, and doubling of profit margins. Markers held up strongly till the end of the year, despite reducing budget spending.
 
 <p align="center">
-  <img src="https://github.com/rusinmt/portfolio/assets/143091357/4e1bead1-6cfa-4a52-99a4-def3081b1079" width="200">
+  <img src="https://github.com/rusinmt/portfolio/assets/143091357/4e1bead1-6cfa-4a52-99a4-def3081b1079" width="400">
 </p>
 
 While the percentile profit margin for each country appears almost identical, indicative of efficient regional market management, a distinct gap emerges when analyzing the percentile contribution of each country to the total profit margin. This discrepancy unequivocally highlights the most profitable markets that warrant the company's primary strategic focus.
 
 <p align="center">
-  <img src="https://github.com/rusinmt/portfolio/assets/143091357/bb9fe340-5bb1-455a-bee8-22c288586a94">
+  <img src="https://github.com/rusinmt/portfolio/assets/143091357/bb9fe340-5bb1-455a-bee8-22c288586a94" width="350">
 </p>
 
 Concerning budgeting and strategy, it is imperative for a company of this magnitude to adopt a long-term vision. This approach ensures a steady trajectory, facilitating dynamic growth and maintaining a position as a formidable competitor.  It is advisable to exercise prudence by integrating safety measures into the strategy, considering potential black swan events that could disrupt the market and impact profitability. Such forward-thinking measures contribute to the maximization of profits and the companys overall resilience.
