@@ -128,6 +128,19 @@ RETURN
 ```
 Secondary crieterion of earliest DateFirstPurchase was not sufficient to break the ties among clients. Therfore there is a RAND() function generating  a random decimal number, scaled down by a factor of 10 000.
 
-### Data Analysis:
+### Analysis:
 
+The dashboard serves as a comprehensive tool for the Sales Department and managers, offering a detailed overview of sales, client insights, and product details. That could be extended futher to develope the best seeling product or to shift company's focus from equipment and accesories. 
+The primary analytics problem revolves around the annual sales performance, which exhibited remarkable growth in 2022, nearly tripling from the previous year, and doubling of profit margins. Markers held up strongly till the end of the year, despite reducing budget spending.
 
+<p align="center">
+  <img src="https://github.com/rusinmt/portfolio/assets/143091357/4e1bead1-6cfa-4a52-99a4-def3081b1079">
+</p>
+
+While the percentile profit margin for each country appears almost identical, indicative of efficient regional market management, a distinct gap emerges when analyzing the percentile contribution of each country to the total profit margin. This discrepancy unequivocally highlights the most profitable markets that warrant the company's primary strategic focus.
+
+<p align="center">
+  <img src="https://github.com/rusinmt/portfolio/assets/143091357/bb9fe340-5bb1-455a-bee8-22c288586a94">
+</p>
+
+Concerning budgeting and strategy, it is imperative for a company of this magnitude to adopt a long-term vision. This approach ensures a steady trajectory, facilitating dynamic growth and maintaining a position as a formidable competitor.  It is advisable to exercise prudence by integrating safety measures into the strategy, considering potential black swan events that could disrupt the market and impact profitability. Such forward-thinking measures contribute to the maximization of profits and the companys overall resilience.
