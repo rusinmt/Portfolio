@@ -73,9 +73,9 @@ Providing random Budget values in DIM_Budget for training purposes.
 ### Power BI Modeling:
 
 Exported CSV files are imported to Power BI. Primary Keys, identifying the tables, will now be used to define relationships and create a data model.
-
+<p align="center">
 ![model](https://github.com/rusinmt/portfolio/assets/143091357/14987950-1e98-4daf-9404-ee5a7511306d)
-
+</p>
 Defining Key Measures in DAX, for analyzing and visualizing data within given time period.
 ```dax
 Sales = SUM ( FACT_InternetSales[SalesAmount] )
@@ -96,7 +96,7 @@ Usage of the third argument in 'Profit Margin %' will eansure that if the denomi
 ### Dashboard:
 
 <p align="center">
-  <img src="https://github.com/rusinmt/portfolio/assets/143091357/aaaabade-d14d-4cb7-a916-04144389cdb3" width="200" height="200">
+  <img src="https://github.com/rusinmt/portfolio/assets/143091357/aaaabade-d14d-4cb7-a916-04144389cdb3" width="250" height="250">
 </p>
     
 In the charts, there's a highlighting mechanism connected to the month slicer through an additional hidden synchronized slicer. This hidden slicer draws its values from a separate table that is not directly linked to the main data model. The functionality is achieved using the following DAX code.
