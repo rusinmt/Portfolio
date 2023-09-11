@@ -95,6 +95,8 @@ Usage of the third argument in 'Profit Margin %' will eansure that if the denomi
 
 ### Dashboard:
 
+![chartunplugged](https://github.com/rusinmt/portfolio/assets/143091357/aaaabade-d14d-4cb7-a916-04144389cdb3)
+
 In the charts, there's a highlighting mechanism connected to the month slicer through an additional hidden synchronized slicer. This hidden slicer draws its values from a separate table that is not directly linked to the main data model. The functionality is achieved using the following DAX code.
 ```dax
 SalesChartUnpluged = 
