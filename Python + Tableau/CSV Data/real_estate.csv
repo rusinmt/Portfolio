@@ -6,7 +6,7 @@
 4,Mieszkanie Mokotów,720 000 ,17 143 ,2 ,42  ,"Służew, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
 5,3 pokoje przy metrze | 61m2 | widna kuchnia,729 000 ,11 951 ,3 ,61  ,"ul. Związku Walki Młodych, Ursynów Północny, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
 6,2 pokoje mieszkanie w kamienicy na Mokotowie,849 950 ,16 999 ,2 ,50  ,"ul. Rabindranatha Tagore, Wierzbno, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
-7,Panoramiczny Penthause na warszawskim Żoliborzu,5 999 999 ,21 661 ,6 pokoi277 m²,,"Marymont-Potok, Żoliborz, Warszawa, mazowieckie",Biuro nieruchomości
+7,Panoramiczny Penthause na warszawskim Żoliborzu,5 999 999 ,21 661 ,6 ,277  ,"Marymont-Potok, Żoliborz, Warszawa, mazowieckie",Biuro nieruchomości
 8,Parter NAJNIŻSZY CZYNSZ W MIEŚCIE pompa ciepła oze,370 852 ,13 735 ,1 ,27  ,"ul. Leona Berensona 131, Grodzisk, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
 9,Mieszkanie z najniżymi kosztami eksploatacji OZE,694 278 ,12 900 ,3 ,53.82  ,"Nowodwory, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
 10,Przestronne mieszkanie 70m2 |Białołęka|Od Teraz!,850 000 ,12 143 ,4 ,70  ,"Arcangela Corellego, Kobiałka, Białołęka, Warszawa, mazowieckie",Inwestycja deweloperska
@@ -19,7 +19,7 @@
 17,Apartament na dolnym Mokotowie - bezpośrednio,880 000 ,18 605 ,2 ,47.3  ,"ul. Bluszczańska 4, Siekierki, Mokotów, Warszawa, mazowieckie",Inwestycja deweloperska
 18,Bokserska 71A | Nowy apartament | Wysoki standard,1 699 999 ,18 612 ,4 ,91.34  ,"ul. Bokserska, Służewiec, Mokotów, Warszawa, mazowieckie",Inwestycja deweloperska
 19,3 pokojowe mieszkanie w kamienicy z 1933r. balkon,1 496 000 ,17 000 ,3 ,88  ,"Stara Praga, Praga-Północ, Warszawa, mazowieckie",Inwestycja deweloperska
-20,Segment trzypoziomowy- 2 miejsca postojowe gratis!,699 000 ,7281 ,5 pokoi96 m²,,"Groszówka, Wesoła, Warszawa, mazowieckie",Biuro nieruchomości
+20,Segment trzypoziomowy- 2 miejsca postojowe gratis!,699 000 ,7281 ,5 ,96  ,"Groszówka, Wesoła, Warszawa, mazowieckie",Biuro nieruchomości
 21,MIESZKANIE 4-POKOJE balkon - ładny rozkład WAWER,937 272 ,9134 ,4 ,102.61  ,"Międzylesie, Wawer, Warszawa, mazowieckie",Biuro nieruchomości
 22,"dwupoziomowe, Ostatnie piętro, Taras, bez Pcc",1 800 000 ,15 235 ,4 ,118.15  ,"ul. Krańcowa, Stare Włochy, Włochy, Warszawa, mazowieckie",Biuro nieruchomości
 23,4-pokojowe mieszkanie 75m2 + ogródek,Zapytaj o cenę4 pokoje75.55 m²,,,,"ul. Rzędziana, Brzeziny, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
@@ -33,10 +33,10 @@
 31,Prestiżowa lokalizacja przy parku Morskie Oko!,2 799 000 ,22 756 ,4 ,123  ,"ul. Willowa, Stary Mokotów, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
 32,"Styl, nowoczesność, lokalizacja",1 914 000 ,22 000 ,4 ,87  ,"ul. Krzysztofa Kieślowskiego, Błonia Wilanowskie, Wilanów, Warszawa, mazowieckie",Biuro nieruchomości
 33,Rodzinny apartament z ogródkiem | Osiedle Patio,1 990 000 ,12 872 ,4 ,154.6  ,"ul. Zapłocie, Powsin, Wilanów, Warszawa, mazowieckie",Biuro nieruchomości
-34,Apartament na sprzedaż w prestiżowym miejscu,3 649 000 ,13 565 ,7 pokoi269 m²,,"ul. Stanisława Kostki Potockiego, Wilanów Królewski, Wilanów, Warszawa, mazowieckie",Biuro nieruchomości
-35,5 pokoi I cisza I zieleń,1 760 000 ,12 509 ,5 pokoi140.7 m²,,"ul. Syta, Zawady, Wilanów, Warszawa, mazowieckie",Biuro nieruchomości
+34,Apartament na sprzedaż w prestiżowym miejscu,3 649 000 ,13 565 ,7 ,269  ,"ul. Stanisława Kostki Potockiego, Wilanów Królewski, Wilanów, Warszawa, mazowieckie",Biuro nieruchomości
+35,5 pokoi I cisza I zieleń,1 760 000 ,12 509 ,5 ,140.7  ,"ul. Syta, Zawady, Wilanów, Warszawa, mazowieckie",Biuro nieruchomości
 36,3 pokoje I taras I świetna lokalizacja,1 200 000 ,13 559 ,3 ,88.5  ,"al. Aleja gen. Władysława Sikorskiego, Stegny, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
-37,5 pokoi I Mokotów I Blisko metra,1 959 000 ,15 097 ,5 pokoi129.76 m²,,"ul. Wielicka, Ksawerów, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
+37,5 pokoi I Mokotów I Blisko metra,1 959 000 ,15 097 ,5 ,129.76  ,"ul. Wielicka, Ksawerów, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
 38,Przestronny apartament 75m2 + 50m2 taras Wilanów,1 580 000 ,20 919 ,2 ,75.53  ,"Błonia Wilanowskie, Wilanów, Warszawa, mazowieckie",Biuro nieruchomości
 39,Luksus w Sercu Mokotowa,1 450 000 ,23 016 ,4 ,63  ,"ul. Kazimierzowska 64, Stary Mokotów, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
 40,Atrakcyjne!/garaż podz.komórka/Stare Włochy/,759 000 ,17 651 ,2 ,43  ,"ul. Popularna, Stare Włochy, Włochy, Warszawa, mazowieckie",Biuro nieruchomości
@@ -50,7 +50,7 @@
 48,3 pokojowe na Białołęce balkon obok tramwaju,648 800 ,12 337 ,3 ,52.59  ,"ul. Talarowa, Tarchomin, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
 49,4 pokojowe na Białołęce duży ogród obok tramwaju,813 000 ,11 503 ,4 ,70.68  ,"ul. Talarowa, Tarchomin, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
 50,4 pokojowe na Białołęce balkon obok tramwaju,778 300 ,11 013 ,4 ,70.67  ,"ul. Talarowa, Tarchomin, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
-51,Wyjątkowa inwestycja | Unikat | Zaprojektuj,3 299 000 ,16 495 ,8 pokoi200 m²,,"ul. Krzysztofa Opalińskiego, Marymont-Potok, Żoliborz, Warszawa, mazowieckie",Biuro nieruchomości
+51,Wyjątkowa inwestycja | Unikat | Zaprojektuj,3 299 000 ,16 495 ,8 ,200  ,"ul. Krzysztofa Opalińskiego, Marymont-Potok, Żoliborz, Warszawa, mazowieckie",Biuro nieruchomości
 52,Lokalizacja / budynek / garaż,844 000 ,16 833 ,2 ,50.14  ,"ul. Radziwie, Młynów, Wola, Warszawa, mazowieckie",Biuro nieruchomości
 53,Taras | Ogród | Super osiedle,1 019 000 ,11 988 ,3 ,85  ,"ul. Obywatelska, Nowe Włochy, Włochy, Warszawa, mazowieckie",Biuro nieruchomości
 54,Pod klucz/apartament/inwestycja/metro/rodzinny/,1 119 000 ,10 760 ,4 ,104  ,"Bemowo-Lotnisko, Bemowo, Warszawa, mazowieckie",Biuro nieruchomości
@@ -92,7 +92,7 @@
 90,Przytulne mieszkanie na Białołęce (2 pokoje),497 000 ,14 200 ,2 ,35  ,"ul. Pasłęcka, Nowodwory, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
 91,"Eleganckie mieszkanie z widokiem na centrum, 7 p.",890 000 ,19 778 ,2 ,45  ,"ul. Jana Kazimierza 28, Odolany, Wola, Warszawa, mazowieckie",Biuro nieruchomości
 92,Sprzedam 4 pokojowe mieszkanie blisko centrum,1 690 000 ,15 943 ,4 ,106  ,"al. Aleje Jerozolimskie 151, Stara Ochota, Ochota, Warszawa, mazowieckie",Biuro nieruchomości
-93,wyjątkowy apartament 155m2 + 100 tarasów,2 590 000 ,16 710 ,5 pokoi155 m²,,"ul. Fantazyjna, Zacisze, Targówek, Warszawa, mazowieckie",Biuro nieruchomości
+93,wyjątkowy apartament 155m2 + 100 tarasów,2 590 000 ,16 710 ,5 ,155  ,"ul. Fantazyjna, Zacisze, Targówek, Warszawa, mazowieckie",Biuro nieruchomości
 94,Luksusowe 4-pokojowe mieszkanie na Bliskiej Woli,2 130 000 ,26 955 ,4 ,79.02  ,"ul. Marcina Kasprzaka 29C, Odolany, Wola, Warszawa, mazowieckie",Biuro nieruchomości
 95,3-pokojowe NOWE Mieszkanie do zamieszkania,1 750 000 ,26 515 ,3 ,66  ,"ul. Kacpra Karlińskiego 4, Odolany, Wola, Warszawa, mazowieckie",Biuro nieruchomości
 96,Trzy pokoje w kamienicy koło Placu Bankowego.,1 250 000 ,16 437 ,3 ,76.05  ,"al. Aleja ""Solidarności"", Śródmieście Północne, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
@@ -101,7 +101,7 @@
 99,2-pokojowe mieszkanie 42m2 + ogródek Bez Prowizji,548 079 ,12 749 ,2 ,42.99  ,"ul. Kazimierza Gierdziejewskiego, Szamoty, Ursus, Warszawa, mazowieckie",Biuro nieruchomości
 100,3-pokojowe mieszkanie 61m2 + loggia Bez Prowizji,Zapytaj o cenę3 pokoje61.17 m²,,,,"ul. Marywilska 60, Żerań, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
 101,Komfortowe mieszkanie dla rodziny 2+2 - Bielany,1 680 000 ,19 882 ,4 ,84.5  ,"ul. Sokratesa, Wawrzyszew, Bielany, Warszawa, mazowieckie",Biuro nieruchomości
-102,Wyjątkowy apartament w świetnej lokalizacji w stan,3 266 000 ,24 015 ,5 pokoi136 m²,,"Wierzbno, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
+102,Wyjątkowy apartament w świetnej lokalizacji w stan,3 266 000 ,24 015 ,5 ,136  ,"Wierzbno, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
 103,2 pok. mieszkanie. Wysoki standart z ogródkiem,650 000 ,16 319 ,2 ,39.83  ,"ul. Jasiniec, Grodzisk, Białołęka, Warszawa, mazowieckie",Inwestycja deweloperska
 104,"3-pokojowe mieszkanie z ogródkiem, 57,1m2",610 000 ,10 683 ,3 ,57.1  ,"Grodzisk, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
 105,2 pokoje/51m2/Praga-Północ,667 000 ,12 989 ,2 ,51.35  ,"Nowa Praga, Praga-Północ, Warszawa, mazowieckie",Biuro nieruchomości
@@ -115,7 +115,7 @@
 113,Zjawiskowe mieszkanie z 2 tarasami w sercu miasta,1 890 000 ,17 495 ,3 ,108.03  ,"ul. Rogalińska, Czyste, Wola, Warszawa, mazowieckie",Biuro nieruchomości
 114,"tuż obok starówki, Metro Uniwersytet",1 000 000 ,21 231 ,2 ,47.1  ,"ul. Mikołaja Kopernika, Śródmieście Północne, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
 115,Osiedle przy Arkadii /4-pok. apartament do wejścia,2 000 000 ,21 815 ,4 ,91.68  ,"ul. Burakowska, Powązki, Wola, Warszawa, mazowieckie",Biuro nieruchomości
-116,"Luksusowy apartament z ogrodem 205 m2, jak dom.",3 600 000 ,25 751 ,5 pokoi139.8 m²,,"ul. Międzynarodowa, Saska Kępa, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
+116,"Luksusowy apartament z ogrodem 205 m2, jak dom.",3 600 000 ,25 751 ,5 ,139.8  ,"ul. Międzynarodowa, Saska Kępa, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
 117,Wyjątkowy apartament z kominkiem i ogrodem Wilanów,1 990 000 ,12 922 ,4 ,154  ,"ul. Zapłocie, Powsin, Wilanów, Warszawa, mazowieckie",Biuro nieruchomości
 118,"Nowe 4-pok, wanna i prysznic!Ul.Bokserska,Mokotów!",1 599 000 ,19 620 ,4 ,81.5  ,"ul. Bokserska, Wyczółki, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
 119,Przy Parku Górczewska i stacji metra Bemowo!,768 000 ,16 000 ,2 ,48  ,"Górce, Bemowo, Warszawa, mazowieckie",Biuro nieruchomości
@@ -137,7 +137,7 @@
 135,Jasne 4 pokojowe mieszkanie w zielonej części Woli,1 670 058 ,16 900 ,4 ,98.82  ,"ul. Józefa Sowińskiego, Ulrychów, Wola, Warszawa, mazowieckie",Biuro nieruchomości
 136,"Piękne 3 pok. mieszkanie na Tarchomie, unikalne",725 000 ,12 845 ,3 ,56.44  ,"Tarchomin, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
 137,Designerskie mieszkanie na Szczęśliwicach,2 657 066 ,28 900 ,3 ,91.94  ,"ul. Lutniowa, Szczęśliwice, Ochota, Warszawa, mazowieckie",Biuro nieruchomości
-138,Apartament z ogródkiem 450 mkw (!!!),3 560 000 ,17 962 ,5 pokoi198.2 m²,,"ul. Jana Kochanowskiego, Huta, Bielany, Warszawa, mazowieckie",Biuro nieruchomości
+138,Apartament z ogródkiem 450 mkw (!!!),3 560 000 ,17 962 ,5 ,198.2  ,"ul. Jana Kochanowskiego, Huta, Bielany, Warszawa, mazowieckie",Biuro nieruchomości
 139,Jasne mieszkanie z 40-metrowym balkonem,1 690 000 ,17 245 ,4 ,98  ,"ul. Wrzeciono, Wrzeciono, Bielany, Warszawa, mazowieckie",Biuro nieruchomości
 140,OKAZJA Mieszkanie 3-pok Garaż Piwnica BEZPOŚREDNIO,950 000 ,15 273 ,3 ,62.2  ,"ul. Młynarska, Młynów, Wola, Warszawa, mazowieckie",Biuro nieruchomości
 141,3 pokojowe mieszkanie z klimatyzacją dla rodziny,1 350 000 ,18 544 ,3 ,72.8  ,"Fort Bema, Bemowo, Warszawa, mazowieckie",Biuro nieruchomości
@@ -176,7 +176,7 @@
 174,"55m2, 3 pokoje, Dywizjonu 303 Bemowo do negocjacji",950 000 ,17 273 ,3 ,55  ,"Dywizjonu 303 139, Górce, Bemowo, Warszawa, mazowieckie",Biuro nieruchomości
 175,2 pokoje tuż przy PARKU! idealne na wynajem!,550 000 ,20 333 ,2 ,27.05  ,"ul. Emanuela Ringelbluma, Koło, Wola, Warszawa, mazowieckie",Biuro nieruchomości
 176,21m+ taras 30m_!_Apartament z najemcą_3.500zł m-ce,340 000 ,16 190 ,1 ,21  ,"al. Aleje Jerozolimskie, Raków, Włochy, Warszawa, mazowieckie",Biuro nieruchomości
-177,"Segment trzypoziomowy 143m2, NAJLEPSZA LOKALIZACJA",750 000 ,5245 ,5 pokoi143 m²,,"Zacisze, Targówek, Warszawa, mazowieckie",Inwestycja deweloperska
+177,"Segment trzypoziomowy 143m2, NAJLEPSZA LOKALIZACJA",750 000 ,5245 ,5 ,143  ,"Zacisze, Targówek, Warszawa, mazowieckie",Inwestycja deweloperska
 178,3 pokoje. 500 metrów od metra Bemowo i parku,1 350 000 ,18 493 ,3 ,73  ,"ul. Powstańców Śląskich 65A, Górce, Bemowo, Warszawa, mazowieckie",Biuro nieruchomości
 179,"Dwa oddzielne pokoje, widna kuchnia, ul. Koszykowa",900 000 ,19 502 ,2 ,46.15  ,"ul. Koszykowa, Śródmieście Południowe, Śródmieście, Warszawa, mazowieckie",Inwestycja deweloperska
 180,Apartament 127m2 na Powiślu vis a vis Parku,2 890 000 ,22 756 ,4 ,127  ,"ul. Czerniakowska, Solec, Śródmieście, Warszawa, mazowieckie",Inwestycja deweloperska
@@ -185,7 +185,7 @@
 183,Brzeziny Residence | nowe mieszkanie A22,684 200 ,8834 ,3 ,77.45  ,"ul. Brzeziny, Brzeziny, Białołęka, Warszawa, mazowieckie",Inwestycja deweloperska
 184,PRZESTRONNE 2-pokoje || II piętro || Płochocińska,"581 243,50 ",8886 ,2 ,65.41  ,"ul. Płochocińska, Szamocin, Białołęka, Warszawa, mazowieckie",Inwestycja deweloperska
 185,Willa Fiore | nowy apartament nr 2,2 880 000 ,23 022 ,4 ,125.1  ,"ul. Chlewińska, Marymont-Kaskada, Bielany, Warszawa, mazowieckie",Inwestycja deweloperska
-186,Osiedle Tawułkowa | piętro + poddasze 158m2 | 10D,699 000 ,4424 ,5 pokoi158 m²,,"ul. Tawułkowa, Miedzeszyn, Wawer, Warszawa, mazowieckie",Biuro nieruchomości
+186,Osiedle Tawułkowa | piętro + poddasze 158m2 | 10D,699 000 ,4424 ,5 ,158  ,"ul. Tawułkowa, Miedzeszyn, Wawer, Warszawa, mazowieckie",Biuro nieruchomości
 187,Lokal w kamienicy Brzeska 18 | U5,761 700 ,10 473 ,3 ,72.73  ,"ul. Brzeska, Stara Praga, Praga-Północ, Warszawa, mazowieckie",Biuro nieruchomości
 188,3-pokojowe mieszkanie 68m2 + loggia Bez Prowizji,1 082 472 ,15 900 ,3 ,68.08  ,"ul. Bluszczańska, Siekierki, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
 189,4-pokojowe mieszkanie 74m2 + 2 balkony,Zapytaj o cenę4 pokoje74.07 m²,,,,"Wschodu Słońca, Raków, Włochy, Warszawa, mazowieckie",Biuro nieruchomości
@@ -230,11 +230,11 @@
 228,Piękny i nowoczesny penthouse z zadaszonym tarasem,2 490 000 ,23 491 ,4 ,106  ,"ul. Bruzdowa, Zawady, Wilanów, Warszawa, mazowieckie",Biuro nieruchomości
 229,Luksusowe i klimatyczne 3 pokoje z balkonem,990 000 ,15 128 ,3 ,65.44  ,"ul. Marywilska, Żerań, Białołęka, Warszawa, mazowieckie",Inwestycja deweloperska
 230,BEZPOŚREDNIO |GOTOWE do wprowadzenia |3pok|bez PCC,660 000 ,13 200 ,3 ,50  ,"Białołęka Dworska, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
-231,Luksusowy penthouse | 2 tarasy | Klimatyzacja,4 200 000 ,26 415 ,5 pokoi159 m²,,"ul. Relaksowa, Kabaty, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
+231,Luksusowy penthouse | 2 tarasy | Klimatyzacja,4 200 000 ,26 415 ,5 ,159  ,"ul. Relaksowa, Kabaty, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
 232,Przy Parku Szczęśliwickim | 3 miejsca parkingowe,4 500 000 ,39 130 ,4 ,115  ,"ul. Maszynowa, Szczęśliwice, Ochota, Warszawa, mazowieckie",Biuro nieruchomości
 233,"Apartament w kamienicy,klimatyzacja, parking,basen",3 800 000 ,46 914 ,3 ,81  ,"ul. Hoża, Śródmieście Południowe, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
 234,"Metro Świętokrzyska | Klimatyzacja, parking",1 900 000 ,23 750 ,4 ,80  ,"ul. Marszałkowska, Śródmieście Południowe, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
-235,"Apartament z tarasem na dachu, Stary Wilanów",5 551 357 ,18 989 ,5 pokoi292.34 m²,,"ul. Rumiana, Wilanów Niski, Wilanów, Warszawa, mazowieckie",Biuro nieruchomości
+235,"Apartament z tarasem na dachu, Stary Wilanów",5 551 357 ,18 989 ,5 ,292.34  ,"ul. Rumiana, Wilanów Niski, Wilanów, Warszawa, mazowieckie",Biuro nieruchomości
 236,3-pokojowe mieszkanie 68m2 + loggia Bezpośrednio,Zapytaj o cenę3 pokoje68.97 m²,,,,"al. Aleja Krakowska, Raków, Włochy, Warszawa, mazowieckie",Biuro nieruchomości
 237,"2-pok na Żupniczej + garaż, bezpośrednio. Metro M3",699 000 ,18 208 ,2 ,38.39  ,"Kamionek, Grochów, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
 238,z windą | po generalnym remoncie | Saska Kępa,679 000 ,17 455 ,2 ,38.9  ,"ul. Zwycięzców, Saska Kępa, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
@@ -246,7 +246,7 @@
 244,3 pok/ taras/ wysoki standard,849 000 ,13 163 ,3 ,64.5  ,"ul. Magnacka, Gołąbki, Ursus, Warszawa, mazowieckie",Biuro nieruchomości
 245,3 pok/narożne/wysoki standard/blisko parku,1 100 000 ,15 493 ,3 ,71  ,"ul. Wylot, Stare Włochy, Włochy, Warszawa, mazowieckie",Biuro nieruchomości
 246,Mieszkanie o pow. 73 mkw / 2 miejsca postojowe,1 089 000 ,15 050 ,3 ,72.36  ,"ul. Jana Kazimierza, Odolany, Wola, Warszawa, mazowieckie",Biuro nieruchomości
-247,107 m2 w Kamienicy na Starym Żoliborzu,2 160 000 ,20 162 ,5 pokoi107.13 m²,,"Śródmieście Północne, Śródmieście, Warszawa, mazowieckie",Inwestycja deweloperska
+247,107 m2 w Kamienicy na Starym Żoliborzu,2 160 000 ,20 162 ,5 ,107.13  ,"Śródmieście Północne, Śródmieście, Warszawa, mazowieckie",Inwestycja deweloperska
 248,Kawalerka z oddzielną kuchnią do remontu/ Metro,539 000 ,15 356 ,1 ,35.1  ,"ul. Żytnia, Młynów, Wola, Warszawa, mazowieckie",Biuro nieruchomości
 249,Mieszkanie do remontu w zabytkowej kamienicy,669 000 ,16 317 ,2 ,41  ,"ul. Górczewska, Młynów, Wola, Warszawa, mazowieckie",Biuro nieruchomości
 250,4-pokojowe mieszkanie 103m2 + taras Bez Prowizji,3 340 440 ,32 344 ,4 ,103.28  ,"ul. Mariana Zdziechowskiego, Ksawerów, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
@@ -281,7 +281,7 @@
 279,Sosnkowskiego 14 | piwnica,389 000 ,15 467 ,1 ,25.15  ,"ul. gen. Kazimierza Sosnkowskiego, Czechowice, Ursus, Warszawa, mazowieckie",Biuro nieruchomości
 280,4-pokojowe mieszkanie 93m2 + loggia,1 851 000 ,19 767 ,4 ,93.64  ,"ul. Domaniewska 24, Ksawerów, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
 281,"Okazja! Przestronne, 67m2 z balkonem",1 149 000 ,17 149 ,2 ,67  ,"ul. Bluszczańska, Siekierki, Mokotów, Warszawa, mazowieckie",Inwestycja deweloperska
-282,"narożne, ustawne, w dogodnej lokalizacji",899 000 ,10 963 ,5 pokoi82 m²,,"ul. Julianowska, Bródno, Targówek, Warszawa, mazowieckie",Biuro nieruchomości
+282,"narożne, ustawne, w dogodnej lokalizacji",899 000 ,10 963 ,5 ,82  ,"ul. Julianowska, Bródno, Targówek, Warszawa, mazowieckie",Biuro nieruchomości
 283,"Bezpośrednio Kabaty 55m2, metro, z najemcą lub bez",930 000 ,16 845 ,2 ,55.21  ,"Al. KEN 26, Kabaty, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
 284,Mieszkanie do wynajęcia Plac na Rozdrożu,1 300 000 ,22 034 ,4 ,59  ,"pl. Plac Na Rozdrożu, Młynów, Wola, Warszawa, mazowieckie",Inwestycja deweloperska
 285,Piękne mieszkanie w centrum Warszawy przy Metrze,849 000 ,19 295 ,3 ,44  ,"ul. Sienna 66, Ulrychów, Wola, Warszawa, mazowieckie",Biuro nieruchomości
@@ -291,7 +291,7 @@
 289,2-pokoje (52m2)⭑garderoba oraz miejsce parkingowe⭑,614 000 ,11 785 ,2 ,52.1  ,"ul. Książkowa, Nowodwory, Białołęka, Warszawa, mazowieckie",Inwestycja deweloperska
 290,"2 pokoje+ widna kuchnia, ul. Podskarbińska",756 000 ,13 012 ,2 ,58.1  ,"ul. Podskarbińska, Grochów, Praga-Południe, Warszawa, mazowieckie",Inwestycja deweloperska
 291,Małe mieszkanie przy Alejach Jerezolimskich,567 469 ,36 ,2 ,15650  ,"al. Aleje Jerozolimskie, Stare Włochy, Włochy, Warszawa, mazowieckie",Biuro nieruchomości
-292,5-pokojowe mieszkanie 113m2 + taras,2 777 500 ,24 545 ,5 pokoi113.16 m²,,"ul. Sławińska, Czyste, Wola, Warszawa, mazowieckie",Biuro nieruchomości
+292,5-pokojowe mieszkanie 113m2 + taras,2 777 500 ,24 545 ,5 ,113.16  ,"ul. Sławińska, Czyste, Wola, Warszawa, mazowieckie",Biuro nieruchomości
 293,4-pokojowe mieszkanie 85m2 + balkon,1 620 984 ,18 970 ,4 ,85.45  ,"ul. Sławińska, Czyste, Wola, Warszawa, mazowieckie",Biuro nieruchomości
 294,"Doskonałe 3 pokoje, ogródek, 2x garaż, klimatyzacj",699 500 ,16 036 ,3 ,43.62  ,"ul. Szlachecka, Brzeziny, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
 295,"Zwrot 5,6 tys./msc. / Gotowiec / Fv bez Pcc",529 999 ,21 200 ,1 ,25  ,"ul. Wolska, Odolany, Wola, Warszawa, mazowieckie",Biuro nieruchomości
@@ -381,7 +381,7 @@
 379,2 pokoje z balkonem w centrum Warszawy! Metro,1 100 000 ,22 449 ,2 ,49  ,"ul. Zgoda, Śródmieście Północne, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
 380,Unikat | taras 80 m2 widok na Park Szczęśliwicki,1 000 000 ,16 260 ,2 ,61.5  ,"ul. Opaczewska, Szczęśliwice, Ochota, Warszawa, mazowieckie",Biuro nieruchomości
 381,"Dwa pokoje, dwustronne, w centrum Mokotowa",950 000 ,15 940 ,3 ,59.6  ,"ul. Domaniewska, Ksawerów, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
-382,"Apartament Premium, Warszawa, Wawer 120m2",1 590 000 ,13 185 ,5 pokoi120.59 m²,,"ul. Garncarska, Miedzeszyn, Wawer, Warszawa, mazowieckie",Biuro nieruchomości
+382,"Apartament Premium, Warszawa, Wawer 120m2",1 590 000 ,13 185 ,5 ,120.59  ,"ul. Garncarska, Miedzeszyn, Wawer, Warszawa, mazowieckie",Biuro nieruchomości
 383,4-pok. mieszkanie przy Kępie Potockiej!,955 000 ,12 239 ,4 ,78.03  ,"ul. Tylżycka, Marymont-Potok, Żoliborz, Warszawa, mazowieckie",Inwestycja deweloperska
 384,"Przytulny 2-pokojowy apartament, Wilanów!",990 000 ,15 483 ,2 ,63.94  ,"ul. Prymasa Augusta Hlonda, Błonia Wilanowskie, Wilanów, Warszawa, mazowieckie",Biuro nieruchomości
 385,Dwupokojowe mieszkanie na warszawskim Gocławiu!,730 000 ,15 272 ,2 ,47.8  ,"ul. Jugosłowiańska, Gocław, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
@@ -412,8 +412,8 @@
 410,3 pokojowe mieszkanie w sercu Śródmieścia Płd.,1 050 000 ,18 421 ,3 ,57  ,"Stara Miłosna, Wesoła, Warszawa, mazowieckie",Biuro nieruchomości
 411,"Atrakcyjne i przytulne 37,2m2 na Ochocie",750 000 ,20 161 ,3 ,37.2  ,"ul. Jasielska, Rakowiec, Ochota, Warszawa, mazowieckie",Biuro nieruchomości
 412,Mieszkanie w kamienicy !!!,940 000 ,22 916 ,1 ,41.02  ,"Śródmieście Południowe, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
-413,Luksusowy apartament - Stary Mokotów,3 499 999 ,21 875 ,6 pokoi160 m²,,"al. Aleja Niepodległości, Stary Mokotów, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
-414,"Ostatni DOM z ogrodem 88,4 m2 + 2 parking Pompa",917 000 ,10 373 ,5 pokoi88.4 m²,,"ul. Poprawna, Las, Wawer, Warszawa, mazowieckie",Biuro nieruchomości
+413,Luksusowy apartament - Stary Mokotów,3 499 999 ,21 875 ,6 ,160  ,"al. Aleja Niepodległości, Stary Mokotów, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
+414,"Ostatni DOM z ogrodem 88,4 m2 + 2 parking Pompa",917 000 ,10 373 ,5 ,88.4  ,"ul. Poprawna, Las, Wawer, Warszawa, mazowieckie",Biuro nieruchomości
 415,Kawalerka Wraszawa Wola,480 000 ,17 778 ,1 ,27  ,"ul. Miła, Nowolipki, Wola, Warszawa, mazowieckie",Biuro nieruchomości
 416,Sprzedam 3-pokojowe mieszkanie Kłobucka 6A,1 200 000 ,17 647 ,3 ,68  ,"ul. Kłobucka, Wyczółki, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
 417,Innowacyjne | 2 pokoje | Rytm Kabaty | Warszawa,923 505 ,19 240 ,2 ,48  ,"al. Aleja Komisji Edukacji Narodowej, Ursynów-Centrum, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
@@ -437,10 +437,10 @@
 435,"3 pokoje, cisza, zieleń",689 000 ,11 483 ,3 ,60  ,"ul. Józsefa Antalla, Tarchomin, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
 436,Bezpośrednio Mokotów 2 pokoje po remoncie,649 000 ,17 541 ,2 ,37  ,"ul. Wiartel, Służew, Mokotów, Warszawa, mazowieckie",Inwestycja deweloperska
 437,Mieszkanie - Warszawa Mokotów Sadyba,1 045 000 ,11 484 ,3 ,91  ,"ul. Bolesława Limanowskiego, Sadyba, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
-438,Mieszkanie - Warszawa Praga-Północ,3 700 000 ,25 318 ,5 pokoi146.14 m²,,"Szmulowizna, Praga-Północ, Warszawa, mazowieckie",Biuro nieruchomości
+438,Mieszkanie - Warszawa Praga-Północ,3 700 000 ,25 318 ,5 ,146.14  ,"Szmulowizna, Praga-Północ, Warszawa, mazowieckie",Biuro nieruchomości
 439,"Mieszkanie 28m2, 1 piętro, winda, ochrona, balkon",385 000 ,13 750 ,1 ,28  ,"ul. Bazyliańska 8, Bródno, Targówek, Warszawa, mazowieckie",Biuro nieruchomości
 440,Trzypokojowe mieszkania od dewelopera BEZ PROWIZJI,683 700 ,12 900 ,3 ,53  ,"ul. Aluzyjna, Nowodwory, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
-441,Mokotów - Bartycka | 5 pokoi | kominek | klima,1 595 000 ,11 386 ,5 pokoi140.08 m²,,"ul. Bartycka, Siekierki, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
+441,Mokotów - Bartycka | 5 pokoi | kominek | klima,1 595 000 ,11 386 ,5 ,140.08  ,"ul. Bartycka, Siekierki, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
 442,W-wa Apartament otulina Las Kabacki (ogród+garaż),950 000 ,12 462 ,3 ,76.23  ,"ul. Osiedlowa, Józefosław, Piaseczno, piaseczyński, mazowieckie",Biuro nieruchomości
 443,4 pokoje blisko metra,775 000 ,11 742 ,4 ,66  ,"ul. Edwarda Dembowskiego, Ursynów Północny, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
 444,Nowoczesne mieszkanie na nowym osiedlu,880 000 ,13 643 ,3 ,64.5  ,"ul. Myśliborska, Żerań, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
@@ -521,7 +521,7 @@
 519,Brzeziny Residence | ustawne mieszkanie A13,640 464 ,8800 ,3 ,72.78  ,"ul. Brzeziny, Brzeziny, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
 520,Ustawne 4-pokojowe mieszkanie Białołęka,910 700 ,8527 ,4 ,106.8  ,"ul. Płochocińska, Szamocin, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
 521,Willa Fiore | nowy apartament nr 3,1 999 000 ,28 549 ,3 ,70.02  ,"ul. Chlewińska, Marymont-Kaskada, Bielany, Warszawa, mazowieckie",Biuro nieruchomości
-522,Osiedle Tawułkowa | piętro + poddasze 158m2 | 15D,699 000 ,4424 ,5 pokoi158 m²,,"ul. Tawułkowa, Miedzeszyn, Wawer, Warszawa, mazowieckie",Biuro nieruchomości
+522,Osiedle Tawułkowa | piętro + poddasze 158m2 | 15D,699 000 ,4424 ,5 ,158  ,"ul. Tawułkowa, Miedzeszyn, Wawer, Warszawa, mazowieckie",Biuro nieruchomości
 523,Dwupoziomowe mieszkanie przy Parku Ujazdowskim,799 000 ,15 980 ,2 ,50  ,"al. Aleja Wyzwolenia, Śródmieście Południowe, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
 524,Przestronne 3 pokoje w doskonałej lokalizacji,1 010 000 ,13 237 ,3 ,76.3  ,"ul. Kobielska, Grochów, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
 525,Unikatowy apartament 116m2 w kamienicy na Powiślu,3 100 000 ,26 724 ,4 ,116  ,"ul. Radna, Powiśle, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
@@ -535,12 +535,12 @@
 533,Kawalerka na Powiślu!,489 000 ,17 279 ,1 ,28.3  ,"al. Aleja 3 Maja, Solec, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
 534,"Luksusowy, cichy apartament w centrum 100m2",2 950 000 ,29 500 ,4 ,100  ,"ul. Skierniewicka, Czyste, Wola, Warszawa, mazowieckie",Biuro nieruchomości
 535,Plac Konstytucji 3 pokoje,1 390 000 ,23 559 ,3 ,59  ,"Śródmieście Południowe, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
-536,Mieszkanie na sprzedaż Warszawa Bemowo Lazurowa,1 150 000 ,9350 ,5 pokoi123 m²,,"ul. Lazurowa, Jelonki Północne, Bemowo, Warszawa, mazowieckie",Biuro nieruchomości
+536,Mieszkanie na sprzedaż Warszawa Bemowo Lazurowa,1 150 000 ,9350 ,5 ,123  ,"ul. Lazurowa, Jelonki Północne, Bemowo, Warszawa, mazowieckie",Biuro nieruchomości
 537,"Mieszkanie 2 pokojowe, Niedźwiadek, bezpośrednio",490 000 ,12 895 ,2 ,38  ,"ul. Stanisława Wojciechowskiego, Niedźwiadek, Ursus, Warszawa, mazowieckie",Biuro nieruchomości
 538,"Cesja, Nowa Kawalerka na Włochach z dużym balkonem",455 000 ,17 112 ,1 ,26.59  ,"Salomea, Włochy, Warszawa, mazowieckie",Biuro nieruchomości
 539,"Cesja, 2022 Mieszkanie 2 pok z balkonem 10m2",680 000 ,15 044 ,2 ,45.2  ,"Salomea, Włochy, Warszawa, mazowieckie",Biuro nieruchomości
 540,"55m2, 3 pokoje, Dywizjonu 303 Bemowo do negocjacji",950 000 ,17 273 ,3 ,55  ,"Dywizjonu 303 139, Górce, Bemowo, Warszawa, mazowieckie",Biuro nieruchomości
-541,Dwupiętrowy apartament z dużym tarasem,2 000 000 ,16 000 ,5 pokoi125 m²,,"Gocław, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
+541,Dwupiętrowy apartament z dużym tarasem,2 000 000 ,16 000 ,5 ,125  ,"Gocław, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
 542,Nowy apartament z widokiem na Tor Wyścigów Konnych,2 095 800 ,26 596 ,3 ,78.8  ,"Służew, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
 543,Nowy i Ekskluzywny apartament na Mokotowie | 82m2,1 870 000 ,22 805 ,3 ,82  ,"Sadyba, Mokotów, Warszawa, mazowieckie",Inwestycja deweloperska
 544,Melody Park Ul. Puławska 257 - Garaż Podziemny,2 050 000 ,18 647 ,4 ,109.94  ,"ul. Puławska, Służew, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
@@ -549,7 +549,7 @@
 547,"MIESZKANIE Włochy, 4 pok, 2 łaz., kuchnia, piwnica",865 000 ,9830 ,4 ,88  ,"ul. Solipska 33, Okęcie, Włochy, Warszawa, mazowieckie",Biuro nieruchomości
 548,3 oddzielne pokoje po remoncie z Kw,749 000 ,15 936 ,3 ,47  ,"ul. św. Bonifacego, Sadyba, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
 549,Kamienica/Metro 5 min/Widna kuchnia/Piwnica/Cisza,555 000 ,16 818 ,1 ,33  ,"ul. Antoniego Edwarda Odyńca, Wierzbno, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
-550,Seg. skrajny+strych+działka+ taras+ balkon+garaż,1 200 000 ,8293 ,5 pokoi144.7 m²,,"ul. Natalii Gąsiorowskiej, Nowodwory, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
+550,Seg. skrajny+strych+działka+ taras+ balkon+garaż,1 200 000 ,8293 ,5 ,144.7  ,"ul. Natalii Gąsiorowskiej, Nowodwory, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
 551,Kameralna Okolica I Niska Zabudowa I Apartament,960 000 ,22 294 ,2 ,43.06  ,"Szczęśliwice, Ochota, Warszawa, mazowieckie",Biuro nieruchomości
 552,Apartament na słonecznych Regatach,545 000 ,11 978 ,2 ,45.5  ,"ul. Flisaków 4, Kobiałka, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
 553,Eco Home/2 pokoje po remoncie blisko metra.,699 000 ,21 182 ,2 ,33  ,"ul. Młynarska 25B, Młynów, Wola, Warszawa, mazowieckie",Biuro nieruchomości
@@ -572,7 +572,7 @@
 570,"4-pokojowe mieszkanie , dwa duże tarasy.",1 075 000 ,9066 ,4 ,118.57  ,"ul. Winorośli, Nowodwory, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
 571,"Bezpośrednio, 3pok. 58m2, umeblowane, winda, garaż",696 000 ,11 996 ,3 ,58.02  ,"Kobiałka, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
 572,4-POKOJOWE MIESZKANIE II piętro ul. Ostródzka,633 491 ,8764 ,4 ,72.28  ,"ul. Ostródzka, Brzeziny, Białołęka, Warszawa, mazowieckie",Inwestycja deweloperska
-573,Seg. środkowy+strych+działka+ taras+ balkon+garaż,950 000 ,6565 ,5 pokoi144.7 m²,,"ul. Natalii Gąsiorowskiej, Nowodwory, Białołęka, Warszawa, mazowieckie",Inwestycja deweloperska
+573,Seg. środkowy+strych+działka+ taras+ balkon+garaż,950 000 ,6565 ,5 ,144.7  ,"ul. Natalii Gąsiorowskiej, Nowodwory, Białołęka, Warszawa, mazowieckie",Inwestycja deweloperska
 574,Trzy niezależne pokoje -Metro Ursynów!,799 950 ,12 752 ,3 ,62.73  ,"ul. Symfonii, Ursynów Północny, Ursynów, Warszawa, mazowieckie",Inwestycja deweloperska
 575,Komfortowe mieszkanie blisko metra Kabaty,1 620 000 ,16 331 ,4 ,99.2  ,"ul. Wąwozowa, Kabaty, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
 576,Gotowy Apartament-z meblami-Klimatyzacja-Recepcja,435 000 ,13 594 ,1 ,32  ,"Okęcie, Włochy, Warszawa, mazowieckie",Biuro nieruchomości
@@ -593,7 +593,7 @@
 591,2 pokoje + ogrodek na Białołęce na sprzedaz,675 000 ,12 617 ,2 ,53.5  ,"Kobiałka, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
 592,Mieszkanie - Warszawa Żoliborz,520 000 ,16 144 ,1 ,32.21  ,"ul. Gwiaździsta, Marymont-Potok, Żoliborz, Warszawa, mazowieckie",Biuro nieruchomości
 593,Mieszkanie - Warszawa Włochy,663 000 ,14 668 ,2 ,45.2  ,"ul. Jutrzenki, Salomea, Włochy, Warszawa, mazowieckie",Biuro nieruchomości
-594,Lokal mieszkalny w Wesołej,830 000 ,10 375 ,5 pokoi80 m²,,"1-go Praskiego Pułku 25, Wesoła-Centrum, Wesoła, Warszawa, mazowieckie",Biuro nieruchomości
+594,Lokal mieszkalny w Wesołej,830 000 ,10 375 ,5 ,80  ,"1-go Praskiego Pułku 25, Wesoła-Centrum, Wesoła, Warszawa, mazowieckie",Biuro nieruchomości
 595,Duze Słoneczne Mieszkanie Stara Miłosna,799 000 ,7990 ,4 ,100  ,"ul. Rumiankowa, Stara Miłosna, Wesoła, Warszawa, mazowieckie",Biuro nieruchomości
 596,Cicha Super Lokalizacja,799 000 ,9400 ,3 ,85  ,"ul. Fabryczna, Stara Miłosna, Wesoła, Warszawa, mazowieckie",Inwestycja deweloperska
 597,"3 pokoje, Mokotów, Ul. Gierymskiego, Łazienki",746 000 ,12 900 ,3 ,57.83  ,"ul. Aleksandra Gierymskiego, Sielce, Mokotów, Warszawa, mazowieckie",Inwestycja deweloperska
@@ -614,7 +614,7 @@
 612,"Idealnie ciche, rozkładowe dwa pokoje !",873 000 ,19 973 ,3 ,43.71  ,"al. Aleja Rzeczypospolitej, Błonia Wilanowskie, Wilanów, Warszawa, mazowieckie",Biuro nieruchomości
 613,"Wyjątkowe, nowoczesne 3 pok.z 11m2 tarasem",1 120 000 ,18 667 ,3 ,60  ,"ul. Warzelnicza, Brzeziny, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
 614,"Nowoczesne, czteropokojowe mieszkanie na Mokotowie",1 680 000 ,18 788 ,4 ,89.42  ,"ul. Bokserska, Wyczółki, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
-615,250 m2 apartament z 300 m2 ogrodem - 4 m. garażowe,4 500 000 ,18 160 ,5 pokoi247.8 m²,,"al. Aleja Wilanowska, Stegny, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
+615,250 m2 apartament z 300 m2 ogrodem - 4 m. garażowe,4 500 000 ,18 160 ,5 ,247.8  ,"al. Aleja Wilanowska, Stegny, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
 616,Apartament na sprzedaż Galeria Park Top - Obrzeżna,1 130 000 ,18 783 ,2 ,60.16  ,"ul. Obrzeżna, Służewiec, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
 617,Przestronne mieszkanie na warszawskim Mokotowie,1 292 000 ,18 725 ,2 ,69  ,"ul. Odolańska, Stary Mokotów, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
 618,Nowe mieszkanie 4 pokojowe wykończone Mokotów,1 400 000 ,19 102 ,4 ,73.29  ,"ul. Bokserska, Wyczółki, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
@@ -694,14 +694,14 @@
 692,Wilanów - wyjątkowy apartament,1 845 360 ,23 300 ,3 ,79.2  ,"ul. Oś Królewska, Błonia Wilanowskie, Wilanów, Warszawa, mazowieckie",Biuro nieruchomości
 693,Mieszkanie 2 pokoje Ochota,699 000 ,19 417 ,2 ,36  ,"Szczęśliwice, Ochota, Warszawa, mazowieckie",Biuro nieruchomości
 694,"Przytulne 2 pokoje, parter, 47m2, garaż, 2%",677 000 ,14 404 ,2 ,47  ,"Stary Imielin, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
-695,Kamienica* 107M2 5 Pok.* Zaaranżuj Własne Wnętrze,1 350 000 ,12 640 ,5 pokoi106.8 m²,,"Stara Ochota, Ochota, Warszawa, mazowieckie",Biuro nieruchomości
+695,Kamienica* 107M2 5 Pok.* Zaaranżuj Własne Wnętrze,1 350 000 ,12 640 ,5 ,106.8  ,"Stara Ochota, Ochota, Warszawa, mazowieckie",Biuro nieruchomości
 696,Mieszkanie - Warszawa Wola Odolany,1 299 000 ,21 503 ,2 ,60.41  ,"ul. Marcina Kasprzaka, Odolany, Wola, Warszawa, mazowieckie",Biuro nieruchomości
 697,2 pok idealna inwestycja,502 000 ,10 681 ,2 ,47  ,"ul. Morelowa, Żerań, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
 698,"Mieszkanie 3 pokoje, ciche, słoneczne, po remoncie",749 000 ,12 504 ,3 ,59.9  ,"ul. Witolińska, Gocławek, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
 699,Apartament z balkonem i windą w kamienicy,1 490 000 ,33 972 ,2 ,43.86  ,"Śródmieście Południowe, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
 700,mieszkanie Włochy przy ul. al. Dwudziestolatków,700 000 ,16 018 ,2 ,43.7  ,"al. Aleja Dwudziestolatków, Okęcie, Włochy, Warszawa, mazowieckie",Biuro nieruchomości
 701,★★ Mieszkanie 38 m2 ★ Ursus Skorosze ★ 2023 ★★,619 000 ,16 367 ,1 ,37.82  ,"ul. Przy Forcie, Skorosze, Ursus, Warszawa, mazowieckie",Biuro nieruchomości
-702,"5-pok., dwupoziomowe mieszkanie na Zaciszu",950 000 ,7643 ,5 pokoi124.3 m²,,"ul. Uznamska, Zacisze, Targówek, Warszawa, mazowieckie",Biuro nieruchomości
+702,"5-pok., dwupoziomowe mieszkanie na Zaciszu",950 000 ,7643 ,5 ,124.3  ,"ul. Uznamska, Zacisze, Targówek, Warszawa, mazowieckie",Biuro nieruchomości
 703,2 mieszkania w 1! 3 pokoje i kawalerka Unikat,1 290 000 ,14 983 ,4 ,86.1  ,"ul. Nałęczowska, Sadyba, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
 704,Lokal biurowy - perełka w samym centrum Warszawy,751 424 ,19 900 ,2 ,37.76  ,"ul. Wspólna, Śródmieście Południowe, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
 705,"Perfekcyjne dwa pokoje, wysoki standard",1 350 000 ,32 397 ,2 ,41.67  ,"Nowolipki, Wola, Warszawa, mazowieckie",Biuro nieruchomości
@@ -711,7 +711,7 @@
 709,"3 pok. mieszkanie, 69 m, Metro Targów Mieszk.KW",880 000 ,12 754 ,3 ,69  ,"Targówek Mieszkaniowy, Targówek, Warszawa, mazowieckie",Biuro nieruchomości
 710,Bezpośrednio Nowoczesny 4-p Apartament LESZCZYNY,2 450 000 ,18 008 ,4 ,136.05  ,"ul. Leszczyny 4, Stegny, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
 711,Nowy etap osiedla na Marysinie Wawerskim,943 200 ,13 100 ,3 ,72  ,"Marysin Wawerski, Wawer, Warszawa, mazowieckie",Biuro nieruchomości
-712,Długo oczekiwana inwestycja w centrum Woli,2 777 500 ,24 545 ,5 pokoi113.16 m²,,"Czyste, Wola, Warszawa, mazowieckie",Biuro nieruchomości
+712,Długo oczekiwana inwestycja w centrum Woli,2 777 500 ,24 545 ,5 ,113.16  ,"Czyste, Wola, Warszawa, mazowieckie",Biuro nieruchomości
 713,Zaciszny apartament przy lesie - Nowy Rembertów,799 000 ,10 031 ,3 ,79.65  ,"Nowy Rembertów, Rembertów, Warszawa, mazowieckie",Biuro nieruchomości
 714,Ekskluzywny apartamentowiec na Kabatach,"915 461,40 ",20 276 ,2 ,45.15  ,"Kabaty, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
 715,Nowy apartamentowiec na Kabatach,1 259 700 ,18 374 ,3 ,68.56  ,"Kabaty, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
@@ -722,7 +722,7 @@
 720,Blisko Metro- Cicho- Po remoncie 2023- Balkon,615 000 ,13 085 ,2 ,47  ,"ul. Krasnobrodzka, Bródno, Targówek, Warszawa, mazowieckie",Biuro nieruchomości
 721,2 pokoje z dużym ogródkiem,915 000 ,15 941 ,2 ,57.4  ,"ul. św. Urszuli Ledóchowskiej, Błonia Wilanowskie, Wilanów, Warszawa, mazowieckie",Biuro nieruchomości
 722,2 pokoje/ przestronne/ Miasteczko Wilanów,1 080 000 ,16 590 ,2 ,65.1  ,"ul. św. Urszuli Ledóchowskiej, Błonia Wilanowskie, Wilanów, Warszawa, mazowieckie",Biuro nieruchomości
-723,bez prowizji/ taras/ blisko metra/ 5 pokoi,2 679 380 ,22 000 ,5 pokoi121.79 m²,,"ul. Puławska, Służew, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
+723,bez prowizji/ taras/ blisko metra/ 5 pokoi,2 679 380 ,22 000 ,5 ,121.79  ,"ul. Puławska, Służew, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
 724,3pokoje /klimatyczna kamienica/ piekny widok,2 500 000 ,27 174 ,3 ,92  ,"ul. Cecylii Śniegockiej, Solec, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
 725,Topowa lokalizacja! Mieszkanie z potencjałem!,1 250 000 ,18 382 ,4 ,68  ,"ul. Topiel, Powiśle, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
 726,3 pokoje/ wysoki standard/ 2 łazienki,1 600 000 ,18 391 ,3 ,87  ,"Błonia Wilanowskie, Wilanów, Warszawa, mazowieckie",Biuro nieruchomości
@@ -755,7 +755,7 @@
 753,Nowa kameralna inwestycja na Saskiej Kępie,2 100 000 ,29 515 ,3 ,71.15  ,"ul. Międzynarodowa, Saska Kępa, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
 754,"3 pokojowe mieszkanie, Osiedle Nowa Grochowska",1 230 000 ,19 147 ,3 ,64.24  ,"ul. Kokoryczki, Gocławek, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
 755,2 pok w wysokim standardzie Balkon Cicho WUM,770 000 ,18 510 ,2 ,41.6  ,"Szczęśliwice, Ochota, Warszawa, mazowieckie",Biuro nieruchomości
-756,Topowy apartament na ostatnim piętrze z tarasem.,2 099 000 ,19 349 ,5 pokoi108.48 m²,,"ul. Kruszyńska 40A, Jelonki Północne, Bemowo, Warszawa, mazowieckie",Biuro nieruchomości
+756,Topowy apartament na ostatnim piętrze z tarasem.,2 099 000 ,19 349 ,5 ,108.48  ,"ul. Kruszyńska 40A, Jelonki Północne, Bemowo, Warszawa, mazowieckie",Biuro nieruchomości
 757,Duży Balkon | Piwnica | Odrębna Własność,780 000 ,14 444 ,3 ,54  ,"Służew, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
 758,Super lokalizacja/Do wprowadzenia/Zielona okolica,790 000 ,15 019 ,2 ,52.6  ,"ul. Lucjana Rudnickiego, Piaski, Bielany, Warszawa, mazowieckie",Biuro nieruchomości
 759,Kawalerka | Przy Rynku Starego Miasta! |,600 000 ,27 027 ,1 ,22.2  ,"Nowe Miasto, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
@@ -764,8 +764,8 @@
 762,"Sprzedam 3-pokojowe, Wiślany Mokotów,55,4m2",1 100 000 ,19 852 ,3 ,55.41  ,"ul.Zgrupowania AK Jeleń 3, Siekierki, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
 763,Ciche mieszaknie dla rodziny na Białołęce,617 000 ,9074 ,3 ,68  ,"ul. Żeglugi Wiślanej, Kobiałka, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
 764,Nowe 3 pokoje ul. Grochowska - kup w kredycie 2%,765 000 ,16 051 ,3 ,47.66  ,"ul. Grochowska, Gocławek, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
-765,5 pokoi dla rodziny_Kabaty,2 400 500 ,18 931 ,5 pokoi126.8 m²,,"ul. Batystowa, Kabaty, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
-766,5 pokoi dla rodziny_Kabaty,1 864 800 ,15 385 ,5 pokoi121.21 m²,,"ul. Batystowa, Kabaty, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
+765,5 pokoi dla rodziny_Kabaty,2 400 500 ,18 931 ,5 ,126.8  ,"ul. Batystowa, Kabaty, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
+766,5 pokoi dla rodziny_Kabaty,1 864 800 ,15 385 ,5 ,121.21  ,"ul. Batystowa, Kabaty, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
 767,"Sarmacka 53 m2, balkon 8 m2 ! duża sypialnia",845 000 ,15 913 ,2 ,53.1  ,"ul. Sarmacka, Błonia Wilanowskie, Wilanów, Warszawa, mazowieckie",Biuro nieruchomości
 768,Mieszkanie na cele biurowe w Centrum,3 500 000 ,17 725 ,4 ,197.46  ,"Mirów, Wola, Warszawa, mazowieckie",Biuro nieruchomości
 769,Mieszkanie przy Łazienkach Królewskich,2 700 000 ,27 000 ,3 ,100  ,"Ujazdów, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
@@ -776,13 +776,13 @@
 774,Luksusowy apartament z zachwycającym widokiem,10 000 000 ,59 172 ,4 ,169  ,"ul. Złota, Śródmieście Północne, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
 775,Apartament w kamienicy,3 025 000 ,42 014 ,3 ,72  ,"Śródmieście Południowe, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
 776,Kamienica Centrum na cele biurowe i mieszkaniowe,4 750 800 ,30 000 ,4 ,158.36  ,"ul. Stanisława Noakowskiego, Śródmieście Południowe, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
-777,Apartament Pod Skocznią w stanie deweloperskim,3 500 000 ,19 444 ,5 pokoi180 m²,,"Stegny, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
-778,Penthouse przy Metrze Wilanowska,5 200 000 ,13 083 ,6 pokoi397.45 m²,,"ul. Bukowińska, Ksawerów, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
+777,Apartament Pod Skocznią w stanie deweloperskim,3 500 000 ,19 444 ,5 ,180  ,"Stegny, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
+778,Penthouse przy Metrze Wilanowska,5 200 000 ,13 083 ,6 ,397.45  ,"ul. Bukowińska, Ksawerów, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
 779,138m2 | 4 pokoje | Plac Unii Lubelskiej,2 623 520 ,19 000 ,4 ,138.08  ,"al. Aleja Jana Chrystiana Szucha, Śródmieście Południowe, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
 780,Apartament w odrestaurowanej kamienicy z garażem,5 845 000 ,35 000 ,4 ,167  ,"Śródmieście Południowe, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
 781,Apartament z ogrodem 324m2,4 600 000 ,27 350 ,4 ,168.19  ,"Stegny, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
-782,Dwupoziomowe mieszkanie | Przy Parku Łazienkowskim,2 600 000 ,13 131 ,6 pokoi198 m²,,"ul. Belwederska, Sielce, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
-783,Lokal biurowy w odrestaurowanej kamienicy.,3 899 000 ,15 690 ,7 pokoi248.5 m²,,"pl. Plac Unii Lubelskiej, Ujazdów, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
+782,Dwupoziomowe mieszkanie | Przy Parku Łazienkowskim,2 600 000 ,13 131 ,6 ,198  ,"ul. Belwederska, Sielce, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
+783,Lokal biurowy w odrestaurowanej kamienicy.,3 899 000 ,15 690 ,7 ,248.5  ,"pl. Plac Unii Lubelskiej, Ujazdów, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
 784,"Piękna Kamienica Przy Ul. Parkowej, Widok Na Park",3 000 000 ,29 303 ,3 ,102.38  ,"Ujazdów, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
 785,Apartament W Sąsiedztwie Łazienek Królewskich,12 300 000 ,44 856 ,4 ,274.21  ,"okolice Park Łazienek, Ujazdów, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
 786,Dwupoziomowe mieszkanie na Nowych Włochach.,991 000 ,9800 ,4 ,101.12  ,"ul. ks. Juliana Chrościckiego 83, Nowe Włochy, Włochy, Warszawa, mazowieckie",Biuro nieruchomości
@@ -790,10 +790,10 @@
 788,"Bezpośr. - Powiśle, ul. Okrąg, 3 pokoje do wejścia",835 000 ,17 957 ,3 ,46.5  ,"ul. Okrąg, Solec, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
 789,Dwa pokoje przy Łazienkach Królewskich,665 000 ,17 639 ,2 ,37.7  ,"Ujazdów, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
 790,80 m2 | Zielona okolica | Żoliborz,2 500 000 ,31 250 ,3 ,80  ,"ul. Juliusza Słowackiego, Stary Żoliborz, Żoliborz, Warszawa, mazowieckie",Biuro nieruchomości
-791,Stylowy penthouse w prestiżowej lokalizacji,5 990 000 ,48 182 ,5 pokoi124.32 m²,,"ul. Leona Kruczkowskiego, Solec, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
+791,Stylowy penthouse w prestiżowej lokalizacji,5 990 000 ,48 182 ,5 ,124.32  ,"ul. Leona Kruczkowskiego, Solec, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
 792,IDEALNA INWESTYCJA ! Krakowskie Przedmieście !,590 000 ,27 752 ,1 ,21.26  ,"ul. Krakowskie Przedmieście 19, Śródmieście Północne, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
 793,"Apartament, panorama miasta, Metr Wilanowska",2 600 000 ,16 250 ,4 ,160  ,"ul. Bukowińska, Ksawerów, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
-794,Mieszkanie 2 poziomowe 112 m2 Deweloperskie,620 000 ,5519 ,5 pokoi112.34 m²,,"Białołęka Dworska, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
+794,Mieszkanie 2 poziomowe 112 m2 Deweloperskie,620 000 ,5519 ,5 ,112.34  ,"Białołęka Dworska, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
 795,Rezerwacja!! 2 Pokojowe Mieszkanie 44m2 z Komorka,418 000 ,9500 ,2 ,44  ,"ul. Płochocińska 197, Szamocin, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
 796,Bezpośrednio BEZ prowizji,649 000 ,17 079 ,2 ,38  ,"ul. Józefa Siemieńskiego, Rakowiec, Ochota, Warszawa, mazowieckie",Biuro nieruchomości
 797,2-pokojowe mieszkanie -> ul. Cyrklowa 6 Warszawa,510 000 ,10 625 ,2 ,48  ,"Grochów, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
@@ -807,11 +807,11 @@
 805,Mieszkanie w stanie deweloperskim z antresolą!,399 000 ,9500 ,2 ,42  ,"Groszówka, Wesoła, Warszawa, mazowieckie",Biuro nieruchomości
 806,⭐Świeżo wykończony apartament | Bliska Wola Tower⭐,1 419 000 ,22 495 ,3 ,63.08  ,"ul. Marcina Kasprzaka, Odolany, Wola, Warszawa, mazowieckie",Biuro nieruchomości
 807,"4 pokoje, 67,9 m2, zielona i spokojna okolica.",735 000 ,10 825 ,4 ,67.9  ,"ul. Żeglugi Wiślanej, Kobiałka, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
-808,"Nowoczesny, dwupoziomowy apartament 113,5 m2 Wawer",1 132 700 ,10 000 ,5 pokoi113.27 m²,,"Zerzeń, Wawer, Warszawa, mazowieckie",Biuro nieruchomości
+808,"Nowoczesny, dwupoziomowy apartament 113,5 m2 Wawer",1 132 700 ,10 000 ,5 ,113.27  ,"Zerzeń, Wawer, Warszawa, mazowieckie",Biuro nieruchomości
 809,93M Z Widokiem Na Panoramę Warszawy English,1 295 820 ,13 800 ,3 ,93.9  ,"ul. Zygmunta Słomińskiego, Muranów, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
 810,Mieszkanie*3 pokoje*Wiatraczna*Warszawa,829 900 ,17 129 ,3 ,48.45  ,"ul. Wiatraczna, Grochów, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
 811,Penthouse z tarasem Wilanów,3 000 000 ,32 258 ,3 ,93  ,"ul. Adama Branickiego, Błonia Wilanowskie, Wilanów, Warszawa, mazowieckie",Biuro nieruchomości
-812,URSYNÓW Natolin premiera 23 IX 0% PROWIZJI,1 397 000 ,13 433 ,6 pokoi104 m²,,"al. Aleja Komisji Edukacji Narodowej, Natolin, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
+812,URSYNÓW Natolin premiera 23 IX 0% PROWIZJI,1 397 000 ,13 433 ,6 ,104  ,"al. Aleja Komisji Edukacji Narodowej, Natolin, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
 813,Ładne/ Nice And Cozy,1 150 000 ,36 118 ,2 ,31.84  ,"ul. Grzybowska, Śródmieście Północne, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
 814,Kawalerka - gotowa do wprowadzenia- kredyt 2%,485 000 ,24 250 ,1 ,20  ,"Koło, Wola, Warszawa, mazowieckie",Biuro nieruchomości
 815,Dobra Cena 2 Syp. 2 Łaz./ A Good Price 2Br|1Ba,1 250 000 ,11 574 ,4 ,108  ,"ul. Braci Załuskich, Sady Żoliborskie, Żoliborz, Warszawa, mazowieckie",Biuro nieruchomości
@@ -857,7 +857,7 @@
 855,3-pokojowe mieszkanie 68m2 + ogródek Bez Prowizji,852 125 ,12 500 ,3 ,68.17  ,"ul. Przedpole, Raków, Włochy, Warszawa, mazowieckie",Biuro nieruchomości
 856,2-pokojowe mieszkanie 42m2 + loggia Bezpośrednio,638 700 ,15 000 ,2 ,42.58  ,"ul. Przedpole, Raków, Włochy, Warszawa, mazowieckie",Biuro nieruchomości
 857,"55,3m, 2 pok, na Bemowie-Górcach do zamieszkania",829 444 ,14 999 ,2 ,55.3  ,"ul. Górczewska, Górce, Bemowo, Warszawa, mazowieckie",Biuro nieruchomości
-858,Luksusowe Mieszkanie w zabudowie 2rodzinnej,2 700 000 ,18 376 ,5 pokoi146.93 m²,,"ul. Kroczewska, Grodzisk, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
+858,Luksusowe Mieszkanie w zabudowie 2rodzinnej,2 700 000 ,18 376 ,5 ,146.93  ,"ul. Kroczewska, Grodzisk, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
 859,"Lokal z dużym tarasem, Warszawa Białołęka",480 000 ,15 094 ,2 ,31.8  ,"ul. Strumykowa, Nowodwory, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
 860,Klimatyzowany apartament z dwoma balkonami.,1 530 000 ,15 987 ,3 ,95.7  ,"ul. Sarmacka, Błonia Wilanowskie, Wilanów, Warszawa, mazowieckie",Biuro nieruchomości
 861,"3-pokojowe mieszkanie Warszawa Mokotów 56,90 m2",780 000 ,13 708 ,3 ,56.9  ,"ul. Zygmunta Modzelewskiego, Służew, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
@@ -880,7 +880,7 @@
 878,Mokotow. Trzy pokoje. Balkon. Kamienica.,1 325 000 ,17 761 ,3 ,74.6  ,"Stary Mokotów, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
 879,Dwupokojowe w sercu Warszawy,680 000 ,19 106 ,2 ,35.59  ,"ul. Pańska, Kabaty, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
 880,Wyjątkowy apartament z salonem o powierzchni 65m2!,1 379 000 ,11 991 ,4 ,115  ,"ul. Bruzdowa, Zawady, Wilanów, Warszawa, mazowieckie",Biuro nieruchomości
-881,Piękny apartament w zabytkowej Kamienicy,3 100 000 ,26 216 ,5 pokoi118.25 m²,,"Śródmieście Północne, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
+881,Piękny apartament w zabytkowej Kamienicy,3 100 000 ,26 216 ,5 ,118.25  ,"Śródmieście Północne, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
 882,Mieszkanie - Warszawa Ursynów Imielin,1 350 000 ,18 392 ,3 ,73.4  ,"ul. Alternatywy, Stary Imielin, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
 883,"Mieszkanie 55,01 m2 > 3 pokoje > Rembertów",478 500 ,8698 ,3 ,55.01  ,"Kawęczyn-Wygoda, Rembertów, Warszawa, mazowieckie",Biuro nieruchomości
 884,Mieszkanie 3 Pokojowe 65 m2 Wawer/Praga Płd. SKM,790 000 ,12 109 ,3 ,65.24  ,"ul. Bluszczowa, Marysin Wawerski, Wawer, Warszawa, mazowieckie",Biuro nieruchomości
@@ -891,7 +891,7 @@
 889,"55,4m2✔3 pokoje✔300m do Pkp Warszawa Ursus",600 000 ,10 830 ,3 ,55.4  ,"ul. Cierlicka, Skorosze, Ursus, Warszawa, mazowieckie",Biuro nieruchomości
 890,2 pok piękny apartament Mokotów Cybernetyki,819 000 ,21 496 ,2 ,38.1  ,"ul. Cybernetyki, Służewiec, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
 891,Mieszkanie 2 pokojowe Dolna Mokotów - REZERWACJA,700 000 ,19 126 ,2 ,36.6  ,"ul. Piaseczyńska, Sielce, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
-892,Mieszkanie 5 pokojowe DWUPOZIOMOWE,987 850 ,8590 ,5 pokoi115 m²,,"Nowe Włochy, Włochy, Warszawa, mazowieckie",Biuro nieruchomości
+892,Mieszkanie 5 pokojowe DWUPOZIOMOWE,987 850 ,8590 ,5 ,115  ,"Nowe Włochy, Włochy, Warszawa, mazowieckie",Biuro nieruchomości
 893,4-pok | Wilanów | 3 sypialnie | 2 garaże | klima,1 960 000 ,20 896 ,4 ,93.8  ,"ul. św. Urszuli Ledóchowskiej, Błonia Wilanowskie, Wilanów, Warszawa, mazowieckie",Biuro nieruchomości
 894,NOWE 2-pokojowe 48m2 ul. Taylora bez PCC,599 000 ,12 479 ,2 ,48  ,"Czechowice, Ursus, Warszawa, mazowieckie",Biuro nieruchomości
 895,BEZPOŚREDNIO NOWE mieszkanie z widokiem na Wisłę!,4 999 999 ,35 714 ,4 ,140  ,"ul. Solec, Solec, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
@@ -901,7 +901,7 @@
 899,Syndyk sprzeda mieszkanie w Warszawie,495 474 ,9584 ,2 ,51.7  ,"ul. Mieczysława Wolfkego, Bemowo-Lotnisko, Bemowo, Warszawa, mazowieckie",Biuro nieruchomości
 900,Apartament Emilii Plater 15 z widokiem na PKiN,899 999 ,34 483 ,1 ,26.1  ,"ul. Emilii Plater 15, Śródmieście Północne, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
 901,"Sprzedam mieszkanie – wysoki standard, Wola",1 400 000 ,25 022 ,3 ,55.95  ,"ul. Stańczyka, Odolany, Wola, Warszawa, mazowieckie",Biuro nieruchomości
-902,Nowa Inwestycja - Villa Skaryszewska,2 700 000 ,29 778 ,5 pokoi90.67 m²,,"ul. Międzynarodowa, Saska Kępa, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
+902,Nowa Inwestycja - Villa Skaryszewska,2 700 000 ,29 778 ,5 ,90.67  ,"ul. Międzynarodowa, Saska Kępa, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
 903,Mieszkanie 45 m2 ul. Szwedzka Praga Bohema Metro,764 000 ,16 978 ,2 ,45  ,"Śródmieście Północne, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
 904,Przytulna kawalerka na Woli 28m2,520 000 ,18 571 ,1 ,28  ,"Koło, Wola, Warszawa, mazowieckie",Biuro nieruchomości
 905,Mieszkanie Warszawa Praga Poludnie,650 000 ,15 854 ,2 ,41  ,"ul. Ludwika Kickiego, Grochów, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
@@ -911,7 +911,7 @@
 909,"mieszkanie w kredycie 2% na Ursynowie, z ogrodem!",712 080 ,12 900 ,2 ,55.2  ,"ul. Albatrosów, Stary Imielin, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
 910,od ręki * przestronne wyposażone w sercu Warszawy,1 095 000 ,21 791 ,2 ,50.25  ,"ul. Burakowska, Powązki, Wola, Warszawa, mazowieckie",Biuro nieruchomości
 911,Klimatyczne mieszkanie na warszawskich Włochach,920 000 ,11 288 ,4 ,81.5  ,"Okęcie, Włochy, Warszawa, mazowieckie",Biuro nieruchomości
-912,Piękne mieszkanie przy parku szczęśliwickim,1 200 000 ,14 815 ,5 pokoi81 m²,,"Szczęśliwice, Ochota, Warszawa, mazowieckie",Biuro nieruchomości
+912,Piękne mieszkanie przy parku szczęśliwickim,1 200 000 ,14 815 ,5 ,81  ,"Szczęśliwice, Ochota, Warszawa, mazowieckie",Biuro nieruchomości
 913,( 2 POK ) Dwupokojowe mieszkanie + parking+komórka,438 000 ,13 436 ,2 ,32.6  ,"ul. Winorośli, Nowodwory, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
 914,"2 Pokoje, Osobna Kuchnia, Duży Parking",758 000 ,17 962 ,2 ,42.2  ,"ul. Korsykańska, Stegny, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
 915,"Wilcza, 3 pokoje z balkonami, 107m2, 4 kondygnacja",2 399 000 ,22 421 ,3 ,107  ,"ul. Wilcza, Śródmieście Południowe, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
@@ -937,23 +937,23 @@
 935,Dwa oddzielne pokoje świeżo po remoncie,649 532 ,15 651 ,2 ,41.5  ,"ul. Władysława Reymonta, Chomiczówka, Bielany, Warszawa, mazowieckie",Biuro nieruchomości
 936,"12min do Metra, 2-pokoje + prywatny Ogród",427 917 ,12 575 ,2 ,34.03  ,"ul. Lewandów, Grodzisk, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
 937,"Belvedere Residence, fitness club, Ac",1 990 000 ,18 390 ,3 ,108.21  ,"ul. Sułkowicka, Sielce, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
-938,Nowoczesne mieszkanie pl. Zbawiciela bezpośrednio,2 300 000 ,23 879 ,5 pokoi96.32 m²,,"Marszałkowska 27/35, Śródmieście Południowe, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
+938,Nowoczesne mieszkanie pl. Zbawiciela bezpośrednio,2 300 000 ,23 879 ,5 ,96.32  ,"Marszałkowska 27/35, Śródmieście Południowe, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
 939,Przestronne mieszkanie w dogodnej lokalizacji,1 499 000 ,15 146 ,4 ,98.97  ,"Salomea, Włochy, Warszawa, mazowieckie",Biuro nieruchomości
 940,Ustawne 2-pokoje LOGGIA ul. Płochocińska,466 964 ,9487 ,2 ,49.22  ,"ul. Płochocińska, Szamocin, Białołęka, Warszawa, mazowieckie",Inwestycja deweloperska
 941,400mDoSKM*GARDEROBA*WysokiSufit*DużyBalkon,Zapytaj o cenę3 pokoje68.08 m²,,,,"ul. Romana Palestera, Białołęka Dworska, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
-942,Osiedle Tawułkowa | piętro + poddasze 158m2 | 9C,699 000 ,4424 ,5 pokoi158 m²,,"ul. Tawułkowa, Miedzeszyn, Wawer, Warszawa, mazowieckie",Biuro nieruchomości
+942,Osiedle Tawułkowa | piętro + poddasze 158m2 | 9C,699 000 ,4424 ,5 ,158  ,"ul. Tawułkowa, Miedzeszyn, Wawer, Warszawa, mazowieckie",Biuro nieruchomości
 943,Ursus Classic | mieszkanie 2-pok. |C1_99,Zapytaj o cenę2 pokoje48.26 m²,,,,"Dyrekcyjna, Szamoty, Ursus, Warszawa, mazowieckie",Biuro nieruchomości
 944,Apartamenty Przyjaciół | mieszkanie nr 1,389 000 ,10 890 ,1 ,35.72  ,"Szamocin, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
 945,2-pokojowe mieszkanie 38m2 + balkon,709 962 ,18 600 ,2 ,38.17  ,"ul. Figowa, Siekierki, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
 946,3-pokojowe mieszkanie 54m2 + ogródek,1 026 760 ,19 000 ,3 ,54.04  ,"ul. Figowa, Siekierki, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
 947,"Mieszkanie, 53 m², Warszawa",930 000 ,17 547 ,2 ,53  ,"Błonia Wilanowskie, Wilanów, Warszawa, mazowieckie",Biuro nieruchomości
-948,Mieszkanie na poddaszu przy Łazienkach Królewskich,1 500 000 ,17 442 ,5 pokoi86 m²,,"ul. Czerniakowska, Sielce, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
-949,Sprzedam eleganckie mieszkanie w Wilanowie,3 350 000 ,17 358 ,5 pokoi193 m²,,"ul. Marconich, Wilanów Wysoki, Wilanów, Warszawa, mazowieckie",Biuro nieruchomości
+948,Mieszkanie na poddaszu przy Łazienkach Królewskich,1 500 000 ,17 442 ,5 ,86  ,"ul. Czerniakowska, Sielce, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
+949,Sprzedam eleganckie mieszkanie w Wilanowie,3 350 000 ,17 358 ,5 ,193  ,"ul. Marconich, Wilanów Wysoki, Wilanów, Warszawa, mazowieckie",Biuro nieruchomości
 950,Klucze odebrane! Wysokie piętro! Dwustronne,569 432 ,13 600 ,2 ,41.87  ,"ul. Herbu Oksza, Szamoty, Ursus, Warszawa, mazowieckie",Biuro nieruchomości
 951,"Saska Kępa,56m2,3 pokoje,widna kuchnia,super punkt",839 500 ,14 991 ,3 ,56  ,"al. Aleja Stanów Zjednoczonych, Saska Kępa, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
 952,Apartament na Żoliborzu Rydygiera|Przasnyska 69 m2,1 638 750 ,23 750 ,3 ,69  ,"ul. Ludwika Rydygiera, Sady Żoliborskie, Żoliborz, Warszawa, mazowieckie",Biuro nieruchomości
 953,"3 pokoje z widną kuchnią, dwustronne z balkonem, b",520 000 ,11 064 ,3 ,47  ,"ul. Suwalska, Bródno, Targówek, Warszawa, mazowieckie",Biuro nieruchomości
-954,5-pokojowe mieszkanie 134m2 + taras Bezpośrednio,2 822 820 ,21 000 ,5 pokoi134.42 m²,,"ul. Figowa, Siekierki, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
+954,5-pokojowe mieszkanie 134m2 + taras Bezpośrednio,2 822 820 ,21 000 ,5 ,134.42  ,"ul. Figowa, Siekierki, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
 955,Cisza * 6 min do tramwaju * Bezpieczna okolica,800 000 ,15 209 ,2 ,52.6  ,"ul. Literacka, Piaski, Bielany, Warszawa, mazowieckie",Biuro nieruchomości
 956,"Apartament 141,5m2 W Samym Sercu Warszawy Garaż",1 990 000 ,14 064 ,4 ,141.5  ,"Mirów, Wola, Warszawa, mazowieckie",Biuro nieruchomości
 957,Osiedle Młodych 41m2 2Pok Cegła Balkon Ciche Warto,533 000 ,13 000 ,2 ,41  ,"Grochów, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
@@ -973,7 +973,7 @@
 971,Okazja / Kawalerka / Praga /,454 990 ,17 500 ,1 ,26  ,"ul. Józefa Chłopickiego, Grochów, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
 972,Stary Mokotów 3-pokojowe po kapitalnym remoncie,860 000 ,16 820 ,3 ,51.13  ,"Stary Mokotów, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
 973,2pokoje w Inwestycji Wałbrzyska 21 Róg Puławskiej,599 000 ,19 967 ,2 ,30  ,"ul. Wałbrzyska, Służew, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
-974,Luksusowy apartament-Dwupoziomowy 5 pokoi Natolin,2 620 000 ,21 129 ,5 pokoi124 m²,,"ul. Jaworowa, Natolin, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
+974,Luksusowy apartament-Dwupoziomowy 5 pokoi Natolin,2 620 000 ,21 129 ,5 ,124  ,"ul. Jaworowa, Natolin, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
 975,"Spacerem METRO, tramwaje! Nowe, pięknie wykończone",780 000 ,19 500 ,2 ,40  ,"ul. Sokratesa, Wawrzyszew, Bielany, Warszawa, mazowieckie",Biuro nieruchomości
 976,Mieszanie 2-pokojowe po remoncie z balkonem,499 000 ,15 841 ,2 ,31.5  ,"ul. Turmoncka, Bródno, Targówek, Warszawa, mazowieckie",Biuro nieruchomości
 977,Kawalerka / dwa pokoje - metro Bródno piękny widok,387 500 ,13 180 ,1 ,29.4  ,"Bródno, Targówek, Warszawa, mazowieckie",Biuro nieruchomości
@@ -1022,7 +1022,7 @@
 1020,2-pokojowe mieszkanie 45m2 + balkon Bezpośrednio,683 000 ,15 031 ,2 ,45.44  ,"ul. Optyków, Gocław, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
 1021,1-pokojowe mieszkanie 30m2 + balkon Bez Prowizji,471 000 ,15 596 ,1 ,30.2  ,"ul. Optyków, Gocław, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
 1022,Okazja I W pełni wyposażone I Nowoczesne osiedle,599 000 ,12 224 ,2 ,49  ,"Dąbrówka Szlachecka, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
-1023,Apartament 235m2 - stary Wilanów z basenem!,3 295 000 ,14 021 ,5 pokoi235 m²,,"Wilanów Królewski, Wilanów, Warszawa, mazowieckie",Biuro nieruchomości
+1023,Apartament 235m2 - stary Wilanów z basenem!,3 295 000 ,14 021 ,5 ,235  ,"Wilanów Królewski, Wilanów, Warszawa, mazowieckie",Biuro nieruchomości
 1024,PROMOCJA - Nowoczesne mieszkanie w POINT HOUSE,940 000 ,16 491 ,2 ,57  ,"al. Aleja Wyścigowa, Służew, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
 1025,Dwupokojowe mieszkanie w Dworku z 1860 roku !,820 000 ,17 458 ,2 ,46.97  ,"ul. Radzymińska, Szmulowizna, Praga-Północ, Warszawa, mazowieckie",Biuro nieruchomości
 1026,3-pok. mieszkanie z lat 50. Muranów,879 000 ,13 406 ,3 ,65.57  ,"al. Aleja ""Solidarności"", Muranów, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
@@ -1034,7 +1034,7 @@
 1032,Mokotów | 4 pokoje | osobna kuchnia,980 000 ,15 556 ,4 ,63  ,"Służew, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
 1033,50 m2 | inwestycja premium | wysoki standard,1 300 000 ,25 912 ,2 ,50.17  ,"Sady Żoliborskie, Żoliborz, Warszawa, mazowieckie",Biuro nieruchomości
 1034,Mieszkanie z możliwością wydzielenia 2 pokoju,630 000 ,15 633 ,2 ,40.3  ,"al. Aleja Stanów Zjednoczonych, Grochów, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
-1035,Pełna oferta*Blisko Nowej linii Metra,1 549 400 ,16 666 ,5 pokoi92.97 m²,,"Gocław, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
+1035,Pełna oferta*Blisko Nowej linii Metra,1 549 400 ,16 666 ,5 ,92.97  ,"Gocław, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
 1036,Plastyczne trzypokojowe mieszkanie na Ksawerowie,1 200 000 ,15 228 ,3 ,78.8  ,"ul. Domaniewska, Ksawerów, Mokotów, Warszawa, mazowieckie",Inwestycja deweloperska
 1037,Czteropokojowy apartament w kameralnym budynku,1 060 000 ,10 495 ,4 ,101  ,"Pyry, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
 1038,2 pokoje z Tarasem Kabaty,843 300 ,18 230 ,2 ,46.26  ,"ul. Batystowa, Kabaty, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
@@ -1047,7 +1047,7 @@
 1045,0% комиссии / 3-х комнатная квартира,694 407 ,12 900 ,3 ,53.83  ,"ul. Aluzyjna, Nowodwory, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
 1046,Pełna oferta*Blisko Nowej linii Metra,522 800 ,17 311 ,1 ,30.2  ,"Gocław, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
 1047,"3 pokoje 40,92m2 + ogród, w centrum, wyposażone",850 000 ,20 772 ,3 ,40.92  ,"ul. Kaliszówka, Wawrzyszew, Bielany, Warszawa, mazowieckie",Biuro nieruchomości
-1048,"Deweloperskie, 126m2+120m2, 1 min do Metro Zacisze",1 699 000 ,13 484 ,5 pokoi126 m²,,"ul. Krośniewicka, Zacisze, Targówek, Warszawa, mazowieckie",Biuro nieruchomości
+1048,"Deweloperskie, 126m2+120m2, 1 min do Metro Zacisze",1 699 000 ,13 484 ,5 ,126  ,"ul. Krośniewicka, Zacisze, Targówek, Warszawa, mazowieckie",Biuro nieruchomości
 1049,Nowa kawalerka 28m2 Rytm Kabaty Garaż,569 000 ,20 850 ,1 ,27.29  ,"ul. Jerzego Iwanowa-Szajnowicza, Kabaty, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
 1050,Przytulne 2-dwupokojowe przy metrze Imielin,858 000 ,18 652 ,2 ,46  ,"ul. Stanisława Kulczyńskiego, Ursynów-Centrum, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
 1051,"107,26m2, 4 pokoje, dwupoziomowe, 3 balkony, garaż",869 000 ,8102 ,4 ,107.26  ,"ul. Poczty Gdańskiej, Czechowice, Ursus, Warszawa, mazowieckie",Biuro nieruchomości
@@ -1099,7 +1099,7 @@
 1097,3 pokoje w Kamienicy Śródmieście,977 000 ,17 764 ,3 ,55  ,"ul. Królewska, Śródmieście Północne, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
 1098,"Gotowe na już, piękne - 2 pokoje, ogródek!",554 000 ,15 389 ,2 ,36  ,"ul. Jutrzenki, Salomea, Włochy, Warszawa, mazowieckie",Inwestycja deweloperska
 1099,Dwupoziomowe | doskonała lokalizacja | super układ,810 000 ,9842 ,4 ,82.3  ,"ul. Wał Miedzeszyński, Zerzeń, Wawer, Warszawa, mazowieckie",Biuro nieruchomości
-1100,5-pokojowe mieszkanie 92m2 + 2 balkony,1 489 000 ,16 016 ,5 pokoi92.97 m²,,"ul. Optyków, Gocław, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
+1100,5-pokojowe mieszkanie 92m2 + 2 balkony,1 489 000 ,16 016 ,5 ,92.97  ,"ul. Optyków, Gocław, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
 1101,3-pokojowe mieszkanie 60m2 + 2 balkony,788 000 ,13 074 ,3 ,60.27  ,"ul. Optyków, Gocław, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
 1102,2-pokojowe mieszkanie 34m2 + taras Bezpośrednio,636 000 ,18 440 ,2 ,34.49  ,"ul. Optyków, Gocław, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
 1103,1-pokojowe mieszkanie 29m2 + balkon Bez Prowizji,479 000 ,16 215 ,1 ,29.54  ,"ul. Optyków, Gocław, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
@@ -1128,7 +1128,7 @@
 1126,Mieszkanie 4 pokojowe wśród zieleni | Balkon,635 000 ,10 016 ,4 ,63.4  ,"Bródno, Targówek, Warszawa, mazowieckie",Biuro nieruchomości
 1127,Wola | Łucka | 149 m2 | 4 pokoje,2 100 000 ,14 094 ,4 ,149  ,"ul. Łucka, Mirów, Wola, Warszawa, mazowieckie",Biuro nieruchomości
 1128,Stary Mokotów | 99m2 | Widok na city | Taras,2 950 000 ,29 798 ,3 ,99  ,"ul. Łowicka, Stary Mokotów, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
-1129,Noakowskiego | Przestronne 158m2 | Top lokalizacja,4 750 800 ,30 000 ,5 pokoi158.36 m²,,"ul. Stanisława Noakowskiego, Śródmieście Południowe, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
+1129,Noakowskiego | Przestronne 158m2 | Top lokalizacja,4 750 800 ,30 000 ,5 ,158.36  ,"ul. Stanisława Noakowskiego, Śródmieście Południowe, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
 1130,Mokotów | 124 m2 | Ogód - 145m2 | Widok na zieleń,3 348 810 ,27 007 ,4 ,124  ,"ul. Piaseczyńska, Sielce, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
 1131,"Mieszkanie 1-pokojowe, duży balkon-Metro Natolin",605 000 ,17 894 ,1 ,33.81  ,"ul. Stryjeńskich, Natolin, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
 1132,Nowe 2pok deweloperski garaż ogródek 100m2 taras,1 420 000 ,25 204 ,2 ,56.34  ,"ul. 29 Listopada, Ujazdów, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
@@ -1162,7 +1162,7 @@
 1160,Świetna inwestycja Kredyt 2%,514 800 ,14 522 ,2 ,35.45  ,"ul. Myśliborska, Tarchomin, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
 1161,Ustawne Dwustronne Kredyt 2%,641 600 ,12 350 ,3 ,51.95  ,"ul. Myśliborska, Tarchomin, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
 1162,"2 pokoje, SKM, centrum Ursusa, dostępne już, 2%",615 000 ,14 471 ,2 ,42.5  ,"ul. Rakietników, Skorosze, Ursus, Warszawa, mazowieckie",Biuro nieruchomości
-1163,Zacisze Lasek Bródnowski - segment środkowy METRO,2 480 000 ,7086 ,8 pokoi350 m²,,"Nowa Praga, Praga-Północ, Warszawa, mazowieckie",Biuro nieruchomości
+1163,Zacisze Lasek Bródnowski - segment środkowy METRO,2 480 000 ,7086 ,8 ,350  ,"Nowa Praga, Praga-Północ, Warszawa, mazowieckie",Biuro nieruchomości
 1164,Zamieszkaj na zielonej Białołęce !,645 000 ,12 647 ,2 ,51  ,"Białołęka Dworska, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
 1165,2 pokoje Gocław Nowe do wprowadzenia,749 000 ,16 644 ,2 ,45  ,"ul. Łukiska, Gocław, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
 1166,3 pokojowe na Pradze - Nowe budownictwo,799 000 ,12 095 ,3 ,66.06  ,"ul. Zachariasza, Szmulowizna, Praga-Północ, Warszawa, mazowieckie",Biuro nieruchomości
@@ -1202,19 +1202,19 @@
 1200,"12min do Metra, Idealne pod wynajem lub na 1 miesz",369 999 ,13 688 ,2 ,27.03  ,"ul. Lewandów, Grodzisk, Białołęka, Warszawa, mazowieckie",Inwestycja deweloperska
 1201,"Mieszkanie na sprzedaż 4 pokoje Warszawa Wilanów,",1 997 000 ,18 155 ,4 ,110  ,"ul. Adama Branickiego, Błonia Wilanowskie, Wilanów, Warszawa, mazowieckie",Inwestycja deweloperska
 1202,#2pokojegocław #dwapokojegocławdozamieszkania,659 000 ,16 073 ,2 ,41  ,"ul. Eugeniusza Horbaczewskiego, Gocław, Praga-Południe, Warszawa, mazowieckie",Inwestycja deweloperska
-1203,Mieszkanie bezczynszowe w bliźniaku - 150m2,999 900 ,6666 ,5 pokoi150 m²,,"ul. Skokowa, Marysin Wawerski, Wawer, Warszawa, mazowieckie",Inwestycja deweloperska
+1203,Mieszkanie bezczynszowe w bliźniaku - 150m2,999 900 ,6666 ,5 ,150  ,"ul. Skokowa, Marysin Wawerski, Wawer, Warszawa, mazowieckie",Inwestycja deweloperska
 1204,"Metro Rondo Daszyńskiego 2-pok, apartamentowiec",1 094 000 ,21 693 ,2 ,50.43  ,"ul. Giełdowa, Czyste, Wola, Warszawa, mazowieckie",Inwestycja deweloperska
-1205,"Nowy penthouse - Saska Kępa, wysokość w salonie 6m",3 900 000 ,25 995 ,7 pokoi150.03 m²,,"ul. Międzynarodowa, Saska Kępa, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
+1205,"Nowy penthouse - Saska Kępa, wysokość w salonie 6m",3 900 000 ,25 995 ,7 ,150.03  ,"ul. Międzynarodowa, Saska Kępa, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
 1206,"3 oddzielne pokoje, 200 M do Francuskiej",810 000 ,15 283 ,3 ,53  ,"Saska Kępa, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
 1207,Kawalerka na Woli na start,330 000 ,19 075 ,1 ,17.3  ,"ul. Cypriana Kamila Norwida, Wesoła, Ulrychów, Wola, Warszawa, mazowieckie",Biuro nieruchomości
 1208,"Trakt Lubelski super 1 piętro, kominek, m. postojo",880 740 ,12 600 ,3 ,69.9  ,"ul. Trakt Lubelski, Nadwiśle, Wawer, Warszawa, mazowieckie",Biuro nieruchomości
 1209,2-pokoje na II piętrze - ROZKŁADOWE - Płochocińska,"468 172,50 ",9487 ,2 ,49.35  ,"ul. Płochocińska, Szamocin, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
 1210,Willa Fiore | nowy apartament nr 4,1 899 000 ,28 869 ,3 ,65.78  ,"ul. Chlewińska, Marymont-Kaskada, Bielany, Warszawa, mazowieckie",Biuro nieruchomości
-1211,Osiedle Tawułkowa | piętro + poddasze 158m2 | 20D,699 000 ,4424 ,5 pokoi158 m²,,"ul. Tawułkowa, Miedzeszyn, Wawer, Warszawa, mazowieckie",Biuro nieruchomości
+1211,Osiedle Tawułkowa | piętro + poddasze 158m2 | 20D,699 000 ,4424 ,5 ,158  ,"ul. Tawułkowa, Miedzeszyn, Wawer, Warszawa, mazowieckie",Biuro nieruchomości
 1212,Ursus Classic | mieszkanie 3-pok. |C2_10,Zapytaj o cenę3 pokoje64.46 m²,,,,"Dyrekcyjna, Szamoty, Ursus, Warszawa, mazowieckie",Biuro nieruchomości
 1213,Nowy Lokal Brzeska | U5p,450 000 ,6812 ,3 ,66.06  ,"ul. Brzeska, Stara Praga, Praga-Północ, Warszawa, mazowieckie",Biuro nieruchomości
 1214,Dwa pokoje na Grochowie | 36 m2 | Szaserów,498 000 ,13 833 ,2 ,36  ,"ul. Szaserów, Grochów, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
-1215,Dom podzielony na dwa lokale | 144 m2 z ogródkiem,1 710 000 ,11 875 ,6 pokoi144 m²,,"ul. Liwiecka, Gocławek, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
+1215,Dom podzielony na dwa lokale | 144 m2 z ogródkiem,1 710 000 ,11 875 ,6 ,144  ,"ul. Liwiecka, Gocławek, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
 1216,"Rodzinne/najem, kredyt 2% Czynsz 548. Bezpośrednio",730 000 ,12 167 ,3 ,60  ,"ul. Zachariasza, Szmulowizna, Praga-Północ, Warszawa, mazowieckie",Biuro nieruchomości
 1217,Mieszkanie - Warszawa Wilanów,1 698 000 ,19 881 ,4 ,85.41  ,"ul. Sarmacka, Błonia Wilanowskie, Wilanów, Warszawa, mazowieckie",Biuro nieruchomości
 1218,Mieszkanie z widokiem na zieleń | Blisko metra,840 000 ,17 500 ,2 ,48  ,"ul. Jana Olbrachta, Ulrychów, Wola, Warszawa, mazowieckie",Biuro nieruchomości
@@ -1226,7 +1226,7 @@
 1224,mieszkanie blisko metra Stadion Narodowy,1 299 000 ,14 189 ,4 ,91.55  ,"ul. Jagiellońska 3, Stara Praga, Praga-Północ, Warszawa, mazowieckie",Biuro nieruchomości
 1225,3 pokojowy apartament przy metrze-wysoki standard,1 169 000 ,18 821 ,3 ,62.11  ,"ul. Narwik 16, Górce, Bemowo, Warszawa, mazowieckie",Biuro nieruchomości
 1226,Ursus 3-pokojowe mieszkanie 62 m2 „POD KLUCZ”,812 000 ,13 118 ,3 ,61.9  ,"Czechowice, Ursus, Warszawa, mazowieckie",Biuro nieruchomości
-1227,Super cena Penthouse z tarasem 200m2 i 150m2 basen,6 900 000 ,14 496 ,8 pokoi476 m²,,"Wilanów Niski, Wilanów, Warszawa, mazowieckie",Biuro nieruchomości
+1227,Super cena Penthouse z tarasem 200m2 i 150m2 basen,6 900 000 ,14 496 ,8 ,476  ,"Wilanów Niski, Wilanów, Warszawa, mazowieckie",Biuro nieruchomości
 1228,Złota 44 | 79 m² | Studio-Apartament,3 990 000 ,49 937 ,2 ,79.9  ,"ul. Złota 44, Śródmieście Północne, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
 1229,"Mokotów: metro, panoramiczny widok,gotowe!",1 365 000 ,24 945 ,3 ,54.72  ,"ul. Jana Pawła Woronicza, Wierzbno, Mokotów, Warszawa, mazowieckie",Inwestycja deweloperska
 1230,"Słoneczne, ciche mieszkanie, blisko do centrum",499 000 ,15 594 ,1 ,32  ,"Służew, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
@@ -1298,8 +1298,8 @@
 1296,"Niezależne M2 oddzielna kuchnia | Blisko park, WUM",639 000 ,14 881 ,2 ,42.94  ,"ul. Księcia Trojdena, Rakowiec, Ochota, Warszawa, mazowieckie",Biuro nieruchomości
 1297,Kawalerka z dużym balkonem i miejscem garażowym!,399 000 ,12 707 ,1 ,31.4  ,"ul. Książkowa, Nowodwory, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
 1298,Gotowe do wprowadzenia 2 pokoje z osobną kuchnią,499 000 ,13 486 ,2 ,37  ,"ul. Radzymińska, Szmulowizna, Praga-Północ, Warszawa, mazowieckie",Biuro nieruchomości
-1299,"Gotowiec: 5 mikro, przychód 12.500 zł, Roi 10,43%",1 270 000 ,14 682 ,5 pokoi86.5 m²,,"ul. Vincenta van Gogha, Tarchomin, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
-1300,Gotowiec inwestycyjny / przychód 11.300 zł mies.,1 199 000 ,16 440 ,6 pokoi72.93 m²,,"al. Aleja ""Solidarności"", Młynów, Wola, Warszawa, mazowieckie",Biuro nieruchomości
+1299,"Gotowiec: 5 mikro, przychód 12.500 zł, Roi 10,43%",1 270 000 ,14 682 ,5 ,86.5  ,"ul. Vincenta van Gogha, Tarchomin, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
+1300,Gotowiec inwestycyjny / przychód 11.300 zł mies.,1 199 000 ,16 440 ,6 ,72.93  ,"al. Aleja ""Solidarności"", Młynów, Wola, Warszawa, mazowieckie",Biuro nieruchomości
 1301,2 pok. mieszkanie w super lokalizacji na Bielanach,670 000 ,16 040 ,2 ,41.77  ,"ul. Władysława Broniewskiego 91, Piaski, Bielany, Warszawa, mazowieckie",Biuro nieruchomości
 1302,"Ustawne, balkon ponad 6 mkw",568 512 ,11 258 ,3 ,50.5  ,"ul. Leona Berensona, Grodzisk, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
 1303,Balkon 6 m2/Idealne na start lub wynajem,417 012 ,12 356 ,2 ,33.75  ,"ul. Leona Berensona, Grodzisk, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
@@ -1510,11 +1510,11 @@
 1508,"OKAZJA! Mieszkanie 4 pokojowe, Gotarda1",779 000 ,14 684 ,4 ,53.05  ,"ul. Gotarda 1, Służew, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
 1509,2-pokojowa Perełka Z MEBLAMI przy Przasnyskiej!,1 300 000 ,25 912 ,2 ,50.17  ,"ul. Przasnyska, Sady Żoliborskie, Żoliborz, Warszawa, mazowieckie",Biuro nieruchomości
 1510,Przestronne mieszkanie w Dworku z 1860r.,1 100 000 ,16 381 ,4 ,67.15  ,"ul. Radzymińska, Szmulowizna, Praga-Północ, Warszawa, mazowieckie",Biuro nieruchomości
-1511,"Piękne, garaż, 4m wysokość, w cenie 23% Vat",6 983 694 ,36 900 ,7 pokoi189.26 m²,,"Śródmieście Południowe, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
-1512,Wyjątkowy penthouse z zielonym tarasem na dachu,5 050 000 ,29 956 ,5 pokoi168.58 m²,,"al. Aleja Wilanowska, Stegny, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
+1511,"Piękne, garaż, 4m wysokość, w cenie 23% Vat",6 983 694 ,36 900 ,7 ,189.26  ,"Śródmieście Południowe, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
+1512,Wyjątkowy penthouse z zielonym tarasem na dachu,5 050 000 ,29 956 ,5 ,168.58  ,"al. Aleja Wilanowska, Stegny, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
 1513,4-pokojowe mieszkanie na Osiedlu Quarta,2 049 000 ,19 951 ,4 ,102.7  ,"ul. Wędrowców, Pyry, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
 1514,"Na sprzedaż mieszkanie 57,5 m2, 2 balkony",825 000 ,14 348 ,3 ,57.5  ,"Osiedle Wilno, Elsnerów, Targówek, Warszawa, mazowieckie",Biuro nieruchomości
-1515,Perełka inwestycyjna na Starym Mieście !,1 839 000 ,29 566 ,5 pokoi62.2 m²,,"ul. Miodowa, Stare Miasto, Śródmieście, Warszawa, mazowieckie",Inwestycja deweloperska
+1515,Perełka inwestycyjna na Starym Mieście !,1 839 000 ,29 566 ,5 ,62.2  ,"ul. Miodowa, Stare Miasto, Śródmieście, Warszawa, mazowieckie",Inwestycja deweloperska
 1516,"4min do s8, 20min do Centrum - kredyt 2%",569 700 ,11 160 ,3 ,51.05  ,"ul. Lewandów, Grodzisk, Białołęka, Warszawa, mazowieckie",Inwestycja deweloperska
 1517,Perełka inwestycyjna w Śródmieściu METRO,978 000 ,19 560 ,3 ,50  ,"al. Aleja Jana Chrystiana Szucha, Śródmieście Południowe, Śródmieście, Warszawa, mazowieckie",Inwestycja deweloperska
 1518,Kredyt 2% Gotowe/OZE-panele-rekuperacja- ogrz.podl,694 278 ,12 900 ,3 ,53.82  ,"ul. Aluzyjna, Nowodwory, Białołęka, Warszawa, mazowieckie",Inwestycja deweloperska
@@ -1556,10 +1556,10 @@
 1554,Tzypokojowe mieszkanie Ursynów świetna lokalizacja,799 000 ,11 580 ,3 ,69  ,"ul. Marii Grzegorzewskiej, Ursynów-Centrum, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
 1555,Nowość W Sprzedaży- Dwupokojowe- Bezpośrednio,463 650 ,9899 ,2 ,46.84  ,"Nowodwory, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
 1556,"Trzypokojowe mieszkanie w Kamienicy ,Śródmieście",1 399 000 ,22 031 ,3 ,63.5  ,"ul. Wilcza, Śródmieście Południowe, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
-1557,6 Pokojowe w Apartamentowcu na Mokotowie,1 559 000 ,9225 ,6 pokoi169 m²,,"ul. Konduktorska, Sielce, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
+1557,6 Pokojowe w Apartamentowcu na Mokotowie,1 559 000 ,9225 ,6 ,169  ,"ul. Konduktorska, Sielce, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
 1558,Świetna Lokalizacja-Apartament 4 Pokojowy- Metro,1 722 655 ,18 432 ,4 ,93.46  ,"al. Aleja Komisji Edukacji Narodowej, Kabaty, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
 1559,2 pokoje Wilanów / ciche / gotowe do wprowadzenia,986 000 ,20 542 ,2 ,48  ,"Błonia Wilanowskie, Wilanów, Warszawa, mazowieckie",Biuro nieruchomości
-1560,Apartament Premium Z Prywatnym Tarasem Na Dachu,3 551 750 ,25 000 ,5 pokoi142.07 m²,,"al. Aleja Komisji Edukacji Narodowej, Kabaty, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
+1560,Apartament Premium Z Prywatnym Tarasem Na Dachu,3 551 750 ,25 000 ,5 ,142.07  ,"al. Aleja Komisji Edukacji Narodowej, Kabaty, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
 1561,Czteropokojowe świeżo po remoncie - Powiśle !,2 029 000 ,19 990 ,4 ,101.5  ,"ul. Górnośląska, Solec, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
 1562,"Gotowiec inwestycyjny (Bielany)Kochanowskiego9,52%",725 000 ,14 328 ,3 ,50.6  ,"ul. Jana Kochanowskiego, Piaski, Bielany, Warszawa, mazowieckie",Biuro nieruchomości
 1563,"4 pokoje, Bielany metro BEZPOŚREDNIO",1 068 400 ,12 614 ,4 ,84.7  ,"ul. Przy Agorze, Wrzeciono, Bielany, Warszawa, mazowieckie",Biuro nieruchomości
@@ -1571,7 +1571,7 @@
 1569,*4/5 pokoi blislko stacji metra Kabaty*Komfortowe,1 599 000 ,12 931 ,4 ,123.66  ,"ul. Stryjeńskich, Kabaty, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
 1570,W cenie mieszkania miejsce postojowe i kom. lok.,990 000 ,17 247 ,3 ,57.4  ,"ul. Magnacka, Gołąbki, Ursus, Warszawa, mazowieckie",Biuro nieruchomości
 1571,Apartament w Villa Bianca Wilanów,1 800 000 ,20 408 ,3 ,88.2  ,"ul. Adama Branickiego, Błonia Wilanowskie, Wilanów, Warszawa, mazowieckie",Biuro nieruchomości
-1572,Słoneczny Apartament z Tarasem na Mokotowie,4 600 000 ,28 750 ,5 pokoi160 m²,,"ul. Jaśminowa, Stegny, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
+1572,Słoneczny Apartament z Tarasem na Mokotowie,4 600 000 ,28 750 ,5 ,160  ,"ul. Jaśminowa, Stegny, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
 1573,Stylowe 4-pokojowe mieszkanie na Starym Żoliborzu,2 160 000 ,20 162 ,4 ,107.13  ,"ul. Adama Mickiewicza, Stary Żoliborz, Żoliborz, Warszawa, mazowieckie",Biuro nieruchomości
 1574,Przestronne mieszkanie z 2 balkonami na Powiślu,4 080 000 ,36 429 ,3 ,112  ,"ul. Zajęcza, Powiśle, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
 1575,Apartament z Tarasem przy Sarmackiej,1 599 000 ,21 170 ,2 ,75.53  ,"ul. Sarmacka, Błonia Wilanowskie, Wilanów, Warszawa, mazowieckie",Inwestycja deweloperska
@@ -1644,8 +1644,8 @@
 1642,Rozkładowe trzy pokojowe mieszkanie na Bielanach.,630 000 ,11 572 ,3 ,54.44  ,"ul. Pabla Nerudy, Huta, Bielany, Warszawa, mazowieckie",Biuro nieruchomości
 1643,Zielona okolica * 3 min do przystanku * Słoneczne,799 999 ,11 792 ,4 ,67.84  ,"ul. Gwiaździsta, Marymont-Ruda, Bielany, Warszawa, mazowieckie",Biuro nieruchomości
 1644,"Bezpośrednio apartament Centrum/Włochy, 2p",785 000 ,22 429 ,2 ,35  ,"Raków, Włochy, Warszawa, mazowieckie",Biuro nieruchomości
-1645,"5 pokojowe 93,15m2 ul. Twarda z loggią Śródmieście",1 510 000 ,16 210 ,5 pokoi93.15 m²,,"ul. Twarda, Mirów, Wola, Warszawa, mazowieckie",Biuro nieruchomości
-1646,Mokotów. 2 poziomy,957 651 ,6900 ,7 pokoi138.79 m²,,"ul. Bartycka, Siekierki, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
+1645,"5 pokojowe 93,15m2 ul. Twarda z loggią Śródmieście",1 510 000 ,16 210 ,5 ,93.15  ,"ul. Twarda, Mirów, Wola, Warszawa, mazowieckie",Biuro nieruchomości
+1646,Mokotów. 2 poziomy,957 651 ,6900 ,7 ,138.79  ,"ul. Bartycka, Siekierki, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
 1647,Cicha kawalerka BEZPOŚREDNIO,395 000 ,14 630 ,1 ,27  ,"ul. Michała Kleofasa Ogińskiego, Bródno, Targówek, Warszawa, mazowieckie",Biuro nieruchomości
 1648,Bajeczny widok na panoramę Warszawy,1 050 000 ,15 813 ,3 ,66.4  ,"ul. Marii Rodziewiczówny, Gocławek, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
 1649,Rodzinne przestronne cztery pokoje,838 250 ,12 500 ,4 ,67.06  ,"ul. Chełmżyńska, Kawęczyn-Wygoda, Rembertów, Warszawa, mazowieckie",Biuro nieruchomości
@@ -1676,7 +1676,7 @@
 1674,Bezpośrednio Studio blisko Ronda Daszyńskiego,629 900 ,19 997 ,1 ,31.5  ,"ul. Sławińska, Czyste, Wola, Warszawa, mazowieckie",Biuro nieruchomości
 1675,Jeszcze w tym roku,789 900 ,13 981 ,3 ,56.5  ,"ul. Jutrzenki, Salomea, Włochy, Warszawa, mazowieckie",Biuro nieruchomości
 1676,"Wilanów, dwa pokoje, ogródek!!!",779 000 ,18 636 ,2 ,41.8  ,"ul. Sarmacka, Błonia Wilanowskie, Wilanów, Warszawa, mazowieckie",Biuro nieruchomości
-1677,Taras 17 i 39m2 + balkon. Dwupoziomowe,1 488 000 ,14 331 ,5 pokoi103.83 m²,,"ul. Myśliborska, Tarchomin, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
+1677,Taras 17 i 39m2 + balkon. Dwupoziomowe,1 488 000 ,14 331 ,5 ,103.83  ,"ul. Myśliborska, Tarchomin, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
 1678,Taras aż 44m2. Antresola. Idealne dla rodziny>>,1 669 000 ,14 494 ,4 ,115.15  ,"ul. Józefa Mehoffera, Tarchomin, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
 1679,Prestiżowe Osiedle dla wymagających. Gotowe. Taras,3 287 340 ,21 000 ,4 ,156.54  ,"Blisko Parku Arkadia. Gotowy apartamentowiec, Stegny, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
 1680,Ustawne/ Zielona okolica/Bazarek/Autobus,772 705 ,14 443 ,3 ,53.5  ,"ul. Warszawska, Gołąbki, Ursus, Warszawa, mazowieckie",Biuro nieruchomości
@@ -1694,7 +1694,7 @@
 1692,Apartament Emilii Plater 15 z widokiem na PKiN,899 999 ,34 483 ,1 ,26.1  ,"ul. Emilii Plater 15, Śródmieście Północne, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
 1693,Parkur Residence III Kłobucka | Pod klucz 40m2,850 000 ,21 935 ,2 ,38.75  ,"Wyczółki, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
 1694,3 pokoje na Ursynowie | ul. Na Uboczu,895 000 ,13 499 ,3 ,66.3  ,"ul. Na Uboczu, Natolin, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
-1695,Dwupiętrowe mieszkanie z ogrodem | Stara Miłosna,1 199 000 ,12 076 ,5 pokoi99.29 m²,,"ul. Brzoskwiniowa, Stara Miłosna, Wesoła, Warszawa, mazowieckie",Biuro nieruchomości
+1695,Dwupiętrowe mieszkanie z ogrodem | Stara Miłosna,1 199 000 ,12 076 ,5 ,99.29  ,"ul. Brzoskwiniowa, Stara Miłosna, Wesoła, Warszawa, mazowieckie",Biuro nieruchomości
 1696,Luksusowy Nowy 3-pok. Apartament Bliski Ursynów,1 013 600 ,15 860 ,3 ,63.91  ,"Polki, Wyczółki, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
 1697,"Doskonałe, ciche, przy Metrze",630 000 ,13 347 ,2 ,47.2  ,"ul. Mokra, Targówek Mieszkaniowy, Targówek, Warszawa, mazowieckie",Biuro nieruchomości
 1698,Bezpośrednio mieszkanie ul. Łokuciewskiego,1 310 000 ,18 149 ,3 ,72.18  ,"ul. płk. Witolda Łokuciewskiego, Górce, Bemowo, Warszawa, mazowieckie",Biuro nieruchomości
@@ -1704,7 +1704,7 @@
 1702,Nowe 4 pok. Piękne Mieszkanie Mokotów Służewiec,1 599 000 ,17 610 ,3 ,90.8  ,"ul. Bokserska, Wyczółki, Ursynów, Warszawa, mazowieckie",Inwestycja deweloperska
 1703,Nowe mieszkanie 4 pokojowe wykończone Mokotów,1 400 000 ,19 102 ,3 ,73.29  ,"ul. Bokserska, Wyczółki, Ursynów, Warszawa, mazowieckie",Inwestycja deweloperska
 1704,Widok na centrum - OKAZJA!,1 280 000 ,11 963 ,3 ,107  ,"ul. Oskara Langego, Ksawerów, Mokotów, Warszawa, mazowieckie",Inwestycja deweloperska
-1705,Plac Wilsona! Kamienica z lat 20'!,1 150 000 ,13 939 ,5 pokoi82.5 m²,,"Stary Żoliborz, Żoliborz, Warszawa, mazowieckie",Inwestycja deweloperska
+1705,Plac Wilsona! Kamienica z lat 20'!,1 150 000 ,13 939 ,5 ,82.5  ,"Stary Żoliborz, Żoliborz, Warszawa, mazowieckie",Inwestycja deweloperska
 1706,3 pokoje/55m/2park-gi w cenie/Bemowo/2min do metra,764 500 ,13 900 ,3 ,55  ,"ul. Budy 5, Górce, Bemowo, Warszawa, mazowieckie",Biuro nieruchomości
 1707,4-pokojowe mieszkanie 97m2 + taras Bez Prowizji,Zapytaj o cenę4 pokoje97.21 m²,,,,"ul. Żupnicza, Kamionek, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
 1708,3-pokojowe mieszkanie 62m2 + balkon Bez Prowizji,Zapytaj o cenę3 pokoje62.57 m²,,,,"ul. Żupnicza, Kamionek, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
@@ -1713,10 +1713,10 @@
 1711,"Podwyższony standard, 3 m. wysokości. Lake Park",1 045 000 ,17 989 ,3 ,58.09  ,"ul. Kłobucka, Wyczółki, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
 1712,4 pok na Bielanach | 65m2 | blisko Metro | Klima,850 000 ,13 117 ,4 ,64.8  ,"ul. Starej Baśni, Stare Bielany, Bielany, Warszawa, mazowieckie",Biuro nieruchomości
 1713,"Bemowo, 3 pokoje, 67m², METRO, jasne, przestronne",999 000 ,14 857 ,3 ,67.24  ,"ul. Kazimierza Deyny, Górce, Bemowo, Warszawa, mazowieckie",Biuro nieruchomości
-1714,Niepowtarzalny i wyjątkowy klimat !!!,2 018 000 ,16 541 ,5 pokoi122 m²,,"Stary Mokotów, Mokotów, Warszawa, mazowieckie",Inwestycja deweloperska
+1714,Niepowtarzalny i wyjątkowy klimat !!!,2 018 000 ,16 541 ,5 ,122  ,"Stary Mokotów, Mokotów, Warszawa, mazowieckie",Inwestycja deweloperska
 1715,"Kawalerka, studio, Bielany przy metrze",870 000 ,24 507 ,1 ,35.5  ,"ul. Stefana Żeromskiego, Słodowiec, Bielany, Warszawa, mazowieckie",Biuro nieruchomości
-1716,Pakiet 7 mieszkań - gotowiec inwestycyjny,6 500 000 ,26 639 ,7 pokoi244 m²,,"ul. Stefana Żeromskiego, Słodowiec, Bielany, Warszawa, mazowieckie",Biuro nieruchomości
-1717,Stylowy Penthosue 178m2 z dwoma tarasami,4 090 000 ,22 958 ,5 pokoi178.15 m²,,"ul. Prymasa Augusta Hlonda, Błonia Wilanowskie, Wilanów, Warszawa, mazowieckie",Biuro nieruchomości
+1716,Pakiet 7 mieszkań - gotowiec inwestycyjny,6 500 000 ,26 639 ,7 ,244  ,"ul. Stefana Żeromskiego, Słodowiec, Bielany, Warszawa, mazowieckie",Biuro nieruchomości
+1717,Stylowy Penthosue 178m2 z dwoma tarasami,4 090 000 ,22 958 ,5 ,178.15  ,"ul. Prymasa Augusta Hlonda, Błonia Wilanowskie, Wilanów, Warszawa, mazowieckie",Biuro nieruchomości
 1718,"Śródmieście Al. Niepodległości, 59,91 m",845 000 ,14 104 ,2 ,59.91  ,"al. Aleja Niepodległości, Filtry, Ochota, Warszawa, mazowieckie",Biuro nieruchomości
 1719,"Stokłosy 3 pokoje, blisko Metra !",660 000 ,11 111 ,3 ,59.4  ,"Ursynów Północny, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
 1720,3-pokojowe mieszkanie 68m2 + loggia Bez Prowizji,1 083 585 ,15 900 ,3 ,68.15  ,"ul. Bluszczańska, Siekierki, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
@@ -1766,7 +1766,7 @@
 1764,jak czekoladka w ekskluzywnej bombonierce,1 450 000 ,19 129 ,3 ,75.8  ,"ul. Postępu, Służewiec, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
 1765,Mieszkanie na sprzedaż Skarbka z Gór,730 000 ,10 473 ,3 ,69.7  ,"ul. Skarbka z Gór, Grodzisk, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
 1766,"3 pok 72,67 m2 + garaż IV kw 2024",1 240 000 ,17 063 ,3 ,72.67  ,"ul. Sarmacka, Błonia Wilanowskie, Wilanów, Warszawa, mazowieckie",Biuro nieruchomości
-1767,4/5-pok Ursynów-Kabaty,1 080 000 ,12 736 ,5 pokoi84.8 m²,,"ul. Stefana Dembego, Kabaty, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
+1767,4/5-pok Ursynów-Kabaty,1 080 000 ,12 736 ,5 ,84.8  ,"ul. Stefana Dembego, Kabaty, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
 1768,3 pokoje do remontu Jana Olbrachta 58,640 000 ,11 784 ,3 ,54.31  ,"ul. Jana Olbrachta 58, Śródmieście Północne, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
 1769,Eleganckie mieszkanie 47m2 | Wola,1 075 000 ,22 843 ,2 ,47.06  ,"Gumińska, Odolany, Wola, Warszawa, mazowieckie",Biuro nieruchomości
 1770,"Mieszkanie 3 pok. 64m2 Białołęka, bezpośrednio.",614 000 ,9525 ,3 ,64.46  ,"ul. Jana Husa 20, Dąbrówka Szlachecka, Białołęka, Warszawa, mazowieckie",Inwestycja deweloperska
@@ -1791,10 +1791,10 @@
 1789,Bezpośrednio - Daszyńskiego - październik 2023,1 129 000 ,16 851 ,3 ,67  ,"ul. Kolejowa, Czyste, Wola, Warszawa, mazowieckie",Biuro nieruchomości
 1790,"Wysoki standart,4 pokoje",1 619 000 ,19 047 ,4 ,85  ,"ul. Komputerowa, Służewiec, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
 1791,*BEZPOŚREDNIO* po remoncie*top*Rondo Starzyńskiego,479 000 ,19 958 ,1 ,24  ,"Nowa Praga, Praga-Północ, Warszawa, mazowieckie",Biuro nieruchomości
-1792,Wiarusów 10 cały budynek 8 mieszkań nowy 511 PUM,7 150 000 ,10 214 ,10+ pokoi700 m²,,"ul. Wiarusów 10, Gocławek, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
+1792,Wiarusów 10 cały budynek 8 mieszkań nowy 511 PUM,7 150 000 ,10 214 ,10+ ,700  ,"ul. Wiarusów 10, Gocławek, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
 1793,Nowy apartament z ogródkiem,2 000 000 ,16 667 ,4 ,120  ,"ul. Jara, Zawady, Wilanów, Warszawa, mazowieckie",Biuro nieruchomości
 1794,Ursynów | Metro Imielin | 3 Pokoje | 63m2 | Balkon,779 000 ,12 365 ,3 ,63  ,"ul. Stefana Szolc-Rogozińskiego, Ursynów-Centrum, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
-1795,"Oferta inwestycyjna, Krakowskie Przedmieście",6 700 000 ,22 077 ,10 pokoi303.48 m²,,"ul. Krakowskie Przedmieście, Śródmieście Północne, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
+1795,"Oferta inwestycyjna, Krakowskie Przedmieście",6 700 000 ,22 077 ,10 ,303.48  ,"ul. Krakowskie Przedmieście, Śródmieście Północne, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
 1796,3 pok. z pięknym widokiem i blisko metra!,749 000 ,12 279 ,3 ,61  ,"ul. Aleksandra Kowalskiego, Bródno-Podgrodzie, Targówek, Warszawa, mazowieckie",Biuro nieruchomości
 1797,Nowoczesny apartament w wysokim standardzie!,1 125 000 ,15 917 ,3 ,70.68  ,"Polki, Wyczółki, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
 1798,Nowoczesny apartament w wysokim standardzie!,1 014 000 ,15 856 ,3 ,63.95  ,"Polki, Wyczółki, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
@@ -1807,9 +1807,9 @@
 1805,Wilanów Ostoja - 2 pokoje od Właściciela,997 000 ,22 156 ,2 ,45  ,"Miasteczko  Wilanów, ul. Ks.P.Hlonda, Powsinek, Wilanów, Warszawa, mazowieckie",Biuro nieruchomości
 1806,"Przestronne, 4-pokojowe mieszkanie na Kabatach!",1 420 000 ,11 913 ,4 ,119.2  ,"ul. Romualda Mielczarskiego, Kabaty, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
 1807,3 pokoje po remoncie w kamienicy przy Łazienkach,839 000 ,17 851 ,3 ,47  ,"ul. Stępińska, Sielce, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
-1808,"Mieszkanie 5 pokoi, świetna inwestycja, ROI 8 % !",995 000 ,8125 ,5 pokoi122.46 m²,,"ul. Izbicka, Radość, Wawer, Warszawa, mazowieckie",Biuro nieruchomości
+1808,"Mieszkanie 5 pokoi, świetna inwestycja, ROI 8 % !",995 000 ,8125 ,5 ,122.46  ,"ul. Izbicka, Radość, Wawer, Warszawa, mazowieckie",Biuro nieruchomości
 1809,Śliczne mieszkanie w sercu Muranowa! Wałowa 6!,775 000 ,19 974 ,2 ,38.8  ,"ul. Wałowa, Muranów, Śródmieście, Warszawa, mazowieckie",Inwestycja deweloperska
-1810,"Ostatni DOM z ogrodem 88,4 m2 + 2 parking Pompa",917 000 ,10 373 ,5 pokoi88.4 m²,,"ul. Poprawna, Las, Wawer, Warszawa, mazowieckie",Inwestycja deweloperska
+1810,"Ostatni DOM z ogrodem 88,4 m2 + 2 parking Pompa",917 000 ,10 373 ,5 ,88.4  ,"ul. Poprawna, Las, Wawer, Warszawa, mazowieckie",Inwestycja deweloperska
 1811,2 pokoje Mokotów 50m przy Łazienkach Królewskich,847 000 ,16 940 ,2 ,50  ,"ul Iwicka 36 Sielce Warszawa Dolny Mokotów, Sielce, Mokotów, Warszawa, mazowieckie",Inwestycja deweloperska
 1812,Świetna Inwestycja przy Starówce,600 000 ,27 027 ,1 ,22.2  ,"ul. Koźla, Nowe Miasto, Śródmieście, Warszawa, mazowieckie",Inwestycja deweloperska
 1813,"Mieszkanie 62m2, 3 pokoje, Praga Południe, Grochów",769 000 ,12 304 ,3 ,62.5  ,"ul. Wspólna Droga, Grochów, Praga-Południe, Warszawa, mazowieckie",Inwestycja deweloperska
@@ -1830,7 +1830,7 @@
 1828,Kapitalne 3 pokoje! Ursus! Do wprowadzenia!,779 000 ,12 241 ,3 ,63.64  ,"ul. Władysława Hassa, Skorosze, Ursus, Warszawa, mazowieckie",Biuro nieruchomości
 1829,Willa Fiore | nowy apartament nr 5,3 990 000 ,25 911 ,4 ,153.99  ,"ul. Chlewińska, Marymont-Kaskada, Bielany, Warszawa, mazowieckie",Biuro nieruchomości
 1830,400mDoSKM*PołudniowyTARAS16m2*OknaKolankowe,1 000 000 ,10 363 ,4 ,96.5  ,"ul. Romana Palestera, Białołęka Dworska, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
-1831,Osiedle Tawułkowa | piętro + poddasze 158m2 | 7C,699 000 ,4424 ,5 pokoi158 m²,,"ul. Tawułkowa, Miedzeszyn, Wawer, Warszawa, mazowieckie",Biuro nieruchomości
+1831,Osiedle Tawułkowa | piętro + poddasze 158m2 | 7C,699 000 ,4424 ,5 ,158  ,"ul. Tawułkowa, Miedzeszyn, Wawer, Warszawa, mazowieckie",Biuro nieruchomości
 1832,Ursus Classic | mieszkanie 1-pok. |C1_197,Zapytaj o cenę1 pokój33.61 m²,,,,"Dyrekcyjna, Szamoty, Ursus, Warszawa, mazowieckie",Biuro nieruchomości
 1833,LOFT GARDEN Wesoła ETAP II 57-99m2 apartament LOFT,643 000 ,11 188 ,3 ,57.47  ,"Zielona-Grzybowa, Wesoła, Warszawa, mazowieckie",Biuro nieruchomości
 1834,"Emilii Plater 3 pokojowe, doskonały adres!",1 029 000 ,22 110 ,3 ,46.54  ,"ul. Emilii Plater, Śródmieście Północne, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
@@ -1846,7 +1846,7 @@
 1844,Sprzedam bezpośrednio 2 pokoje na Mokotowie,750 000 ,19 231 ,2 ,39  ,"Stary Mokotów, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
 1845,ul. Odkryta z piwnicą i miejscem parkingowym,585 000 ,13 000 ,2 ,45  ,"Nowodwory, Nowodwory, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
 1846,"Sprzedam bezpośrednio/ Kawalerka 30,5",640 000 ,20 984 ,1 ,30.5  ,"ul. Międzyborska/Zbaraska, Grochów, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
-1847,Nietuzinkowy i uniwersalny lokal na Powiślu / 0%,2 299 000 ,15 066 ,6 pokoi152.6 m²,,"Solec, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
+1847,Nietuzinkowy i uniwersalny lokal na Powiślu / 0%,2 299 000 ,15 066 ,6 ,152.6  ,"Solec, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
 1848,2-pokojowe mieszkanie na Woli,869 500 ,18 500 ,2 ,47  ,"Odolany, Wola, Warszawa, mazowieckie",Biuro nieruchomości
 1849,"3 pokoje, apartamentowiec, bliska Wola, garaż",1 490 000 ,24 283 ,3 ,61.36  ,"ul. Eustachego Tyszkiewicza, Młynów, Wola, Warszawa, mazowieckie",Biuro nieruchomości
 1850,"Bezpośrednio mieszkanie, duży balkon, METRO BEMOWO",790 000 ,17 991 ,2 ,43.91  ,"Górce, Bemowo, Warszawa, mazowieckie",Biuro nieruchomości
@@ -1864,14 +1864,14 @@
 1862,"Mieszkanie 3-pokojowe (52,7 m2) Gołąbki",737 800 ,14 000 ,3 ,52.7  ,"ul. Magnacka, Czechowice, Ursus, Warszawa, mazowieckie",Inwestycja deweloperska
 1863,Przedwojenna kamienica na warszawskim Powiślu,1 720 000 ,26 462 ,3 ,65  ,"Powiśle, Śródmieście, Warszawa, mazowieckie",Inwestycja deweloperska
 1864,Jasne Mieszkanie w Prestiżowej Dzielnicy,699 000 ,19 690 ,2 ,35.5  ,"ul. Wiśniowa, Stary Mokotów, Mokotów, Warszawa, mazowieckie",Inwestycja deweloperska
-1865,"Dla inwestora, Bemowo 98m2 z najemcami.",1 250 000 ,12 639 ,5 pokoi98.9 m²,,"ul. Lazurowa, Jelonki Południowe, Bemowo, Warszawa, mazowieckie",Inwestycja deweloperska
+1865,"Dla inwestora, Bemowo 98m2 z najemcami.",1 250 000 ,12 639 ,5 ,98.9  ,"ul. Lazurowa, Jelonki Południowe, Bemowo, Warszawa, mazowieckie",Inwestycja deweloperska
 1866,"Bezpośrednio, 3 pokoje, metro Księcia Janusza",739 000 ,13 891 ,3 ,53.2  ,"ul. Jana Olbrachta 7, Ulrychów, Wola, Warszawa, mazowieckie",Inwestycja deweloperska
 1867,"3 pokoje w otoczeniu 3 parków, bezpośrednio",899 000 ,18 169 ,3 ,49.48  ,"ul. Grabowska 8, Ulrychów, Wola, Warszawa, mazowieckie",Inwestycja deweloperska
 1868,"Mieszkanie do wprowadzenia, przy metrze",650 000 ,18 310 ,1 ,35.5  ,"ul. Wałbrzyska, Służew, Mokotów, Warszawa, mazowieckie",Inwestycja deweloperska
 1869,"Dolina Służewiecka - 120,5 m2 bez pośredników",2 400 000 ,19 917 ,4 ,120.5  ,"ul. Puławska, Służew, Mokotów, Warszawa, mazowieckie",Inwestycja deweloperska
 1870,"Bezpośrednio, dwa, dwu-pokojowe na najem!!!",959 000 ,17 986 ,2 ,53.32  ,"ul. Jana Olbrachta 7, Ulrychów, Wola, Warszawa, mazowieckie",Inwestycja deweloperska
 1871,"2 kawalerki na najem w jednym, świetna inwestycja!",959 000 ,19 195 ,2 ,49.96  ,"ul. Józefa Mianowskiego 24a, Stara Ochota, Ochota, Warszawa, mazowieckie",Inwestycja deweloperska
-1872,"garaż, winda , komórka - kredyt 2% -M3 dla Rodziny",570 000 ,11 166 ,10+ pokoi51.05 m²,,"ul. Lewandów, Grodzisk, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
+1872,"garaż, winda , komórka - kredyt 2% -M3 dla Rodziny",570 000 ,11 166 ,10+ ,51.05  ,"ul. Lewandów, Grodzisk, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
 1873,Pasaż Abrahama | nowe mieszkanie M1,886 171 ,14 527 ,3 ,61  ,"ul. gen. Romana Abrahama, Gocław, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
 1874,"12min do Metra - prywatny Ogród , 2-pokoje!",419 000 ,12 320 ,2 ,34.01  ,"ul. Lewandów, Grodzisk, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
 1875,2 pokoje Wilanów Zawady,780 000 ,17 727 ,2 ,44  ,"Powsinek, Wilanów, Warszawa, mazowieckie",Biuro nieruchomości
@@ -1892,7 +1892,7 @@
 1890,2-pokojowe mieszkanie 50m2 + balkon Bezpośrednio,Zapytaj o cenę2 pokoje50.18 m²,,,,"ul. Żupnicza, Kamionek, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
 1891,1-pokojowe mieszkanie 29m2 + balkon Bez Prowizji,Zapytaj o cenę1 pokój29.09 m²,,,,"ul. Michała Oczapowskiego, Wawrzyszew, Bielany, Warszawa, mazowieckie",Biuro nieruchomości
 1892,"Apartament 4 pokojowy, Warszawa Praga-Południe",1 450 000 ,16 755 ,4 ,86.54  ,"Grochów, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
-1893,Piękne 135 m2 na Zielonym Ursynowie,2 200 000 ,16 296 ,5 pokoi135 m²,,"Stary Imielin, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
+1893,Piękne 135 m2 na Zielonym Ursynowie,2 200 000 ,16 296 ,5 ,135  ,"Stary Imielin, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
 1894,3 pokoje Bielany Rezerwacja do 15.09.2023,510 000 ,12 143 ,3 ,42  ,"Huta, Bielany, Warszawa, mazowieckie",Biuro nieruchomości
 1895,Pięknie wykończone 30m2+klima Blisko Centrum,415 000 ,13 880 ,1 ,29.9  ,"Czechowice, Ursus, Warszawa, mazowieckie",Inwestycja deweloperska
 1896,"Mieszkanie M3 Warszawa , Kazimierza Deyny",980 000 ,14 939 ,3 ,65.6  ,"ul. Kazimierza Deyny, Górce, Bemowo, Warszawa, mazowieckie",Inwestycja deweloperska
@@ -1921,7 +1921,7 @@
 1919,Tylko 12 493 zł/m2. Ogródek aż 110m2. Aneks okno,775 200 ,12 493 ,3 ,62.05  ,"ul. Myśliborska, Tarchomin, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
 1920,Idealne dla rodziny z ogródkiem aż 103m2 >>,813 000 ,11 503 ,4 ,70.68  ,"ul. Myśliborska, Tarchomin, Białołęka, Warszawa, mazowieckie",Inwestycja deweloperska
 1921,Ogródek aż 65m2. Wstępna rezerwacja>> Idealne,628 900 ,13 976 ,2 ,45  ,"ul. Myśliborska, Tarchomin, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
-1922,Dwupoziomowe//Kamienica//3m H//300m Plac Wilsona,2 599 000 ,12 318 ,5 pokoi211 m²,,"ul. Juliusza Słowackiego, Stary Żoliborz, Żoliborz, Warszawa, mazowieckie",Biuro nieruchomości
+1922,Dwupoziomowe//Kamienica//3m H//300m Plac Wilsona,2 599 000 ,12 318 ,5 ,211  ,"ul. Juliusza Słowackiego, Stary Żoliborz, Żoliborz, Warszawa, mazowieckie",Biuro nieruchomości
 1923,4-pokojowe mieszkanie 83m2 + 3 loggie,Zapytaj o cenę4 pokoje83.39 m²,,,,"ul. Marywilska 19, Żerań, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
 1924,"Aleje Ujazdowskie, 2 pokoje do remontu",1 496 500 ,20 500 ,2 ,73  ,"al. Aleje Ujazdowskie, Śródmieście Południowe, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
 1925,Kawalerka w najwyższym standardzie przy stacji Skm,600 000 ,23 529 ,1 ,25.5  ,"ul. Stylowa, Wawer, Wawer, Warszawa, mazowieckie",Biuro nieruchomości
@@ -1943,9 +1943,9 @@
 1941,Apartament XVII p. z widokiem na skyline Warszawy,2 070 000 ,23 000 ,4 ,90  ,"ul. Marcina Kasprzaka, Odolany, Wola, Warszawa, mazowieckie",Biuro nieruchomości
 1942,2 sypialnie | Apartament na Serockiej,1 340 000 ,14 180 ,3 ,94.5  ,"ul. Serocka, Grochów, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
 1943,Apartament XVII p. z widokiem na skyline Warszawy,1 927 920 ,24 000 ,3 ,80.33  ,"ul. Marcina Kasprzaka, Odolany, Wola, Warszawa, mazowieckie",Biuro nieruchomości
-1944,"Nowoczesna i funkcjonalna przestrzeń z ogrodem,",2 330 000 ,12 777 ,6 pokoi182.36 m²,,"Zawady, Wilanów, Warszawa, mazowieckie",Biuro nieruchomości
+1944,"Nowoczesna i funkcjonalna przestrzeń z ogrodem,",2 330 000 ,12 777 ,6 ,182.36  ,"Zawady, Wilanów, Warszawa, mazowieckie",Biuro nieruchomości
 1945,Apartament W Budynku Z Basenem,2 100 000 ,12 575 ,4 ,167  ,"Śródmieście Południowe, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
-1946,"Nowoczesna i funkcjonalna przestrzeń z ogrodem,",2 330 000 ,12 777 ,6 pokoi182.36 m²,,"Zawady, Wilanów, Warszawa, mazowieckie",Biuro nieruchomości
+1946,"Nowoczesna i funkcjonalna przestrzeń z ogrodem,",2 330 000 ,12 777 ,6 ,182.36  ,"Zawady, Wilanów, Warszawa, mazowieckie",Biuro nieruchomości
 1947,Mieszkanie w centrum biznesowym,1 990 000 ,13 868 ,3 ,143.5  ,"ul. Łucka, Mirów, Wola, Warszawa, mazowieckie",Biuro nieruchomości
 1948,Mieszkanie z dużym balkonem w dobrej cenie,1 250 000 ,14 124 ,3 ,88.5  ,"al. Aleja gen. Władysława Sikorskiego, Stegny, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
 1949,Lokal mieszkalny w pobliżu Ronda Daszyńskiego,1 530 000 ,14 599 ,3 ,104.8  ,"ul. Łucka, Mirów, Wola, Warszawa, mazowieckie",Biuro nieruchomości
@@ -2035,7 +2035,7 @@
 2033,Mieszkanie klasy Premium Warszawa Wilanów,1 390 000 ,19 550 ,3 ,71.1  ,"ul. Adama Branickiego, Błonia Wilanowskie, Wilanów, Warszawa, mazowieckie",Biuro nieruchomości
 2034,"CESJA! 3 pokoje, klucze już we wrześniu 2023!",630 000 ,10 753 ,3 ,58.59  ,"ul. Winorośli, Nowodwory, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
 2035,"Mieszkanie 62m2, 3 pokoje, Praga Południe, Grochów",769 000 ,12 304 ,3 ,62.5  ,"ul. Wspólna Droga, Grochów, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
-2036,Piękne 135 m2 na Zielonym Ursynowie,2 200 000 ,16 296 ,5 pokoi135 m²,,"Stary Imielin, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
+2036,Piękne 135 m2 na Zielonym Ursynowie,2 200 000 ,16 296 ,5 ,135  ,"Stary Imielin, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
 2037,"ROI 8% w skali roku!/Muranów/Dwupak!/38,6m2",679 900 ,17 614 ,2 ,38.6  ,"ul. Niska, Muranów, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
 2038,Kamienica*3H*Od Zaraz*Cicho*Metro*Dwustronne*,845 000 ,17 259 ,2 ,48.96  ,"Nowolipki, Wola, Warszawa, mazowieckie",Biuro nieruchomości
 2039,Sgh*Sggw*3Pokoje*Balkon*Cicho*Park*Metro*Od Zaraz*,699 000 ,14 961 ,3 ,46.72  ,"Sadyba, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
@@ -2066,16 +2066,16 @@
 2064,"Top lokalizacja! Marszałkowska, 90,3 m2",1 649 000 ,18 261 ,3 ,90.3  ,"ul. Marszałkowska, Śródmieście Południowe, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
 2065,"Mieszkanie na sprzedaż, 2 pokoje, bezpośrednio",649 000 ,17 261 ,2 ,37.6  ,"ul. Jana Nowaka-Jeziorańskiego, Gocław, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
 2066,Gotowe do odbioru 3 pokoje Ursus. Posag 7 Panien,594 000 ,10 092 ,3 ,58.86  ,"ul. Posag 7 Panien, Szamoty, Ursus, Warszawa, mazowieckie",Biuro nieruchomości
-2067,Penthouse na Alei Szucha - Kamienica z 1910 roku,3 326 900 ,19 000 ,5 pokoi175.1 m²,,"al. Aleja Jana Chrystiana Szucha, Śródmieście Południowe, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
+2067,Penthouse na Alei Szucha - Kamienica z 1910 roku,3 326 900 ,19 000 ,5 ,175.1  ,"al. Aleja Jana Chrystiana Szucha, Śródmieście Południowe, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
 2068,Penthouse na Alei Szucha - Kamienica z 1910 roku,2 623 520 ,19 000 ,4 ,138.08  ,"al. Aleja Jana Chrystiana Szucha, Śródmieście Południowe, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
-2069,Penthouse na Alei Szucha - Kamienica z 1910 roku,5 950 420 ,19 000 ,7 pokoi313.18 m²,,"al. Aleja Jana Chrystiana Szucha, Śródmieście Południowe, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
-2070,Penthouse w kameralnym budynku z prywatną windą,2 900 000 ,10 309 ,6 pokoi281.3 m²,,"ul. Cypryjska, Stegny, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
-2071,Obok Królikarni z widokiem na zieleń - 5 pokoi,1 960 000 ,15 105 ,5 pokoi129.76 m²,,"ul. Wielicka, Ksawerów, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
+2069,Penthouse na Alei Szucha - Kamienica z 1910 roku,5 950 420 ,19 000 ,7 ,313.18  ,"al. Aleja Jana Chrystiana Szucha, Śródmieście Południowe, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
+2070,Penthouse w kameralnym budynku z prywatną windą,2 900 000 ,10 309 ,6 ,281.3  ,"ul. Cypryjska, Stegny, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
+2071,Obok Królikarni z widokiem na zieleń - 5 pokoi,1 960 000 ,15 105 ,5 ,129.76  ,"ul. Wielicka, Ksawerów, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
 2072,4 pokoje z dużą komórką. Inwestycja zrealizowana.,1 299 000 ,12 793 ,4 ,101.54  ,"ul. Szybka, Raków, Włochy, Warszawa, mazowieckie",Biuro nieruchomości
 2073,"Lazurowa/Narwik. Nowe . 3pok- 57,5m2, 3p. Metro.",855 000 ,14 870 ,3 ,57.5  ,"Górce, Bemowo, Warszawa, mazowieckie",Biuro nieruchomości
 2074,Zadbane mieszkanie Warszawa - Służew,615 000 ,14 643 ,2 ,42  ,"ul. Orzycka, Służew, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
 2075,"Funkcjonale, 3pokojowe mieszkanie na Bielanach",724 000 ,12 929 ,3 ,56  ,"Chomiczówka, Bielany, Warszawa, mazowieckie",Biuro nieruchomości
-2076,Ekskluzywny Penthouse | For Sale! | Centrum,5 800 000 ,17 683 ,6 pokoi328 m²,,"Muranów, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
+2076,Ekskluzywny Penthouse | For Sale! | Centrum,5 800 000 ,17 683 ,6 ,328  ,"Muranów, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
 2077,Apartament na Żoliborzu z widokiem na zieleń,4 995 000 ,34 930 ,3 ,143  ,"Stary Żoliborz, Żoliborz, Warszawa, mazowieckie",Biuro nieruchomości
 2078,Kawalerka w sercu warszawskiej Ochoty,800 000 ,20 000 ,1 ,40  ,"Szczęśliwice, Ochota, Warszawa, mazowieckie",Biuro nieruchomości
 2079,"Imielin, garaż, możliwość aranżacji 2 sypialni!",765 000 ,12 339 ,3 ,62  ,"Ursynów-Centrum, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
@@ -2199,7 +2199,7 @@
 2197,Komfortowy Apartament Na Żoliborzu,4 780 000 ,25 699 ,4 ,186  ,"Stary Żoliborz, Żoliborz, Warszawa, mazowieckie",Biuro nieruchomości
 2198,"Mieszkanie, 77 m², Warszawa",1 995 000 ,25 909 ,3 ,77  ,"Śródmieście Północne, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
 2199,Klimatyzowane mieszkanie na Ursynowie przy Parku.,1 160 000 ,10 741 ,4 ,108  ,"ul. Stryjeńskich, Natolin, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
-2200,"Klimatyczne Mieszkanie W Kamienicy 3,80 M Wysokośc",3 300 000 ,29 730 ,5 pokoi111 m²,,"Śródmieście Południowe, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
+2200,"Klimatyczne Mieszkanie W Kamienicy 3,80 M Wysokośc",3 300 000 ,29 730 ,5 ,111  ,"Śródmieście Południowe, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
 2201,Wyjątkowy apartament Warszawa-Mokotów!,1 525 000 ,16 939 ,3 ,90.03  ,"ul. Rakowiecka, Stary Mokotów, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
 2202,Kawalerka - Husa Park - Bez prowizji i PCC - LAS!,329 000 ,12 185 ,1 ,27  ,"ul. Jana Husa, Dąbrówka Szlachecka, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
 2203,"43m2, 2 pokoje, Głębocka/Atrium, metro",695 000 ,16 066 ,2 ,43.26  ,"Zacisze, Targówek, Warszawa, mazowieckie",Biuro nieruchomości
@@ -2211,7 +2211,7 @@
 2209,Okazja / Metro Rondo Onz / 3 pokoje / do remontu,739 000 ,12 906 ,3 ,57.26  ,"ul. Grzybowska, Śródmieście Północne, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
 2210,Kamienica /3 pokoje po remoncie / 2 balkony /garaż,960 000 ,15 434 ,3 ,62.2  ,"ul. Młynarska, Młynów, Wola, Warszawa, mazowieckie",Biuro nieruchomości
 2211,Okazja / Metro Rondo Onz / 4 pokoje / Centrum,739 000 ,12 906 ,4 ,57.26  ,"ul. Grzybowska, Śródmieście Północne, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
-2212,Penthouse przy Rondzie Daszyńskiego,2 850 000 ,23 171 ,5 pokoi123 m²,,"ul. Łucka, Mirów, Wola, Warszawa, mazowieckie",Biuro nieruchomości
+2212,Penthouse przy Rondzie Daszyńskiego,2 850 000 ,23 171 ,5 ,123  ,"ul. Łucka, Mirów, Wola, Warszawa, mazowieckie",Biuro nieruchomości
 2213,4 pokoje / loggia / 2x garaż / komórka / bez Pcc,1 325 000 ,16 987 ,4 ,78  ,"ul. Mariana Zdziechowskiego, Ksawerów, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
 2214,Elegancki apartament z widokiem na park,2 890 000 ,25 530 ,3 ,113.2  ,"ul. Czerniakowska, Solec, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
 2215,4 pokoje / loggia / 2x garaż / komórka / bez Pcc,1 325 000 ,16 987 ,4 ,78  ,"ul. Mariana Zdziechowskiego, Ksawerów, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
@@ -2240,10 +2240,10 @@
 2238,Grójecka / Włodarzewska 1-2 pok. balkon garaż,590 000 ,18 438 ,1 ,32  ,"ul. Grójecka, Szczęśliwice, Ochota, Warszawa, mazowieckie",Biuro nieruchomości
 2239,4-pokojowe mieszkanie przy Parku Szczęśliwickim,1 295 000 ,17 911 ,4 ,72.3  ,"Szczęśliwice, Ochota, Warszawa, mazowieckie",Inwestycja deweloperska
 2240,Wawer Mieszkanie 120 m2 do wprowadzenia,989 000 ,8242 ,4 ,120  ,"ul. Celulozy, Nadwiśle, Wawer, Warszawa, mazowieckie",Inwestycja deweloperska
-2241,"Mieszkanie, 96,50 m², Warszawa",888 000 ,9202 ,5 pokoi96.5 m²,,"ul. Tarnowiecka, Gocławek, Praga-Południe, Warszawa, mazowieckie",Inwestycja deweloperska
+2241,"Mieszkanie, 96,50 m², Warszawa",888 000 ,9202 ,5 ,96.5  ,"ul. Tarnowiecka, Gocławek, Praga-Południe, Warszawa, mazowieckie",Inwestycja deweloperska
 2242,"Mieszkanie, 74,36 m², Warszawa",1 188 000 ,15 976 ,3 ,74.36  ,"al. Aleja Wyścigowa, Służew, Mokotów, Warszawa, mazowieckie",Inwestycja deweloperska
 2243,400mDoSKM*WysokiSufit*PRZESTRONNYsalon*DużyBalkon,Zapytaj o cenę3 pokoje77.62 m²,,,,"ul. Romana Palestera, Białołęka Dworska, Białołęka, Warszawa, mazowieckie",Inwestycja deweloperska
-2244,Osiedle Tawułkowa | piętro + poddasze 158m2 | 6D,699 000 ,4424 ,5 pokoi158 m²,,"ul. Tawułkowa, Miedzeszyn, Wawer, Warszawa, mazowieckie",Inwestycja deweloperska
+2244,Osiedle Tawułkowa | piętro + poddasze 158m2 | 6D,699 000 ,4424 ,5 ,158  ,"ul. Tawułkowa, Miedzeszyn, Wawer, Warszawa, mazowieckie",Inwestycja deweloperska
 2245,Ursus Classic | mieszkanie 3-pok. |C1_122,Zapytaj o cenę3 pokoje65.33 m²,,,,"Dyrekcyjna, Szamoty, Ursus, Warszawa, mazowieckie",Biuro nieruchomości
 2246,LOFT GARDEN Wesoła ETAPII 53-97m2 apart. OGRÓDEK,643 000 ,11 976 ,3 ,53.69  ,"Zielona-Grzybowa, Wesoła, Warszawa, mazowieckie",Biuro nieruchomości
 2247,Willa Oksywska Marymont,2 200 000 ,22 814 ,4 ,96.43  ,"ul. Oksywska, Marymont-Kaskada, Bielany, Warszawa, mazowieckie",Inwestycja deweloperska
@@ -2257,7 +2257,7 @@
 2255,Mieszkanie na sprzedaż Warszawa Bielany 2pokoje,850 000 ,17 347 ,2 ,49  ,"ul. Sokratesa, Wawrzyszew, Bielany, Warszawa, mazowieckie",Biuro nieruchomości
 2256,Mieszkanie w inwestycji Ursynów#22 w niższej cenie,"730 620,30 ",16 571 ,2 ,44.09  ,"ul. Józefa Feliksa Ciszewskiego, Ursynów-Centrum, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
 2257,Sprzedam mieszkanie w świetnej lokalizacji,693 000 ,15 400 ,2 ,45  ,"ul. Zbigniewa Burzyńskiego, Gocław, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
-2258,Rodzinne mieszkanie z tarasem i widokiem na sad,2 215 202 ,13 999 ,5 pokoi158.24 m²,,"ul. Dostatnia, Zawady, Wilanów, Warszawa, mazowieckie",Biuro nieruchomości
+2258,Rodzinne mieszkanie z tarasem i widokiem na sad,2 215 202 ,13 999 ,5 ,158.24  ,"ul. Dostatnia, Zawady, Wilanów, Warszawa, mazowieckie",Biuro nieruchomości
 2259,"Mieszkanie 56,77 m2 > 3 pokoje > Rembertów",607 400 ,10 699 ,3 ,56.77  ,"Kawęczyn-Wygoda, Rembertów, Warszawa, mazowieckie",Biuro nieruchomości
 2260,Piękna kawalerka na Muranowie. Super lokalizacja,699 000 ,26 885 ,1 ,26  ,"ul. Pawia, Nowolipki, Wola, Warszawa, mazowieckie",Biuro nieruchomości
 2261,"Mieszkanie 3 pokoje, Bielany",696 000 ,14 500 ,3 ,48  ,"ul. Szegedyńska, Wrzeciono, Bielany, Warszawa, mazowieckie",Biuro nieruchomości
@@ -2296,8 +2296,8 @@
 2294,4pok|Metro Dw Wileński 6min| tram 4min| na 01'24r,1 163 677 ,14 280 ,4 ,81.49  ,"Pelcowizna, Praga-Północ, Warszawa, mazowieckie",Biuro nieruchomości
 2295,Zamieszkaj w cichej i zielonej części Natolina,789 000 ,12 445 ,3 ,63.4  ,"ul. Małej Łąki, Natolin, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
 2296,BEZPOŚREDNIO – Wykończony Apartament,4 100 000 ,24 699 ,4 ,166  ,"ul. Bergamotki, Stegny, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
-2297,Penthouse z tarasem 170 m2 i widokiem na zabytkowy,10 161 310 ,28 999 ,6 pokoi350.4 m²,,"Ksawerów, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
-2298,"Unikatowy widok na park! 2 balkony, winda wjeżdża",6 299 910 ,27 000 ,5 pokoi233.33 m²,,"Ksawerów, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
+2297,Penthouse z tarasem 170 m2 i widokiem na zabytkowy,10 161 310 ,28 999 ,6 ,350.4  ,"Ksawerów, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
+2298,"Unikatowy widok na park! 2 balkony, winda wjeżdża",6 299 910 ,27 000 ,5 ,233.33  ,"Ksawerów, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
 2299,3pok| Metro Dw Wileński 6min|widok na Wisłę| cena!,1 051 305 ,14 180 ,3 ,74.14  ,"Pelcowizna, Praga-Północ, Warszawa, mazowieckie",Biuro nieruchomości
 2300,Luxury rezydencja! Widok na park! Duży taras!,3 627 180 ,26 868 ,4 ,135  ,"Ksawerów, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
 2301,0% prowizji od Kupującego! Odnowiona kamienica!,676 005 ,25 037 ,2 ,27  ,"Śródmieście Południowe, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
@@ -2328,14 +2328,14 @@
 2326,Ursus | ul. Tomcia Palucha | 2 - pokoje | 51 m²,649 000 ,12 721 ,2 ,51.02  ,"ul. Tomcia Palucha, Skorosze, Ursus, Warszawa, mazowieckie",Biuro nieruchomości
 2327,Do sprzedaży atrakcyjne 2- pokojowe mieszkanie,699 000 ,15 032 ,2 ,46.5  ,"ul. Żytnia, Młynów, Wola, Warszawa, mazowieckie",Biuro nieruchomości
 2328,3 pokoje Nowe Budownictwo Saska ogródek + Garaż,1 150 000 ,17 164 ,3 ,67  ,"ul. Arabska, Saska Kępa, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
-2329,"Bezpośrednio od dewelopera, bez prowizji",4 000 000 ,17 778 ,8 pokoi225 m²,,"Stary Mokotów, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
+2329,"Bezpośrednio od dewelopera, bez prowizji",4 000 000 ,17 778 ,8 ,225  ,"Stary Mokotów, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
 2330,"2 pokoje, cicha, zielona okolica, metro Słodowiec.",585 000 ,16 433 ,2 ,35.6  ,"ul. Kiełpińska, Słodowiec, Bielany, Warszawa, mazowieckie",Biuro nieruchomości
 2331,Mieszkanie w nowym apartamentowcu na 3 piętrz,1 100 000 ,19 895 ,2 ,55.29  ,"Pyry, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
 2332,3-pokojowe mieszkanie 59m2 + ogródek,1 041 950 ,17 500 ,3 ,59.54  ,"ul. Figowa, Siekierki, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
 2333,3 pokoje do wejścia przy Uniwersytecie Medycznym,750 000 ,20 161 ,3 ,37.2  ,"ul. Jasielska, Rakowiec, Ochota, Warszawa, mazowieckie",Biuro nieruchomości
 2334,DOM SKRAJNY !Twój DOM w Cenie mieszkania !,1 039 000 ,7640 ,4 ,136  ,"Wał Miedzeszyński 472ZN, Las, Wawer, Warszawa, mazowieckie",Biuro nieruchomości
 2335,2 pokojowe mieszkanie - Metro Młociny,875 000 ,17 549 ,2 ,49.86  ,"ul. Sokratesa 13C, Wawrzyszew, Bielany, Warszawa, mazowieckie",Biuro nieruchomości
-2336,Nowy Etap w SPRZEDAŻY Eko Park Wawer III,1 039 000 ,7599 ,5 pokoi136.73 m²,,"Las, Wawer, Warszawa, mazowieckie",Biuro nieruchomości
+2336,Nowy Etap w SPRZEDAŻY Eko Park Wawer III,1 039 000 ,7599 ,5 ,136.73  ,"Las, Wawer, Warszawa, mazowieckie",Biuro nieruchomości
 2337,Nowe mieszkanie/Miasteczko Greenwood/,560 000 ,9766 ,3 ,57.34  ,"Białołęka Dworska, Białołęka, Warszawa, mazowieckie",Inwestycja deweloperska
 2338,BEZPOŚREDNIO | 2 pokoje | WYKOŃCZONE z architektem,625 000 ,13 298 ,2 ,47  ,"Monteverdiego, Zacisze, Targówek, Warszawa, mazowieckie",Inwestycja deweloperska
 2339,"Miasteczko Wilanów, 4 pok. Idealne dla rodziny!",1 590 000 ,15 687 ,4 ,101.36  ,"ul. Adama Branickiego, Błonia Wilanowskie, Wilanów, Warszawa, mazowieckie",Inwestycja deweloperska
@@ -2345,7 +2345,7 @@
 2343,"Apartamenty przy lesie, Marysin, korkowa 161e, la",799 000 ,17 025 ,2 ,46.93  ,"ul. Korkowa 161e, Marysin Wawerski, Wawer, Warszawa, mazowieckie",Biuro nieruchomości
 2344,38m2 przy metrze!Warszawa.Bez PCC!2 pokoje!Bezpośr,749 000 ,19 541 ,2 ,38.33  ,"ul. Szeligowska 30A, Chrzanów, Bemowo, Warszawa, mazowieckie",Biuro nieruchomości
 2345,"Komfortowy, 3 pokojowy apartament z dużym balkonem",1 120 000 ,18 695 ,3 ,59.91  ,"ul. Warzelnicza, Brzeziny, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
-2346,Mieszkanie dwupoziomowe przy ul. Włodajewska.,3 000 000 ,17 857 ,6 pokoi168 m²,,"Szczęśliwice, Ochota, Warszawa, mazowieckie",Biuro nieruchomości
+2346,Mieszkanie dwupoziomowe przy ul. Włodajewska.,3 000 000 ,17 857 ,6 ,168  ,"Szczęśliwice, Ochota, Warszawa, mazowieckie",Biuro nieruchomości
 2347,Od Zaraz! Apartament Glamour Warszawa Wola,999 999 ,25 700 ,2 ,38.91  ,"al. Aleja Prymasa Tysiąclecia, Koło, Wola, Warszawa, mazowieckie",Inwestycja deweloperska
 2348,3pokoje/przy samym metrze stokłosy,910 000 ,14 022 ,3 ,64.9  ,"ul. Stokłosy 1, Ursynów Północny, Ursynów, Warszawa, mazowieckie",Inwestycja deweloperska
 2349,"BEZPOŚREDNIO, bez PCC, NOWE, 2023, wykończone",900 000 ,21 951 ,2 ,41  ,"ul. Bokserska, Służewiec, Mokotów, Warszawa, mazowieckie",Inwestycja deweloperska
@@ -2402,7 +2402,7 @@
 2400,"Apartament 4 pokojowy, Warszawa Praga-Południe",1 450 000 ,16 755 ,4 ,86.54  ,"Grochów, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
 2401,"Wyjątkowa inwestycja, zakończenie budowy - 10.2023",830 000 ,16 275 ,3 ,51  ,"Ulrychów, Wola, Warszawa, mazowieckie",Inwestycja deweloperska
 2402,Metro Dw. Gdański KAMIENICA 2 pok. - BEZPOŚREDNIO,997 000 ,22 920 ,2 ,43.5  ,"Śródmieście Północne, Śródmieście, Warszawa, mazowieckie",Inwestycja deweloperska
-2403,5-pokojowe mieszkanie 134m2 + 2 loggie,3 122 242 ,23 250 ,5 pokoi134.29 m²,,"ul. Tadeusza Joteyki, Stara Ochota, Ochota, Warszawa, mazowieckie",Biuro nieruchomości
+2403,5-pokojowe mieszkanie 134m2 + 2 loggie,3 122 242 ,23 250 ,5 ,134.29  ,"ul. Tadeusza Joteyki, Stara Ochota, Ochota, Warszawa, mazowieckie",Biuro nieruchomości
 2404,2-pokojowe mieszkanie 38m2 + balkon,962 240 ,24 800 ,2 ,38.8  ,"ul. Tadeusza Joteyki, Stara Ochota, Ochota, Warszawa, mazowieckie",Inwestycja deweloperska
 2405,"Mieszkanie ciche, funkcjonalne - Stara Miłosna",1 180 000 ,14 552 ,4 ,81.09  ,"Miłosna Park, Stara Miłosna, Wesoła, Warszawa, mazowieckie",Inwestycja deweloperska
 2406,Dwupoziomowe w odnowionej kamienicy w Centrum! 0%,1 374 995 ,29 255 ,3 ,47  ,"Śródmieście Południowe, Śródmieście, Warszawa, mazowieckie",Inwestycja deweloperska
@@ -2488,7 +2488,7 @@
 2486,"Ochota: Mieszkanie 2 Pokoje 37,4m2 - Twój Nowy Kąt",685 000 ,18 316 ,2 ,37.4  ,"ul. Stefana Bobrowskiego, Szczęśliwice, Ochota, Warszawa, mazowieckie",Biuro nieruchomości
 2487,2pokoje kamienica po remoncie bezpośrednio,658 000 ,20 563 ,2 ,32  ,"ul. Puławska, Malczewskiego, Tyniecka, Wierzbno, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
 2488,Mieszkanie 30 m Śródmieście/Wola,510 000 ,17 000 ,2 ,30  ,"ul. Okopowa 23, Młynów, Wola, Warszawa, mazowieckie",Biuro nieruchomości
-2489,"Apartament, 5 pokojowy na Sarmackiej",2 200 000 ,17 600 ,5 pokoi125 m²,,"ul. Sarmacka, Błonia Wilanowskie, Wilanów, Warszawa, mazowieckie",Biuro nieruchomości
+2489,"Apartament, 5 pokojowy na Sarmackiej",2 200 000 ,17 600 ,5 ,125  ,"ul. Sarmacka, Błonia Wilanowskie, Wilanów, Warszawa, mazowieckie",Biuro nieruchomości
 2490,"Mieszkanie Sadyba 3 pokoje, winda, Warszawa",800 000 ,14 286 ,3 ,56  ,"ul. Nicejska, Stegny, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
 2491,Dwa oddzielne pokoje w Śródmieściu.,836 000 ,19 000 ,2 ,44  ,"al. Aleja ""Solidarności"", Śródmieście Północne, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
 2492,FUNKCJONALNE 2-pokoje - standard deweloperski,463 518 ,9387 ,2 ,49.38  ,"ul. Płochocińska, Szamocin, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
@@ -2510,12 +2510,12 @@
 2508,"wysoki standard, 5min do s8 - kredyt 2% - 3-pokoje",569 999 ,11 176 ,3 ,51  ,"ul. Lewandów, Grodzisk, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
 2509,Rodzinne mieszkanie w nowoczesnej dzielnicy.,939 000 ,11 513 ,4 ,81.56  ,"ul. Herbu Oksza, Szamoty, Ursus, Warszawa, mazowieckie",Biuro nieruchomości
 2510,Duży zielony TARAS widna kuchnia 20min do Centrum,613 999 ,11 695 ,3 ,52.5  ,"ul. Leona Berensona, Grodzisk, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
-2511,Dwupoziomowy apartament możliwe 5pokoi +taras 14m2,1 038 000 ,12 775 ,5 pokoi81.25 m²,,"Tarchomin, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
+2511,Dwupoziomowy apartament możliwe 5pokoi +taras 14m2,1 038 000 ,12 775 ,5 ,81.25  ,"Tarchomin, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
 2512,Apartament 3-pok z ogródkiem 70m2 |Metro |Bielany,1 207 800 ,19 402 ,3 ,62.25  ,"Huta, Bielany, Warszawa, mazowieckie",Biuro nieruchomości
-2513,Gotowy apartament z tarasem | Metro R. Dasz.- 1 km,2 777 500 ,24 599 ,5 pokoi112.91 m²,,"Ulrychów, Wola, Warszawa, mazowieckie",Biuro nieruchomości
+2513,Gotowy apartament z tarasem | Metro R. Dasz.- 1 km,2 777 500 ,24 599 ,5 ,112.91  ,"Ulrychów, Wola, Warszawa, mazowieckie",Biuro nieruchomości
 2514,Wola-Opcja 2 pokoje- R.Daszyńskiego- Premium-Garaż,895 000 ,26 324 ,2 ,34  ,"ul. Prosta, Mirów, Wola, Warszawa, mazowieckie",Biuro nieruchomości
 2515,Muranów/Słoneczn4 pokoje/64 m2/Loggia/Metro 5 min.,1 616 000 ,25 250 ,4 ,64  ,"ul. Józefa Lewartowskiego, Muranów, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
-2516,Apartament 107 m2/5 pokoi/Balkon/2 łazienki,1 196 000 ,11 178 ,5 pokoi107 m²,,"ul. gen. Leopolda Okulickiego, Gocław, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
+2516,Apartament 107 m2/5 pokoi/Balkon/2 łazienki,1 196 000 ,11 178 ,5 ,107  ,"ul. gen. Leopolda Okulickiego, Gocław, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
 2517,"Słoneczne 3 pokoje na Pradze Południe, Liwiecka",797 000 ,13 775 ,3 ,57.86  ,"Gocławek, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
 2518,2 pokoje przy metrze,835 000 ,15 254 ,2 ,54.74  ,"ul. Górczewska, Górce, Bemowo, Warszawa, mazowieckie",Biuro nieruchomości
 2519,"Sprzedam 3-pok. mieszkanie, Wola, Metro",950 000 ,16 934 ,3 ,56.1  ,"ul. Jana Olbrachta, Ulrychów, Wola, Warszawa, mazowieckie",Biuro nieruchomości
@@ -2535,7 +2535,7 @@
 2533,"2-pokoje, kredyt 2% - 12min do Metra - promocja",428 991 ,12 260 ,2 ,34.99  ,"ul. Lewandów, Grodzisk, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
 2534,2 pokojowe mieszkanie na kabatach,820 000 ,15 769 ,2 ,52  ,"ul. Stefana Dembego, Kabaty, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
 2535,Mieszkanie Siekierki 2 pokoje,970 000 ,17 321 ,2 ,56  ,"ul. Bluszczańska, Grochów, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
-2536,Sprzedam apartament na Sadach Żoliborskich,3 500 000 ,14 706 ,6 pokoi238 m²,,"ul. Sady Żoliborskie, Sady Żoliborskie, Żoliborz, Warszawa, mazowieckie",Biuro nieruchomości
+2536,Sprzedam apartament na Sadach Żoliborskich,3 500 000 ,14 706 ,6 ,238  ,"ul. Sady Żoliborskie, Sady Żoliborskie, Żoliborz, Warszawa, mazowieckie",Biuro nieruchomości
 2537,"Mieszkanie w pięknej aranżacji, Warszawa Bemowo",997 500 ,13 282 ,3 ,75.1  ,"ul. Antoniego Kocjana, Groty, Bemowo, Warszawa, mazowieckie",Biuro nieruchomości
 2538,Duże mieszkanie w cichej okolicy,699 000 ,10 491 ,3 ,66.63  ,"ul. Głębocka, Grodzisk, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
 2539,Mieszkanie z tarasem na Bemowie.,410 000 ,16 769 ,1 ,24.45  ,"ul. Górczewska, Górce, Bemowo, Warszawa, mazowieckie",Biuro nieruchomości
@@ -2556,14 +2556,14 @@
 2554,Trzypokojowe na Żoliborzu.,680 000 ,11 826 ,3 ,57.5  ,"Sady Żoliborskie, Żoliborz, Warszawa, mazowieckie",Biuro nieruchomości
 2555,Rewelacyjne 4 Pokoje W Sąsiedztwie Parku.,1 190 000 ,13 675 ,4 ,87.02  ,"Szczęśliwice, Ochota, Warszawa, mazowieckie",Biuro nieruchomości
 2556,"Ciche, urokliwe mieszkanie na ul. Krokwi",642 000 ,15 000 ,2 ,42.8  ,"ul. Krokwi, Henryków, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
-2557,Niezwykły apartament w samym sercu Warszawy!,1 839 000 ,21 893 ,5 pokoi84 m²,,"Śródmieście Północne, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
+2557,Niezwykły apartament w samym sercu Warszawy!,1 839 000 ,21 893 ,5 ,84  ,"Śródmieście Północne, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
 2558,3 pokojowe mieszkanie na Starym Żoliborzu!!!,650 000 ,13 830 ,3 ,47  ,"ul. Kajetana Koźmiana, Stary Żoliborz, Żoliborz, Warszawa, mazowieckie",Biuro nieruchomości
 2559,2 pokoje z balkonem * Do Remontu * Ciche * Jasne,849 900 ,16 500 ,2 ,51.51  ,"ul. Michała Bałuckiego, Stary Mokotów, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
 2560,"Warszawa, Ursus, 2 pokoje, rozkładowe, super lokal",480 000 ,11 429 ,2 ,42  ,"ul. Dzieci Warszawy, Skorosze, Ursus, Warszawa, mazowieckie",Biuro nieruchomości
 2561,2 pokoje PREMIUM w kamienicy na Saskiej Kępie,799 000 ,21 890 ,2 ,36.5  ,"Paryska 11/15, Saska Kępa, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
 2562,"CESJA! 3 pokoje, klucze już we wrześniu 2023",625 000 ,10 728 ,3 ,58.26  ,"ul. Winorośli, Nowodwory, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
 2563,"Nowy Apartament, Włodarzewska 70 Sprzedam",980 000 ,22 759 ,2 ,43.06  ,"ul. Włodarzewska 70, Szczęśliwice, Ochota, Warszawa, mazowieckie",Biuro nieruchomości
-2564,Dla rodzin ceniących wygodę.,1 200 000 ,10 000 ,5 pokoi120 m²,,"ul. Celulozy, Nadwiśle, Wawer, Warszawa, mazowieckie",Biuro nieruchomości
+2564,Dla rodzin ceniących wygodę.,1 200 000 ,10 000 ,5 ,120  ,"ul. Celulozy, Nadwiśle, Wawer, Warszawa, mazowieckie",Biuro nieruchomości
 2565,Mieszkanie z widokiem na park-do zamieszkania!,850 000 ,17 895 ,2 ,47.5  ,"ul. Karmelicka, Muranów, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
 2566,Lux mieszkanie w kamienicy! Ochota!,740 000 ,19 551 ,2 ,37.85  ,"ul. Kaliska, Stara Ochota, Ochota, Warszawa, mazowieckie",Biuro nieruchomości
 2567,Niepowtarzalna inwestycja Aroma Park - 3 pokoje,1 199 000 ,18 823 ,3 ,63.7  ,"ul. Klasyków, Henryków, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
@@ -2572,7 +2572,7 @@
 2570,Luksusowy apartament z wielkim tarasem i balkonem,1 490 000 ,17 326 ,3 ,86  ,"Gocławek, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
 2571,Granica Śródmieścia i Woli ★ Bezpośrednio ★,885 000 ,18 991 ,2 ,46.6  ,"Nowolipki, Wola, Warszawa, mazowieckie",Biuro nieruchomości
 2572,"Mieszkanie 3-pokojowe z widokiem, Gocław",1 050 000 ,15 813 ,3 ,66.4  ,"ul. Ostrobramska, Gocław, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
-2573,"APARTAMENT 155 m2 + 100 m2 tarasów, 5,80m wysokie",2 590 000 ,16 710 ,5 pokoi155 m²,,"ul. Fantazyjna, Zacisze, Targówek, Warszawa, mazowieckie",Biuro nieruchomości
+2573,"APARTAMENT 155 m2 + 100 m2 tarasów, 5,80m wysokie",2 590 000 ,16 710 ,5 ,155  ,"ul. Fantazyjna, Zacisze, Targówek, Warszawa, mazowieckie",Biuro nieruchomości
 2574,Przytulne 3 pokoje z ogródkiem na Ursusie! Okazja!,799 000 ,11 414 ,3 ,70  ,"ul. Dzieci Warszawy, Skorosze, Ursus, Warszawa, mazowieckie",Biuro nieruchomości
 2575,Ostatnia kawalerka z ogródkiem. Kredyt 2%,424 600 ,13 903 ,1 ,30.54  ,"ul. Myśliborska, Tarchomin, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
 2576,"Mieszkanie balkon, ogródek, 2 miejsca postojowe",753 000 ,8499 ,4 ,88.6  ,"ul. Wacława Wojtyszki, Nadwiśle, Wawer, Warszawa, mazowieckie",Biuro nieruchomości
@@ -2582,7 +2582,7 @@
 2580,"Apartment ze strefą fitness, sauną dla mieszkańców",1 024 000 ,14 813 ,2 ,69.13  ,"ul. Naddnieprzańska 26, Marysin Wawerski, Wawer, Warszawa, mazowieckie",Biuro nieruchomości
 2581,Mieszkanie z klimatem przy Pl. Szembeka!,495 000 ,14 860 ,1 ,33.31  ,"ul. ks. Jana Sztuki, Grochów, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
 2582,3 pokoje z balkonem blisko Ronda Wiatraczna,679 000 ,10 864 ,3 ,62.5  ,"ul. Majdańska, Grochów, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
-2583,75m2 + poddasze 90m2 Ogrody Tawułkowa II etap,629 000 ,8387 ,5 pokoi75 m²,,"ul. Tawułkowa, Miedzeszyn, Wawer, Warszawa, mazowieckie",Biuro nieruchomości
+2583,75m2 + poddasze 90m2 Ogrody Tawułkowa II etap,629 000 ,8387 ,5 ,75  ,"ul. Tawułkowa, Miedzeszyn, Wawer, Warszawa, mazowieckie",Biuro nieruchomości
 2584,Mieszkanie 3 pokojowe Osiedle Saska dwa ogródki,1 300 000 ,18 571 ,3 ,70  ,"osiedle saska, Gocław, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
 2585,3pok. z TARASEM 85m2 - widok na Park Szczęśliwicki,1 420 000 ,18 883 ,3 ,75.2  ,"ul. Karola Dickensa, Szczęśliwice, Ochota, Warszawa, mazowieckie",Biuro nieruchomości
 2586,Sprzedam mieszkanie 48 m2 Sadyba,720 000 ,15 000 ,3 ,48  ,"ul. Konstancińska, Sadyba, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
@@ -2631,11 +2631,11 @@
 2629,3-pokojowe mieszkanie 101m2 + balkon Bez Prowizji,Zapytaj o cenę3 pokoje101.6 m²,,,,"ul. Marii Rodziewiczówny, Gocławek, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
 2630,2-pokojowe mieszkanie 40m2 Bez Prowizji,Zapytaj o cenę2 pokoje40.26 m²,,,,"ul. Konopacka 12, Nowa Praga, Praga-Północ, Warszawa, mazowieckie",Biuro nieruchomości
 2631,1-pokojowe mieszkanie 26m2 Bez Pośredników,Zapytaj o cenę1 pokój26.52 m²,,,,"ul. Konopacka 12, Nowa Praga, Praga-Północ, Warszawa, mazowieckie",Biuro nieruchomości
-2632,Wspaniały apartament 5 pokoi.,1 949 000 ,17 357 ,5 pokoi112.29 m²,,"ul. Kruszyńska 40A, Jelonki Północne, Bemowo, Warszawa, mazowieckie",Biuro nieruchomości
+2632,Wspaniały apartament 5 pokoi.,1 949 000 ,17 357 ,5 ,112.29  ,"ul. Kruszyńska 40A, Jelonki Północne, Bemowo, Warszawa, mazowieckie",Biuro nieruchomości
 2633,"OKAZJA nowe 4pok 75,56m2 Ipiętro ul.BIAŁOŁĘCKA 344",725 376 ,9600 ,4 ,75.56  ,"ul. Białołęcka, Brzeziny, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
 2634,"Nowe, trzypokojowe na Tarchominie",626 300 ,11 775 ,3 ,53.19  ,"ul. Talarowa, Tarchomin, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
 2635,"OKAZJA 3pokoje 65,32m2 Białołęcka 344 WYKOŃCZONE",718 520 ,11 000 ,3 ,65.32  ,"ul. Białołęcka, Brzeziny, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
-2636,Komfortowe mieszkanie na Woli,2 431 700 ,21 567 ,5 pokoi112.75 m²,,"ul. Kolejowa, Czyste, Wola, Warszawa, mazowieckie",Biuro nieruchomości
+2636,Komfortowe mieszkanie na Woli,2 431 700 ,21 567 ,5 ,112.75  ,"ul. Kolejowa, Czyste, Wola, Warszawa, mazowieckie",Biuro nieruchomości
 2637,"Nowe, trzypokojowe mieszkanie na Tarchominie",643 700 ,11 927 ,3 ,53.97  ,"ul. Talarowa, Tarchomin, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
 2638,OKAZJA NOWE 3pokoje 60m2 Osiedle BIAŁOŁĘCKA 344,615 162 ,10 200 ,3 ,60.31  ,"ul. Białołęcka, Brzeziny, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
 2639,5 minut do Warsaw Spire/ 5 minutes to Warsaw Spire,850 000 ,18 478 ,3 ,46  ,"ul. Okopowa, Nowolipki, Wola, Warszawa, mazowieckie",Biuro nieruchomości
@@ -2654,7 +2654,7 @@
 2652,Szmaragdowy Dom - Gdańska 55C-nowy apartament 95m2,2 249 000 ,23 607 ,3 ,95.27  ,"ul. Gdańska, Marymont-Kaskada, Bielany, Warszawa, mazowieckie",Biuro nieruchomości
 2653,Dwupokojowe Mieszkanie Modlińska 201 | M7,602 658 ,12 600 ,2 ,47.83  ,"ul. Modlińska, Tarchomin, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
 2654,Przestronny Apartament Elite Wille Miejskie | 6B8,Zapytaj o cenę4 pokoje93.16 m²,,,,"ul. Dzieci Warszawy, Skorosze, Ursus, Warszawa, mazowieckie",Biuro nieruchomości
-2655,Apartament w Residence Rokitna.,7 900 000 ,28 938 ,5 pokoi273 m²,,"ul. Bitwy pod Rokitną, Stary Żoliborz, Żoliborz, Warszawa, mazowieckie",Biuro nieruchomości
+2655,Apartament w Residence Rokitna.,7 900 000 ,28 938 ,5 ,273  ,"ul. Bitwy pod Rokitną, Stary Żoliborz, Żoliborz, Warszawa, mazowieckie",Biuro nieruchomości
 2656,Stylowy Apartament blisko Pałacu w Wilanowie,1 640 000 ,17 375 ,3 ,94.39  ,"ul. Królowej Marysieńki, Wilanów Niski, Wilanów, Warszawa, mazowieckie",Biuro nieruchomości
 2657,Mieszkanie po remoncie w kamienicy_Centrum_ul Hoża,800 000 ,29 630 ,1 ,27  ,"ul. Hoża, Śródmieście Południowe, Śródmieście, Warszawa, mazowieckie",Biuro nieruchomości
 2658,Piękny Apartament 75.50m2 Garaż Loggia Komórka,1 540 000 ,20 397 ,3 ,75.5  ,"ul. Zygmunta Krasińskiego, Sady Żoliborskie, Żoliborz, Warszawa, mazowieckie",Biuro nieruchomości
@@ -2738,7 +2738,7 @@
 2736,2 x Kawalerki 11% ROI Galeria Mokotów,335 000 ,17 632 ,2 ,19  ,"ul. Tuchlińska 2, Służew, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
 2737,2pokoje kamienica po remoncie bezpośrednio,658 000 ,20 563 ,2 ,32  ,"ul. Puławska, Malczewskiego, Tyniecka, Wierzbno, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
 2738,Apartament 74 m2 z ogródkiem i 2 tarasami 77 m2!,1 850 000 ,25 000 ,3 ,74  ,"ul. Bluszczańska, Siekierki, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
-2739,5 pokojowe mieszkanie osiedlu Ogrody Shiraz.,2 850 000 ,19 537 ,5 pokoi145.88 m²,,"ul. Drawska, Szczęśliwice, Ochota, Warszawa, mazowieckie",Biuro nieruchomości
+2739,5 pokojowe mieszkanie osiedlu Ogrody Shiraz.,2 850 000 ,19 537 ,5 ,145.88  ,"ul. Drawska, Szczęśliwice, Ochota, Warszawa, mazowieckie",Biuro nieruchomości
 2740,2 pokoje | widok na las | nowe,761 000 ,16 216 ,2 ,46.93  ,"Marysin Wawerski, Wawer, Warszawa, mazowieckie",Biuro nieruchomości
 2741,"Nowe, do umeblowania. Kup na kredyt.",1 049 000 ,15 622 ,4 ,67.15  ,"ul. Radzymińska, Szmulowizna, Praga-Północ, Warszawa, mazowieckie",Biuro nieruchomości
 2742,Jasne * Loggia * Świetna lokalizacja * Widok,449 000 ,14 031 ,1 ,32  ,"ul. Etiudy Rewolucyjnej, Wyględów, Mokotów, Warszawa, mazowieckie",Inwestycja deweloperska
@@ -2756,7 +2756,7 @@
 2754,Komfortowe 2 pokoje na Ursynowie,869 000 ,14 493 ,2 ,59.96  ,"ul. Bekasów, Stary Imielin, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
 2755,Kawalerka na Muranowie,479 000 ,16 574 ,1 ,28.9  ,"ul. Esperanto, Nowolipki, Wola, Warszawa, mazowieckie",Biuro nieruchomości
 2756,"Prywatny Ogród, widok na Zieleń , 12min do Metra!",594 128 ,11 702 ,3 ,50.77  ,"ul. Głębocka, Grodzisk, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
-2757,Dwupoziomowy apartament z widokiem,3 609 048 ,14 860 ,5 pokoi242.87 m²,,"Kabaty, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
+2757,Dwupoziomowy apartament z widokiem,3 609 048 ,14 860 ,5 ,242.87  ,"Kabaty, Ursynów, Warszawa, mazowieckie",Biuro nieruchomości
 2758,Idealne na 1 mieszkanie -12min do Metra - kredyt2%,569 127 ,11 205 ,3 ,50.79  ,"ul. Lewandów, Grodzisk, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
 2759,Duży Balkon| Do Wprowadzenia| Dostępne Od Zaraz,759 000 ,17 859 ,2 ,42.5  ,"ul. Włościańska, Sady Żoliborskie, Żoliborz, Warszawa, mazowieckie",Biuro nieruchomości
 2760,Elegancki apartament OsiedleSaska - balkon i garaż,1 079 000 ,18 854 ,3 ,57.23  ,"Gocław, Praga-Południe, Warszawa, mazowieckie",Biuro nieruchomości
@@ -2788,8 +2788,8 @@
 2786,Designerski Apartament z 23m2 tarasem | Wilanów,880 000 ,26 887 ,2 ,32.73  ,"ul. Adama Branickiego, Błonia Wilanowskie, Wilanów, Warszawa, mazowieckie",Biuro nieruchomości
 2787,IDEALNE mieszkanie dla singla lub pary,1 165 000 ,18 551 ,2 ,62.8  ,"ul. Sarmacka, Błonia Wilanowskie, Wilanów, Warszawa, mazowieckie",Biuro nieruchomości
 2788,Mieszkania w stylu Bawarskiego wiązania,560 000 ,6222 ,4 ,90  ,"Wierzbno, Mokotów, Warszawa, mazowieckie",Biuro nieruchomości
-2789,"Mieszkanie, 158 m², Warszawa",699 000 ,4424 ,5 pokoi158 m²,,"Międzylesie, Wawer, Warszawa, mazowieckie",Biuro nieruchomości
-2790,"Mieszkanie, 158 m², Warszawa",699 000 ,4424 ,5 pokoi158 m²,,"Międzylesie, Wawer, Warszawa, mazowieckie",Biuro nieruchomości
+2789,"Mieszkanie, 158 m², Warszawa",699 000 ,4424 ,5 ,158  ,"Międzylesie, Wawer, Warszawa, mazowieckie",Biuro nieruchomości
+2790,"Mieszkanie, 158 m², Warszawa",699 000 ,4424 ,5 ,158  ,"Międzylesie, Wawer, Warszawa, mazowieckie",Biuro nieruchomości
 2791,Kredyt 2 % Dwustronne Wysoki standard,611 968 ,11 200 ,4 ,54.64  ,"ul. Leona Berensona, Grodzisk, Białołęka, Warszawa, mazowieckie",Biuro nieruchomości
 2792,Przestronna kawalerka bezpośrednio na Bemowie,550 000 ,15 278 ,1 ,36  ,"ul. Dywizjonu 303 303, Górce, Bemowo, Warszawa, mazowieckie",Biuro nieruchomości
 2793,Wilanów z prywatnym parkiem BEZ PROWIZJI,1 350 000 ,21 253 ,2 ,63.52  ,"ul. Prymasa Augusta Hlonda 2B, Błonia Wilanowskie, Wilanów, Warszawa, mazowieckie",Biuro nieruchomości
