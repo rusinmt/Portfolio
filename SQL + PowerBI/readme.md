@@ -58,7 +58,7 @@ JOIN FactInternetSales f ON d.SalesTerritoryKey = f.SalesTerritoryKey
 GROUP BY d.SalesTerritoryCountry, d.SalesTerritoryRegion, d.SalesTerritoryKey
 ORDER BY [Sales] DESC
 ```
-The DIM_SalesTerritory table groups the sum of SalesAmount for each sales territory and orders the results by three specified columns in descending order.
+The SalesTerritory table groups the sum of SalesAmount for each sales territory and orders the results by three specified columns in descending order. This query was used to explore the dataset in SQL Server and did not find a particular use in the model.
 ```sql
 ISNULL (p.Status, 'Outdated') AS ProductStatus 
 FROM 
