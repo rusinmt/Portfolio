@@ -10,6 +10,6 @@ SELECT
   [CalendarYear] As Year
 FROM 
   [AdventureWorksDW2022].[dbo].[DimDate]
-  WHERE CalendarYear >=2019
+  WHERE CalendarYear >=2020
   AND
     CalendarYear < 2023 OR (CalendarYear = 2023 AND MonthNumberOfYear <= 1)

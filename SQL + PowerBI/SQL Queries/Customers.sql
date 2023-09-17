@@ -1,7 +1,8 @@
-SELECT 
-  c.customerkey AS CustomerKey, 
-  c.firstname AS FirstName, 
-  c.lastname AS LastName, 
+SELECT
+  c.[GeographyKey],
+  c.[CustomerKey],
+  c.[FirstName],
+  c.[LastName],
   c.firstname + ' ' + lastname As FullName,
   CASE c.gender WHEN 'M' THEN 'Male' WHEN 'F' Then 'Female' END AS Gender,
   c.datefirstpurchase AS DateFirstPurchase,
