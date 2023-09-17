@@ -1,1 +1,101 @@
+Real Estate Web Scraping Project
+================================
 
+Overview
+--------
+
+This portfolio project focuses on scraping real estate data from a popular property listing website and structuring it into a clean DataFrame for further analysis. The project utilizes Python libraries such as BeautifulSoup and pandas to extract information about property listings, including price, location, and additional details like room information and area.
+
+Prerequisites
+-------------
+
+Before running the code, make sure you have the following Python libraries installed:
+
+-   BeautifulSoup
+-   pandas
+-   requests
+
+You can install these libraries using pip:
+
+bashCopy code
+
+`pip install beautifulsoup4 pandas requests`
+
+Step 1: Web Scraping
+--------------------
+
+1.  Define the Base URL and Number of Pages to Scrape
+
+    pythonCopy code
+
+    `url_base = 'https://www.otodom.pl/pl/wyniki/sprzedaz/mieszkanie/mazowieckie/warszawa/warszawa/warszawa?limit=72&ownerTypeSingleSelect=ALL&distanceRadius=0&by=DEFAULT&direction=DESC&viewType=listing&page='
+    num_pages = 50`
+
+2.  Set User-Agent Headers
+
+    pythonCopy code
+
+    `headers = {'User-Agent': 'Mozilla/5.0'}`
+
+3.  Initialize an Empty List to Store Data
+
+    pythonCopy code
+
+    `all_data = []`
+
+4.  Loop Through Pages, Send Requests, and Parse HTML
+
+    Iterate through the specified number of pages, sending HTTP requests, and parsing HTML content. Extract property information, including listing title, price, location, and ads.
+
+    pythonCopy code
+
+    `# Web scraping loop code`
+
+5.  Create a DataFrame to Store Scraped Data
+
+    pythonCopy code
+
+    `df = pd.DataFrame(all_data)`
+
+Step 2: Data Transformation
+---------------------------
+
+1.  Split the 'Price1' Column
+
+    Split the 'Price1' column into 'Price', 'SQMUP', 'Room Info', and 'Area'.
+
+    pythonCopy code
+
+    `# Code for splitting 'Price1' column`
+
+2.  Concatenate and Refactor Columns
+
+    Concatenate the divided columns into `divide_df` and drop redundant columns.
+
+    pythonCopy code
+
+    `# Code for concatenation and column cleanup`
+
+Step 3: Create the Final DataFrame
+----------------------------------
+
+1.  Concatenate Original and Divided DataFrames
+
+    Concatenate the original DataFrame and the divided DataFrame to create the final structured DataFrame.
+
+    pythonCopy code
+
+    `# Code for concatenating dataframes`
+
+2.  Drop 'Price1' Column and Reorder Columns
+
+    Drop the 'Price1' column and reorder columns for better readability.
+
+    pythonCopy code
+
+    `# Code for dropping and reordering columns`
+
+Conclusion
+----------
+
+This portfolio project demonstrates the process of web scraping real estate data, transforming it, and creating a structured DataFrame for further analysis. The resulting DataFrame, `final_df`, contains valuable information about property listings, making it suitable for various data analysis tasks.
