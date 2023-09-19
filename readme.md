@@ -1,1 +1,1 @@
-## :bar_chart:Data Analyst Portfolio:microscope:
+## :bar_chart:Data Portfolio:microscope:
