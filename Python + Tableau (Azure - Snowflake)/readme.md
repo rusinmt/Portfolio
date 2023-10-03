@@ -21,11 +21,25 @@ from urllib.request import Request, urlopen
 import requests
 import pandas as pd
 ```
-and establishing the number of listings on the site that fit the criteria.
+and establishing the number of pages on the site.
 
 ```python
 url_base = 'https://www.otodom.pl/pl/wyniki/sprzedaz/mieszkanie/mazowieckie/warszawa/warszawa/warszawa?distanceRadius=0&limit=72&ownerTypeSingleSelect=ALL&by=DEFAULT&direction=DESC&viewType=listing&page='
 num_pages = 50
+
 for page_num in range(1, num_pages + 1):
     url = url_base + str(page_num)
 ```
+The scraper will go trough range from 1 to 51.
+
+```python
+headers = {'User-Agent': 'Mozilla/5.0'}
+req = Request(url, headers=headers)
+
+    try:
+        response = urlopen(req, timeout=10)
+        page = response.read()
+
+        soup = BeautifulSoup(page, 'html.parser')
+```
+The 'User-Agent' header will mimic the Mozilla browser, which will help prevent websites from blocking or restricting access. The code will attempt to open and read a URL using functions from the 'urllib.request' library, with a 10-second timeout to abandon the request and raise an exception that will print an error message. The HTML content of the page is retrieved and parsed using BeautifulSoup, which will assist in locating specific elements by class and title.
