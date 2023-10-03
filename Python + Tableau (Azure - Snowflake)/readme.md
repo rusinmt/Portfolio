@@ -10,5 +10,3 @@ This project addresses this challenge by leveraging data extraction methods to s
 <p align="center">
 <![gif](https://github.com/rusinmt/portfolio/assets/143091357/aaff7b14-2479-43d8-8d0c-377eb57629a6)>
 </p>
-
-
