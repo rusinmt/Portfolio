@@ -21,7 +21,7 @@ from urllib.request import Request, urlopen
 import requests
 import pandas as pd
 ```
-and establishing the number of pages on the site.
+and establishing the number of pages on the website.
 
 ```python
 url_base = 'https://www.otodom.pl/pl/wyniki/sprzedaz/mieszkanie/mazowieckie/warszawa/warszawa/warszawa?distanceRadius=0&limit=72&ownerTypeSingleSelect=ALL&by=DEFAULT&direction=DESC&viewType=listing&page='
