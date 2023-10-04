@@ -299,3 +299,17 @@ plt.show()
 ![M_Price](https://github.com/rusinmt/portfolio/assets/143091357/c8da2a50-a1e5-4f9b-8c45-1bdb895dbabb)
 
 This code calculates the mean price of apartments in each location by grouping the data by the 'Location' column and then aggregating the 'Price' column using the mean function. The results are sorted in descending order by mean price.
+
+![m_sqmup](https://github.com/rusinmt/portfolio/assets/143091357/36c7bc05-0fd5-4b6e-8fc7-41e12529abcc)
+
+Same method is used for creating a bar chart for SQMUP by mean price.
+```python
+otodata = df.to_dict(orient='records')
+file_path = 'desktop/otodom_data.json'
+with open(file_path, 'w') as json_file:
+    json.dump(otodata, json_file, indent=4)
+```
+To convert each row of the DataFrame into a dictionary, store them as a list, and then write the data into an open JSON file, specifying the path where it will be saved.
+
+## Azure Data Factory to Snowflake
+
