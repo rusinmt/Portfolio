@@ -71,7 +71,7 @@ divide.columns = ['Price', 'SQMUP1']
 Firts 'divide' operation to split the values in column 'Price1' 
 | Price1                               |
 |                                 ---: |
-|680 000 zł16 798 zł/m²2 pokoje40.48 m²|
+|660 000 zł11 551 zł/m²2 pokoje57.14 m²|
 
 Splits the DataFrame only once at the first occurrence of 'zł', hence the use of '1'. This creates two columns, 'Price' and 'SQMUP,' which stand for Square Meter Unit Price in the project.
 ```python
@@ -83,3 +83,23 @@ Another 'str.split' method uses 'str.replace' with regular expressions beforehan
 divide_df = pd.concat([divide, divide2, divide3], axis=1)
 divide_df.drop(columns=['SQMUP1', 'Room Info1'], inplace=True)
 ```
+Function used to concatenate three new DataFrames along the columns. After concatenation, it drops two columns.
+```python
+final_df = pd.concat([df, divide_df], axis=1)
+final_df.drop(columns=['Price1'], inplace=True)
+final_df = final_df[['Listing', 'Price', 'SQMUP', 'Room Info', 'Area', 'Location', 'Ads']]
+```
+To create a formatted DataFrame for further analysis, the columns are rearranged in order.
+
+## Exploratory Data Analysis
+
+In order to gain a deeper understanding of the characteristics, patterns, and relationships among variables, as well as to eliminate outliers from the dataset, let us proceed by installing the necessary libraries.
+```python
+import pandas as pd
+import numpy as np
+import matplotlib.pylab as plt
+import seaborn as sns
+import json
+```
+
+
