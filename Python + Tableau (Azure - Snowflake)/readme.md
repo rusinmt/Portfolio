@@ -161,6 +161,8 @@ df['SQMUP'] = pd.to_numeric(df['SQMUP'].str.replace('[\xa0, ]', '', regex=True))
 df['Room Info'] = pd.to_numeric(df['Room Info'].str.replace('[\xa0+,]', '', regex=True))
 ```
 Removing non-breaking space characters and plus signs.
+<center>
+    
 |      |         Price |       SQMUP |   Room Info |        Area |
 |:-----|--------------:|------------:|------------:|------------:|
 | count |     3,267.000 |    3,267.000 |    3,267.000 |    3,267.000 |
@@ -172,12 +174,13 @@ Removing non-breaking space characters and plus signs.
 | 75%   | 1,250,000.000 |   19,085.500 |       3.000 |      76.175 |
 | max   | 134,602,330.000 |   75,000.000 |      10.000 | 15,650.000 |
 
+</center>
+
 Using df.describe() funtion to help find outliners in the data. 
 ```python
 show5 = df['SQMUP'].nsmallest(5)
 show5
 ```
-<div style="text-align:center;">
 <table>
   <tr>
     <td>1155</td>
@@ -200,7 +203,6 @@ show5
     <td>4424</td>
   </tr>
 </table>
-</div>
 
 Filtering odd values.
 
