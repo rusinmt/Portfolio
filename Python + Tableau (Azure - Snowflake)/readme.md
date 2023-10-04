@@ -73,4 +73,13 @@ Firts 'divide' operation to split the values in column 'Price1'
 |                                 ---: |
 |680 000 zł16 798 zł/m²2 pokoje40.48 m²|
 
-Splits the DataFrame only once at the first occurrence of 'zł', hence the use of '1'. This effectively creates two columns, 'Price' and 'SQMUP,' which stand for Square Meter Unit Price in the project. Thank you for the clarification.
+Splits the DataFrame only once at the first occurrence of 'zł', hence the use of '1'. This creates two columns, 'Price' and 'SQMUP,' which stand for Square Meter Unit Price in the project.
+```python
+divide3 = divide2['Room Info1'].str.replace('pokój|pokoje|pokoi', 'room', regex=True).str.split('room', expand=True)
+divide3.columns = ['Room Info', 'Area']
+```
+Another 'str.split' method uses 'str.replace' with regular expressions beforehand to find and replace substrings, affecting the 'Room Info1' column, and replaces 'pokój, pokoje, pokoi' with the word 'room', and then splits the column afterward.
+```python
+divide_df = pd.concat([divide, divide2, divide3], axis=1)
+divide_df.drop(columns=['SQMUP1', 'Room Info1'], inplace=True)
+```
