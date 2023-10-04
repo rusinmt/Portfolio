@@ -382,3 +382,6 @@ where LOCATION = 'Targówek'
     and PRICE > 55000000
 ```
 Using this SQL query to remove locations other than the eighteen Warsaw Districts and eliminate other outliers missed previously.
+
+## Tableau Dashboard
+
