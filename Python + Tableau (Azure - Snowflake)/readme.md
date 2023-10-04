@@ -68,10 +68,12 @@ Is used to display the progress of web scraping.
 divide = df['Price1'].str.split('zł', 1, expand=True)
 divide.columns = ['Price', 'SQMUP1']
 ```
-To split the values in column 'Price1' 
-```
-680 000 zł16 798 zł/m²2 pokoje40.48 m²
-```
+Firts 'divide' operation to split the values in column 'Price1' 
+| Price1                               |
+|                                 ---: |
+|680 000 zł16 798 zł/m²2 pokoje40.48 m²|
+
+
 
 
 
