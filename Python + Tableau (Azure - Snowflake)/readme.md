@@ -120,7 +120,7 @@ df = df[[
 df = df.loc[~df.duplicated(subset=['Listing', 'Price', 'Area'])].reset_index(drop=True).copy()
 ```
 The code eliminates rows with missing values. It then selects a subset of columns ('Listing,' 'Price,' 'SQMUP,' 'Room Info,' 'Area,' 'Location,' and 'Ads') while creating a copy of the edited DataFrame at each step to avoid any inadvertent modifications to the original data. Removes duplicate rows by applying conditions that keep only unique combinations in the 'Listing,' 'Price,' and 'Area' columns.
-
+|()|()|
 |-----------|---------|
 | Listing   | object  |
 | Price     | object  |
