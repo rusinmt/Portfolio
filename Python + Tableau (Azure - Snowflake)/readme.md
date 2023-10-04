@@ -177,7 +177,7 @@ Using df.describe() funtion to help find outliners in the data.
 show5 = df['SQMUP'].nsmallest(5)
 show5
 ```
-
+<center>
 <table>
   <tr>
     <td>1155</td>
@@ -200,6 +200,7 @@ show5
     <td>4424</td>
   </tr>
 </table>
+<center>
 
 Filtering odd values.
 
