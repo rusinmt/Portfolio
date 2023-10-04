@@ -237,4 +237,26 @@ This code utilizes Seaborn's pairplot function to create a pairwise scatterplot 
 ![heatmap](https://github.com/rusinmt/portfolio/assets/143091357/433d0a8e-ac90-4fea-80c2-ea184b95275c)
 
 There is a very weak but visible correlation between Price and Area or SQMUP and the Area. When the size of the apartment increases, the prices tend to slightly increase.
+```python
+districts = [
+    'Bemowo', 'Białołęka', 'Bielany', 'Mokotów', 'Ochota', 'Praga-Południe', 'Praga-Północ', 'Rembertów',
+    'Śródmieście', 'Targówek', 'Ursus', 'Ursynów', 'Wawer', 'Wesoła', 'Wilanów', 'Włochy', 'Wola', 'Żoliborz',
+    'Marki', 'Wołomin', 'Zielonka', 'Ząbki', 'Łomianki', 'Piaseczno', 'Pruszków', 'Grodzisk', 'Legionowo', 
+    'Nadarzyn', 'Konstancin-Jeziorna' ,'Piastów', 'Józefów', 'Nowy Dwór', 'Jabłonna', 'Stare Babice'
+]
 
+def change_location(location):
+    for district in districts:
+        if district.lower() in location.lower():
+            return district
+    return location
+
+df['Location'] = df['Location'].apply(change_location)
+```
+To standardize the location information in the 'Location' column by replacing specific location names with their corresponding districts if a match is found. 
+
+```python
+df['Index'] = range(1, len(df) + 1)
+df.set_index('Index', inplace=True)
+```
+Ss used to reassign index values and set a new column as the DataFrame index.
