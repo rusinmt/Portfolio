@@ -207,10 +207,11 @@ Filtering odd values.
 check = df[df.index == 1155 ]
 check
 ```
-
+<center>
 | Listing                                     | Price  | SQMUP | Room Info |   Area   | Location                                     | Ads                                 |
 |---------------------------------------------|--------|-------|-----------|----------|----------------------------------------------|-------------------------------------|
 | Małe mieszkanie przy Alejach Jerezolimskich | 567469 |  36   |    2      | 15650.000| al. Aleje Jerozolimskie, Stare Włochy, Włochy | NEUF Sp. z o.oBiuro nieruchomości |
+<center>
 
 ```python
 df = df.drop([1137, 350, 1144, 589, 558, 2185, 1476, 1384, 563, 262, 947, 1143, 1368, 1385, 683, 139, 252, 707, 3078, 710, 714, 
