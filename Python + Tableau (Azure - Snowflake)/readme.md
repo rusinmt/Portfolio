@@ -153,3 +153,11 @@ The code eliminates rows with missing values. It then selects a subset of column
 </table>
 
 Converting values to numeric.
+```python
+df['Price'] = pd.to_numeric(df['Price'].str.replace('[\xa0, ]', '', regex=True))
+
+df['SQMUP'] = pd.to_numeric(df['SQMUP'].str.replace('[\xa0, ]', '', regex=True))
+
+df['Room Info'] = pd.to_numeric(df['Room Info'].str.replace('[\xa0+,]', '', regex=True))
+```
+Removing non-breaking space characters and plus signs.
