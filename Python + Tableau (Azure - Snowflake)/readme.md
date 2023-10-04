@@ -259,4 +259,43 @@ To standardize the location information in the 'Location' column by replacing sp
 df['Index'] = range(1, len(df) + 1)
 df.set_index('Index', inplace=True)
 ```
-Ss used to reassign index values and set a new column as the DataFrame index.
+Is used to reassign index values and set a new column as the DataFrame index.
+
+```python
+top10 = df['Location'].value_counts().head(10)
+
+plt.figure(figsize=(10, 6))
+ax = top10.plot(kind='bar', title='Top 10 Locations by Listings Count')
+
+for i, count in enumerate(top10):
+    ax.text(i, count, str(count), ha='center', va='bottom', fontsize=10)
+
+plt.xticks(rotation=45)
+plt.tight_layout()
+
+plt.show()
+```
+![top 10 listing count](https://github.com/rusinmt/portfolio/assets/143091357/66c70f48-8cee-4cf0-baa4-000b0bc3cf8a)
+
+The code calculates the count of Apartment listings by Location, sets a specific size for a Matplotlib figure, displays a text label for each location with text alignment options, and rotates x-axis labels. This visual representation helps identify the most popular areas based on listing counts.
+```python
+top_location = df.groupby('Location')['Price'].agg(['mean']).sort_values(by='mean', ascending=False).head(30)
+
+top_location.index.name = 'Location'
+
+top_location.sort_values(by='mean', ascending=False, inplace=True)
+
+top_location.plot(kind='bar', 
+                  title='Locations by Mean Price', 
+                  xlabel='Location', 
+                  ylabel='Mean Price'
+                 )
+
+plt.xticks(rotation=90)
+
+plt.show()
+```
+
+![M_Price](https://github.com/rusinmt/portfolio/assets/143091357/c8da2a50-a1e5-4f9b-8c45-1bdb895dbabb)
+
+This code calculates the mean price of apartments in each location by grouping the data by the 'Location' column and then aggregating the 'Price' column using the mean function. The results are sorted in descending order by mean price.
