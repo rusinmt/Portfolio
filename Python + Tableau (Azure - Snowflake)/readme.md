@@ -172,5 +172,40 @@ Removing non-breaking space characters and plus signs.
 | 75%   | 1,250,000.000 |   19,085.500 |       3.000 |      76.175 |
 | max   | 134,602,330.000 |   75,000.000 |      10.000 | 15,650.000 |
 
-Using df.describe() funtion to help find outliners in the data.
+Using df.describe() funtion to help find outliners in the data. 
+```python
+show5 = df['SQMUP'].nsmallest(5)
+show5
+
+check = df[df.index == 1155 ]
+check
+```
+Filtering odd values.
+
+<table>
+  <tr>
+    <td>1155</td>
+    <td>36</td>
+  </tr>
+  <tr>
+    <td>1099</td>
+    <td>4424</td>
+  </tr>
+  <tr>
+    <td>1333</td>
+    <td>4424</td>
+  </tr>
+  <tr>
+    <td>1724</td>
+    <td>4424</td>
+  </tr>
+  <tr>
+    <td>2018</td>
+    <td>4424</td>
+  </tr>
+</table>
+
+| Listing                                     | Price  | SQMUP | Room Info |   Area   | Location                                     | Ads                                 |
+|---------------------------------------------|--------|-------|-----------|----------|----------------------------------------------|-------------------------------------|
+| Małe mieszkanie przy Alejach Jerezolimskich | 567469 |  36   |    2      | 15650.000| al. Aleje Jerozolimskie, Stare Włochy, Włochy | NEUF Sp. z o.oBiuro nieruchomości |
 
