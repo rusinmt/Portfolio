@@ -176,9 +176,6 @@ Using df.describe() funtion to help find outliners in the data.
 ```python
 show5 = df['SQMUP'].nsmallest(5)
 show5
-
-check = df[df.index == 1155 ]
-check
 ```
 Filtering odd values.
 
@@ -205,7 +202,19 @@ Filtering odd values.
   </tr>
 </table>
 
+```python
+check = df[df.index == 1155 ]
+check
+```
+
 | Listing                                     | Price  | SQMUP | Room Info |   Area   | Location                                     | Ads                                 |
 |---------------------------------------------|--------|-------|-----------|----------|----------------------------------------------|-------------------------------------|
 | Małe mieszkanie przy Alejach Jerezolimskich | 567469 |  36   |    2      | 15650.000| al. Aleje Jerozolimskie, Stare Włochy, Włochy | NEUF Sp. z o.oBiuro nieruchomości |
 
+```python
+df = df.drop([1137, 350, 1144, 589, 558, 2185, 1476, 1384, 563, 262, 947, 1143, 1368, 1385, 683, 139, 252, 707, 3078, 710, 714, 
+              779, 825, 2700, 718, 713, 3191, 1080, 2166, 1644, 1643, 2191, 2105, 948, 2115, 2112, 1985, 2122, 2123, 950, 1155])
+
+df = df.reset_index(drop=True).copy()
+```
+Dropping specific rows by theinr Index number and reindexing the DataFrame.
