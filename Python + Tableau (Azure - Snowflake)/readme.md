@@ -161,3 +161,16 @@ df['SQMUP'] = pd.to_numeric(df['SQMUP'].str.replace('[\xa0, ]', '', regex=True))
 df['Room Info'] = pd.to_numeric(df['Room Info'].str.replace('[\xa0+,]', '', regex=True))
 ```
 Removing non-breaking space characters and plus signs.
+|      |         Price |       SQMUP |   Room Info |        Area |
+|:-----|--------------:|------------:|------------:|------------:|
+| count |     3,267.000 |    3,267.000 |    3,267.000 |    3,267.000 |
+| mean  | 1,976,517.784 |   16,725.794 |       2.741 |      70.558 |
+| std   | 8,035,822.220 |    5,907.600 |       1.073 |     275.404 |
+| min   |     224,500.000 |       36.000 |       1.000 |      13.000 |
+| 25%   |     650,000.000 |   12,898.000 |       2.000 |      43.280 |
+| 50%   |     835,000.000 |   15,753.000 |       3.000 |      56.100 |
+| 75%   | 1,250,000.000 |   19,085.500 |       3.000 |      76.175 |
+| max   | 134,602,330.000 |   75,000.000 |      10.000 | 15,650.000 |
+
+Using df.describe() funtion to help find outliners in the data.
+
