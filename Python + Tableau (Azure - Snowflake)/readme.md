@@ -275,7 +275,9 @@ plt.tight_layout()
 
 plt.show()
 ```
-![top 10 listing count](https://github.com/rusinmt/portfolio/assets/143091357/66c70f48-8cee-4cf0-baa4-000b0bc3cf8a)
+<p align="center">
+  <img src="https://github.com/rusinmt/portfolio/assets/143091357/66c70f48-8cee-4cf0-baa4-000b0bc3cf8a">
+</p>
 
 The code calculates the count of Apartment listings by Location, sets a specific size for a Matplotlib figure, displays a text label for each location with text alignment options, and rotates x-axis labels. This visual representation helps identify the most popular areas based on listing counts.
 ```python
