@@ -177,7 +177,6 @@ Using df.describe() funtion to help find outliners in the data.
 show5 = df['SQMUP'].nsmallest(5)
 show5
 ```
-Filtering odd values.
 
 <table>
   <tr>
@@ -202,6 +201,8 @@ Filtering odd values.
   </tr>
 </table>
 
+Filtering odd values.
+
 ```python
 check = df[df.index == 1155 ]
 check
@@ -218,3 +219,15 @@ df = df.drop([1137, 350, 1144, 589, 558, 2185, 1476, 1384, 563, 262, 947, 1143, 
 df = df.reset_index(drop=True).copy()
 ```
 Dropping specific rows by theinr Index number and reindexing the DataFrame.
+```python
+df['Ads'] = df['Ads'].apply(lambda x: 'Biuro nieruchomości' if 'nieruchomości' in x.lower() else x)
+df['Ads'] = df['Ads'].apply(lambda x: 'Inwestycja deweloperska' if 'deweloperska' in x.lower() else x)
+```
+If the keywords 'nieruchomości' or 'deweloperska' are present in the text, they are replaced with new labels, otherwise, they remain the same.
+```python
+sns.pairplot(df, vars=['Price', 'SQMUP', 'Room Info', 'Area'], hue='Ads')
+
+plt.show()
+```
+![pairplot](https://github.com/rusinmt/portfolio/assets/143091357/2932688d-097c-4a9c-8655-8059c85dfc6f)
+This code utilizes Seaborn's pairplot function to create a pairwise scatterplot matrix. It visualizes how these numeric variables relate to each other within different categories of 'Ads.'
