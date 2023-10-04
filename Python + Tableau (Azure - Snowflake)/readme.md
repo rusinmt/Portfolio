@@ -337,8 +337,8 @@ Creating a new Resource group for a Storage Account and establishing Blob Storag
     <img src="https://github.com/rusinmt/portfolio/assets/143091357/e9b79119-384c-4110-87e3-544f851b7590">
 </p>
 
-To ensure that the data is transformed correctly in the Copy Data activity, mapping is used.
+To ensure that the data is loaded correctly in the Copy Data activity, schema mapping defines the way in which columns in the source dataset correspond to fields in the destination dataset.
 
 <p align="center">
-    <img src="https://github.com/rusinmt/portfolio/assets/143091357/f37d9d38-5d99-4fb8-a62f-5410ca0924ce" witdh="500">
+    <img src="https://github.com/rusinmt/portfolio/assets/143091357/f37d9d38-5d99-4fb8-a62f-5410ca0924ce" width="700">
 </p>
