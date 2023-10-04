@@ -242,7 +242,7 @@ plt.show()
 
 ![pairplot](https://github.com/rusinmt/portfolio/assets/143091357/2932688d-097c-4a9c-8655-8059c85dfc6f)
 
-This code utilizes Seaborn's pairplot function to create a pairwise scatterplot matrix. It visualizes how these numeric variables relate to each other within different categories of 'Ads'. The only strong correlation is an obvious one between the number of rooms in 'Room Info' and the Area. This positive correlation suggests that apartments with more rooms tend to have a larger area.
+This code utilizes Seaborn's pairplot function to create a pairwise scatterplot matrix. It visualizes how these numeric variables relate to each other within different categories of 'Ads'. The only strong correlation is an obvious one, between the number of rooms in 'Room Info' and the Area. This positive correlation suggests that apartments with more rooms tend to have a larger area.
 
 <p align="center">
   <img src="https://github.com/rusinmt/portfolio/assets/143091357/433d0a8e-ac90-4fea-80c2-ea184b95275c">
