@@ -234,7 +234,9 @@ plt.show()
 
 This code utilizes Seaborn's pairplot function to create a pairwise scatterplot matrix. It visualizes how these numeric variables relate to each other within different categories of 'Ads'. The only strong correlation is an obvious one between the number of rooms in 'Room Info' and the Area. This positive correlation suggests that apartments with more rooms tend to have a larger area.
 
-![heatmap](https://github.com/rusinmt/portfolio/assets/143091357/433d0a8e-ac90-4fea-80c2-ea184b95275c)
+<p align="center">
+  <img src="https://github.com/rusinmt/portfolio/assets/143091357/433d0a8e-ac90-4fea-80c2-ea184b95275c">
+</p>
 
 There is a very weak but visible correlation between Price and Area or SQMUP and the Area. When the size of the apartment increases, the prices tend to slightly increase.
 ```python
