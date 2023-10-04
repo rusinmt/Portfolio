@@ -340,5 +340,5 @@ Creating a new Resource group for a Storage Account and establishing Blob Storag
 To ensure that the data is transformed correctly in the Copy Data activity, mapping is used.
 
 <p align="center">
-    <img src="https://github.com/rusinmt/portfolio/assets/143091357/f37d9d38-5d99-4fb8-a62f-5410ca0924ce">
+    <img src="https://github.com/rusinmt/portfolio/assets/143091357/f37d9d38-5d99-4fb8-a62f-5410ca0924ce" witdh="500">
 </p>
