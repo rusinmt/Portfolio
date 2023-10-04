@@ -74,9 +74,13 @@ divide = df['Price1'].str.split('zł', 1, expand=True)
 divide.columns = ['Price', 'SQMUP1']
 ```
 Firts 'divide' operation to split the values in column 'Price1' 
+<div align="center">
+
 | Price1                               |
 |                                 ---: |
 |660 000 zł11 551 zł/m²2 pokoje57.14 m²|
+
+</div>
 
 Splits the DataFrame only once at the first occurrence of 'zł', hence the use of '1'. This creates two columns, 'Price' and 'SQMUP,' which stand for Square Meter Unit Price in the project.
 ```python
