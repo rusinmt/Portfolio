@@ -300,7 +300,7 @@ plt.show()
 
 This code calculates the mean price of apartments in each location by grouping the data by the 'Location' column and then aggregating the 'Price' column using the mean function. The results are sorted in descending order by mean price.
 <p align="center">
-<img src="https://github.com/rusinmt/portfolio/assets/143091357/36c7bc05-0fd5-4b6e-8fc7-41e12529abcc")
+<img src=("https://github.com/rusinmt/portfolio/assets/143091357/36c7bc05-0fd5-4b6e-8fc7-41e12529abcc")
 </p>
 Same method is used for creating a bar chart for SQMUP by mean price.
 ```python
