@@ -337,8 +337,48 @@ Creating a new Resource group for a Storage Account and establishing Blob Storag
     <img src="https://github.com/rusinmt/portfolio/assets/143091357/e9b79119-384c-4110-87e3-544f851b7590">
 </p>
 
-To ensure that the data is loaded correctly in the Copy Data activity, schema mapping defines the way in which columns in the source dataset correspond to fields in the destination dataset.
+To ensure that the data is loaded correctly in the Copy Data activity, schema mapping defines how columns in the source dataset correspond to fields in the destination dataset.
 
 <p align="center">
     <img src="https://github.com/rusinmt/portfolio/assets/143091357/f37d9d38-5d99-4fb8-a62f-5410ca0924ce" width="700">
 </p>
+
+Setting up Snowflake structure.
+
+```sql
+create warehouse OTODOM_WH
+use warehouse OTODOM_WH
+
+create file format json_format
+    type = JSON
+```
+Creating a warehouse to allocate resources for data processing. Specifying a file format for loading data.
+```sql
+create or replace TABLE OTODOM_DATA (
+	LISTING VARCHAR(16777216),
+	PRICE NUMBER(38,0),
+	SQMUP NUMBER(38,0),
+	ROOM_INFO NUMBER(38,0),
+	AREA NUMBER(38,0),
+	LOCATION VARCHAR(16777216),
+	ADS VARCHAR(16777216)
+)
+```
+Defining the structure of Snowflake table.
+```sql
+delete from PROJECT.DATA.OTODOM_DATA
+where LOCATION not in (
+    'Bemowo', 'Białołęka', 'Bielany', 'Mokotów', 'Ochota', 'Praga-Południe',
+    'Praga-Północ', 'Rembertów', 'Śródmieście', 'Targówek', 'Ursus', 'Ursynów',
+    'Wawer', 'Wesoła', 'Wilanów', 'Włochy', 'Wola', 'Żoliborz'
+)
+
+select * from PROJECT.DATA.OTODOM_DATA
+where LOCATION = 'Targówek'
+order by PRICE desc
+
+delete from PROJECT.DATA.OTODOM_DATA
+where LOCATION = 'Targówek'
+    and PRICE > 55000000
+```
+Using this SQL query for other locations other than the 18 Warsaw Districts. Eliminating other outliers missed previously.
