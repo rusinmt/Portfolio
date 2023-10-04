@@ -364,7 +364,7 @@ create or replace TABLE OTODOM_DATA (
 	ADS VARCHAR(16777216)
 )
 ```
-Defining the structure of Snowflake table.
+Defining schema for a Snowflake table.
 ```sql
 delete from PROJECT.DATA.OTODOM_DATA
 where LOCATION not in (
