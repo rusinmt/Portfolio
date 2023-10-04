@@ -311,7 +311,7 @@ plt.show()
 ```
 
 <p align="center">
-  <img src="https://github.com/rusinmt/portfolio/assets/143091357/c8da2a50-a1e5-4f9b-8c45-1bdb895dbabb">
+  <img src="https://github.com/rusinmt/portfolio/assets/143091357/c8da2a50-a1e5-4f9b-8c45-1bdb895dbabb" width="600">
 </p>
 
 This code calculates the mean price of apartments in each location by grouping the data by the 'Location' column and then aggregating the 'Price' column using the mean function. The results are sorted in descending order by mean price.
