@@ -331,6 +331,11 @@ To convert each row of the DataFrame into a dictionary, store them as a list, an
 
 ## Setting up Azure Data Factory and Snowflake connection
 
-Creating a new Resource group for a Storage Account and establishing Blob Storage within, to upload otodom_data.json file to a Container. Within a Data Factory 
+Creating a new Resource group for a Storage Account and establishing Blob Storage within, to upload otodom_data.json file to a Container. Within a Data Factory setting up Linked Services connections for Azure Blob Storage and Snowflake Warehouse.
+
+<p align="center">
+    <img src="https://github.com/rusinmt/portfolio/assets/143091357/e9b79119-384c-4110-87e3-544f851b7590">
+</p>
+
 
 
