@@ -42,4 +42,39 @@ req = Request(url, headers=headers)
 
         soup = BeautifulSoup(page, 'html.parser')
 ```
-The 'User-Agent' header will mimic the Mozilla browser, which will help prevent websites from blocking or restricting access. The code will attempt to open and read a URL using functions from the 'urllib.request' library, with a 10-second timeout to abandon the request and raise an exception that will print an error message. The HTML content of the page is retrieved and parsed using BeautifulSoup, which will assist in locating specific elements by class and title.
+The 'User-Agent' header will mimic the Mozilla browser, which will help prevent websites from blocking or restricting access. The code will open and read a URL using functions from the 'urllib.request' library, with a 10-second timeout to abandon the request and raise an exception that will print an error message. The HTML content of the page is retrieved and parsed using BeautifulSoup, which will assist in locating specific elements by class and title.
+
+```python
+ for t, p, l, a in zip(
+            soup.find_all('div', {'class': 'css-gg4vpm e1n06ry51'}),
+            soup.find_all('div', {'class': 'e1jyrtvq0 css-1tjkj49 ei6hyam0'}),
+            soup.find_all('p', {'class': 'css-19dkezj e1n06ry53'}),
+            soup.find_all('div', {'class': 'css-70qvj9 enzg89n0'})
+        ):
+            data = {
+                'Listing': t.text.strip(),
+                'Price1': p.text.strip(),
+                'Location': l.text.strip(),
+                'Ads': a.text.strip(),
+            }
+            all_data.append(data)
+```
+The code is used to combine four lists representing property listing details t-itle, p-rice, l-ocation and a-dvertisement) into a single iterable. It pairs up the elements at the same index from each collection. After removing any leading or trailing whitespace from the extracted text, the data is appended to the 'all_data' list. 'Price1' will be helpful with formating the table in the next step.
+
+```python
+ print(f'Scraping page {page_num}')
+```
+Is used to display the progress of web scraping.
+
+```python
+ divide = df['Price1'].str.split('zł', 1, expand=True)
+divide.columns = ['Price', 'SQMUP1']
+```
+To split the values in column 'Price1' 
+```
+680 000 zł16 798 zł/m²2 pokoje40.48 m²
+```
+
+
+
+
