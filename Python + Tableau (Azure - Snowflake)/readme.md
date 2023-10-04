@@ -228,7 +228,7 @@ df = df.drop([1137, 350, 1144, 589, 558, 2185, 1476, 1384, 563, 262, 947, 1143, 
 
 df = df.reset_index(drop=True).copy()
 ```
-Dropping specific rows by theinr Index number and reindexing the DataFrame.
+Dropping specific rows by their Index number and reindexing the DataFrame.
 ```python
 df['Ads'] = df['Ads'].apply(lambda x: 'Biuro nieruchomości' if 'nieruchomości' in x.lower() else x)
 df['Ads'] = df['Ads'].apply(lambda x: 'Inwestycja deweloperska' if 'deweloperska' in x.lower() else x)
