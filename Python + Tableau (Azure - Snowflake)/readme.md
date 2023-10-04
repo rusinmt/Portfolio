@@ -15,7 +15,7 @@ This project addresses this challenge by leveraging data extraction methods to s
 Python takes the lead in extracting comprehensive information about flats available for sale in Warsaw, focusing on critical factors like price, area, room count, and price per square meter. Through exploratory data analysis, it delves deeper into the dataset, enhancing our understanding. Upon initial contact with the data, it's thoughtfully exported to a JSON file format. An Azure Blob Storage Container is established in the Azure cloud environment to house the dataset, and then it transitions with Azure Data Factory, creating a connection into the Snowflake Warehouse. SQL queries are applied to prepare the data for further analysis. Tableau steps in to bring the insights to life, allowing for the creation of dynamic dashboard. Geospatial analysis provides a district-level perspective on property locations, price, room distribution, and price per square meter insights. Equipped with these findings, real estate professionals can make informed decisions to navigate the market effectively.
 
 
-## Webpage scraper
+## Web scraper
 
 
 Starting with the setup of Python libraries,
@@ -230,4 +230,7 @@ sns.pairplot(df, vars=['Price', 'SQMUP', 'Room Info', 'Area'], hue='Ads')
 plt.show()
 ```
 ![pairplot](https://github.com/rusinmt/portfolio/assets/143091357/2932688d-097c-4a9c-8655-8059c85dfc6f)
-This code utilizes Seaborn's pairplot function to create a pairwise scatterplot matrix. It visualizes how these numeric variables relate to each other within different categories of 'Ads.'
+This code utilizes Seaborn's pairplot function to create a pairwise scatterplot matrix. It visualizes how these numeric variables relate to each other within different categories of 'Ads'. The only strong correlation is an obvious one between the number of rooms in 'Room Info' and the Area. This positive correlation suggests that apartments with more rooms tend to have a larger area.
+![heatmap](https://github.com/rusinmt/portfolio/assets/143091357/433d0a8e-ac90-4fea-80c2-ea184b95275c)
+There is a very weak but visible correlation between Price and Area or SQMUP and the Area. When the size of the apartment increases, the prices tend to slightly increase.
+
