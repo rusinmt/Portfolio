@@ -311,5 +311,9 @@ with open(file_path, 'w') as json_file:
 ```
 To convert each row of the DataFrame into a dictionary, store them as a list, and then write the data into an open JSON file, specifying the path where it will be saved.
 
-## Azure Data Factory to Snowflake
+## Setting up Azure Data Factory and Snowflake connection
+
+
+
+
 
