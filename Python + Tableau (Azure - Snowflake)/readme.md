@@ -72,9 +72,4 @@ Firts 'divide' operation to split the values in column 'Price1'
 | Price1                               |
 |                                 ---: |
 |680 000 zł16 798 zł/m²2 pokoje40.48 m²|
-
-
-
-
-
-
+Splits the DataFrame only once at the first occurrence of 'zł', hence the use of '1'. This effectively creates two columns, 'Price' and 'SQMUP,' which stand for Square Meter Unit Price in the project. Thank you for the clarification.
