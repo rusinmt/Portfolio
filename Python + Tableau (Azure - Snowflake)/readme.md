@@ -381,4 +381,4 @@ delete from PROJECT.DATA.OTODOM_DATA
 where LOCATION = 'Targówek'
     and PRICE > 55000000
 ```
-Using this SQL query for other locations other than the 18 Warsaw Districts. Eliminating other outliers missed previously.
+Using this SQL query to remove locations other than the eighteen Warsaw Districts and eliminate other outliers missed previously.
