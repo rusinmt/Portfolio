@@ -60,14 +60,12 @@ The 'User-Agent' header will mimic the Mozilla browser, which will help prevent 
             all_data.append(data)
 ```
 The code is used to combine four lists representing property listing details t-itle, p-rice, l-ocation and a-dvertisement) into a single iterable. It pairs up the elements at the same index from each collection. After removing any leading or trailing whitespace from the extracted text, the data is appended to the 'all_data' list. 'Price1' will be helpful with formating the table in the next step.
-
 ```python
  print(f'Scraping page {page_num}')
 ```
 Is used to display the progress of web scraping.
-
 ```python
- divide = df['Price1'].str.split('zł', 1, expand=True)
+divide = df['Price1'].str.split('zł', 1, expand=True)
 divide.columns = ['Price', 'SQMUP1']
 ```
 To split the values in column 'Price1' 
