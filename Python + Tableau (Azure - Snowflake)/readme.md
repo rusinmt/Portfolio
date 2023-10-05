@@ -422,7 +422,7 @@ The Price Percentile of listings help us understand the distribution of apartmen
     <img src="https://github.com/rusinmt/portfolio/assets/143091357/849288ea-32b7-43f6-a964-4470095c2b9b" width="600">
 </p>
 
-To add a Compact list of calcalated parameters to the visual,
+To add a Compact list of calculated parameters to the visual,
 
 ```sql
 IF [Map Metric] = 'Average Price'
