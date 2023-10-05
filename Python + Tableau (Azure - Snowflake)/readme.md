@@ -5,7 +5,7 @@
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Setting up Azure Data Factory and Snowflake connection](#setting-up-azure-data-factory-and-snowflake-connection)
 
-(&nbsp;)
+&nbsp;
 ## Exploring Apartment Advertisements in Warsaw
 
 
