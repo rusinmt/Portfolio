@@ -396,3 +396,14 @@ Loading the transformed data into Tableau via a connection to a Snowflake server
 </p>
 
 For the Fill Map visualisation of Warsaw district borders, the [GIS Support](https://gis-support.pl/baza-wiedzy-2/dane-do-pobrania/granice-administracyjne/) site aids the effort of providing [Geometry Measurers](https://gis-support.pl/wp-content/uploads/dzielnice_Warszawy.zip) in a spacial file format.
+
+The dashboard offers key insights into apartment listings on otodom.pl in Warsaw, providing a range of essential indicators. It includes information on both the highest and lowest property prices, along with area and square meter prices, offering a comprehensive view of the market's pricing dynamics, showcasing extreme values.
+Interactive map highlighting districts average property parameters, including price, area, and square meter price. Furthermore, the dashboard categorizes the types of advertisements found on the otodom.pl webpage, aiding users in understanding the market landscape. Moreover, the dashboard highlights the top five districts with the highest number of listings. Users can interact with a map equipped with slider filters, allowing for dynamic exploration and analysis of these districts.
+
+<p align="center">
+    <img src="https://github.com/rusinmt/portfolio/assets/143091357/9829fc04-f26a-4e80-8103-1054a2d63e08" width="700">
+</p>
+
+The Percentile values of listings help us understand the distribution of apartments for sale. The 10th percentile illustrates the lower end of the price range, highlighting cheaper apartments and bargains. The median maintains the overall pricing tendencies in the dataset. Separating the data at the 90th percentile excludes 90% of apartments for sale, leaving us with the most expensive offers.
+
+In essence, the dashboard serves as a tool for gaining insights into Warsaw's real estate market mirrored in advertisments on otodo.pl, offering a wide range of data and visualizations to support informed expansion of agency portfolio.
