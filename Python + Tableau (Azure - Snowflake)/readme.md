@@ -1,9 +1,10 @@
 ## Table of contents
 
-- [Process Archtecture](#process-archtecture)
+- [Process Architecture](#process-architecture)
 - [Web scraper](#web-scraper)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Setting up Azure Data Factory and Snowflake connection](#setting-up-azure-data-factory-and-snowflake-connection)
+
 
 &nbsp;
 ## Exploring Apartment Advertisements in Warsaw
@@ -15,7 +16,7 @@ As in agriculture, where the growth of crops necessitates diligent care and time
 This project addresses this challenge by leveraging data extraction methods to support the real estate market needs and provide insights into the most suitable locations for agencies to expand their portfolios. Through data-driven visuals, this endeavor strives to provide real estate agencies with valuable insights and recommendations regarding optimal locations for portfolio expansion within the city limits of Warsaw.
 
 
-## Process Archtecture
+## Process Architecture
 
 
 ![gif](https://github.com/rusinmt/portfolio/assets/143091357/aaff7b14-2479-43d8-8d0c-377eb57629a6)
