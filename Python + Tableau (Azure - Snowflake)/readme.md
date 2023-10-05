@@ -392,7 +392,7 @@ Using this SQL query to remove locations other than the eighteen Warsaw District
 Loading the transformed data into Tableau via a connection to a Snowflake server.
 
 <p align="center">
-    <img src="https://github.com/rusinmt/portfolio/assets/143091357/5d564bad-cf1a-47a8-88f1-e8a72cde74a4" width="250">
+    <img src="https://github.com/rusinmt/portfolio/assets/143091357/5d564bad-cf1a-47a8-88f1-e8a72cde74a4" width="350">
 </p>
 
-For the Fill Map visualisation of Warsaw district borders [GIS Support](https://gis-support.pl/baza-wiedzy-2/dane-do-pobrania/granice-administracyjne/) site aids the effort of providing [Geometry Measurers](https://gis-support.pl/wp-content/uploads/dzielnice_Warszawy.zip) in a spacial file.
+For the Fill Map visualisation of Warsaw district borders, the [GIS Support](https://gis-support.pl/baza-wiedzy-2/dane-do-pobrania/granice-administracyjne/) site aids the effort of providing [Geometry Measurers](https://gis-support.pl/wp-content/uploads/dzielnice_Warszawy.zip) in a spacial file format.
