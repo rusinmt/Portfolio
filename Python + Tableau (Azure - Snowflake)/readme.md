@@ -424,7 +424,7 @@ The Price Percentile of listings help us understand the distribution of apartmen
 
 To add a Compact list of calcalated parameters to the visual,
 
-```python
+```sql
 IF [Map Metric] = 'Average Price'
 THEN AVG([PRICE])
 
