@@ -6,9 +6,9 @@
 - [Setting up Azure Data Factory and Snowflake connection](#setting-up-azure-data-factory-and-snowflake-connection)
 - [Tableau Dashboard](#tableau-dashboard)
 
-&nbsp;
-&nbsp;
-&nbsp;
+
+
+
 &nbsp;
 ## Exploring Apartment Advertisements in Warsaw
 
