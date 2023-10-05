@@ -426,12 +426,12 @@ END
 ```
  a calculated field was established.
 
-Price Percentile and Top 5 Districts by Listing count are independent from the drill down action when a specfic district is selected. With the help of Filter Action. Furthermore higlighting was disabled to ensure intuitive user experience.
+The Price Percentile and Top 5 Districts by Listing count graph are independent from the drill down action when a specfic district is selected. thanks to the implementation of Filter Actions. Additionally, highlighting has been disabled to ensure a more intuitive user experience
 
 <p align="center">
     <img src="https://github.com/rusinmt/portfolio/assets/143091357/6546c882-3dd2-4599-b0e7-92642add0e4f" width="250">
 </p>
 
-Method involves random string value in a Calculated field 'NO Higlight', in the Detail shelf and selecting int in the Higlighter.
+Method involves using a random string value in a Calculated field 'NO Higlight' placing in the Detail shelf and selecting in the Higlighter.
 
-In essence, the dashboard serves as a tool for gaining insights into Warsaw's real estate market mirrored in advertisments on otodo.pl, offering a wide range of data and visualizations to support informed expansion of agency portfolio.
+In essence, the dashboard serves as a tool for gaining insights into Warsaw's real estate market as reflected in advertisements on otodom.pl, offering a wide range of data and visualizations to support informed expansion of the agency's portfolio.
