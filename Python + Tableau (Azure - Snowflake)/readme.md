@@ -1,10 +1,8 @@
-[Process Archtecture](#process-archtecture)
-
-[Web scraper](#web-scraper)
-
-[Exploratory Data Analysis](#exploratory-data-analysis)
-
-[Setting up Azure Data Factory and Snowflake connection](#setting-up-azure-data-factory-and-snowflake-connection)
+### Table of 
+	- [Process Archtecture](#process-archtecture)
+	- [Web scraper](#web-scraper)
+	- [Exploratory Data Analysis](#exploratory-data-analysis)
+	- [Setting up Azure Data Factory and Snowflake connection](#setting-up-azure-data-factory-and-snowflake-connection)
 
 
 ## Exploring Apartment Advertisements in Warsaw
