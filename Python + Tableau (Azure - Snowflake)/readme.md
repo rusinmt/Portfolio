@@ -404,6 +404,26 @@ Interactive map highlighting districts average property parameters, including pr
     <img src="https://github.com/rusinmt/portfolio/assets/143091357/9829fc04-f26a-4e80-8103-1054a2d63e08" width="550">
 </p>
 
-The Percentile values of listings help us understand the distribution of apartments for sale. The 10th percentile illustrates the lower end of the price range, highlighting cheaper apartments and bargains. The median maintains the overall pricing tendencies in the dataset. Separating the data at the 90th percentile excludes 90% of apartments for sale, leaving us with the most expensive offers.
+The Price Percentile of listings help us understand the distribution of apartments for sale in the dataset. The 10th percentile illustrates the lower end of the price range, highlighting cheaper apartments and bargains. The median maintains the overall pricing tendencies in the dataset. Separating the data at the 90th percentile excludes 90% of apartments for sale, leaving us with the most expensive offers.
+
+<p align="center">
+    <img src="https://github.com/rusinmt/portfolio/assets/143091357/849288ea-32b7-43f6-a964-4470095c2b9b" width="600">
+</p>
+
+To add a Compact list of calcalated parameters to the visual,
+
+```tableau
+IF [Map Metric] = 'Average Price'
+THEN AVG([PRICE])
+
+ELSEIF [Map Metric] = 'Average Area'
+THEN AVG([AREA])
+
+ELSEIF [Map Metric] = 'Average SQMUP'
+THEN AVG([SQMUP])
+
+END
+```
+ a calculated field was established.
 
 In essence, the dashboard serves as a tool for gaining insights into Warsaw's real estate market mirrored in advertisments on otodo.pl, offering a wide range of data and visualizations to support informed expansion of agency portfolio.
