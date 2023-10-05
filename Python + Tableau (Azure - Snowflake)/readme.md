@@ -444,6 +444,6 @@ The Price Percentile and Top 5 Districts by Listing count graph are independent 
     <img src="https://github.com/rusinmt/portfolio/assets/143091357/6546c882-3dd2-4599-b0e7-92642add0e4f" width="250">
 </p>
 
-Method involves using a random string value in a Calculated field 'NO Higlight' placing in the Detail shelf and selecting in the Higlighter.
+Method involves using a random string value in a Calculated field 'NO Higlight' placing it in the Detail shelf, and selecting the field in the Higlighter.
 
 In essence, the dashboard serves as a tool for gaining insights into Warsaw's real estate market as reflected in advertisements on otodom.pl, offering a wide range of data and visualizations to support informed expansion of the agency's portfolio.
