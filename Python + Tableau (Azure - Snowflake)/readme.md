@@ -10,7 +10,7 @@
 
 
 &nbsp;
-## Exploring Apartment Advertisements in Warsaw
+# Exploring Apartment Advertisements in Warsaw
 
 
 Just as a farmer carefully selects the most fertile land for planting crops, real estate professionals must identify the most promising locations for property investments. 
