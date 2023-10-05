@@ -389,4 +389,4 @@ Using this SQL query to remove locations other than the eighteen Warsaw District
     <img src="https://github.com/rusinmt/portfolio/assets/143091357/fb9e78b7-a1fb-4145-985c-ae5224e249a3" width="500">
 </p>
 
-Loading the transformed data into Tableau via connection to a Snowflake server.
+Loading the transformed data into Tableau via a connection to a Snowflake server.
