@@ -1,4 +1,4 @@
-[Process Archtecture](#Process Archtecture)
+[Process Archtecture](#process-archtecture)
 
 ## Exploring Apartment Advertisements in Warsaw
 
