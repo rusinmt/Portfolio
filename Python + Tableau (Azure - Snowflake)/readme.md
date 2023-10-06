@@ -401,7 +401,7 @@ Using this SQL query to remove locations other than the eighteen Warsaw District
     <img src="https://github.com/rusinmt/portfolio/assets/143091357/fb9e78b7-a1fb-4145-985c-ae5224e249a3" width="250">
 </p>
 
-Loading the transformed data into Tableau via a connection to a Snowflake server.
+Loading the transformed data into Tableau via a connection to a Snowflake server. Tableu Hyper for the Dashboard published on github is avalible [here]([url](https://github.com/rusinmt/portfolio/blob/8575e3462e21afadd341157d5b19f9b218ffd90b/Python%20%2B%20Tableau%20(Azure%20-%20Snowflake)/Data/tableau_extract.hyper)).
 
 <p align="center">
     <img src="https://github.com/rusinmt/portfolio/assets/143091357/5d564bad-cf1a-47a8-88f1-e8a72cde74a4" width="500">
