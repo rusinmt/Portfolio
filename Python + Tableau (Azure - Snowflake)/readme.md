@@ -194,7 +194,7 @@ Removing non-breaking space characters and plus signs.
 
 </div>
 
-Using df.describe() funtion to help find outliners in the data. 
+Using df.describe() funtion to help find outliers in the data. 
 ```python
 show5 = df['SQMUP'].nsmallest(5)
 show5
