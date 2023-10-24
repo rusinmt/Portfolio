@@ -1,4 +1,4 @@
-Attribute VB_Name = "Module2"
+Attribute VB_Name = "Module1"
 Sub Clear()
 Attribute Clear.VB_ProcData.VB_Invoke_Func = " \n14"
 
