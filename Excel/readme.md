@@ -26,7 +26,7 @@ Sub Clear()
 End Sub
 ```
 
-First one helps to clear manual filters for "County", "Make" and "Model" slicers while exploaring the data.
+First one helps to clear manual filters for "County", "Make" and "Model" slicers while exploring the data.
 
 ```vba
 Sub DropDown()
@@ -44,7 +44,7 @@ Sub DropDown()
     
 End Sub
 ```
-Another connects the functionality of the Combo Box drop down list, from Form Control elements, used for more user friendly and aestheticly pleasing interface. It uses Cell Link to define which Fuel Type to show on the interactive 'Chart 1.1' by filtering correct values from the Table 'Map' via dedicated slicer.
+Another connects the functionality of the Combo Box drop down list, from Form Control elements, used for more user friendly and aesthetically pleasing interface. It uses Cell Link to define which Fuel Type to show on the interactive 'Chart 1.1' by filtering correct values from the Table 'Map' via dedicated slicer.
 ```vba
 ClearManualFilter
 ```
@@ -53,14 +53,17 @@ Line prevented the slicer from 'Multi-Select' of two values at once.
 ```dax
 = DIVIDE([Sum of Number of New Sales];[Sum of Number of Population]; "2010-2022")
 ```
-DAX generates two of the measures from the Dasboard. Ratio of New Sales in the Vehicle Population in percents. The third argument in the function returns note about the data limitation if Population equals 0.
+DAX generates two of the measures from the Dashboard. Ratio of New Sales in the Vehicle Population in percents. The third argument in the function returns note about the data limitation if Population equals 0.
 ```dax
 =[Sum of Number of Population] + CALCULATE('fSales'[Sum of Number of New Sales]; 'fSales'[YearID] = 14)
 ```
 Second measure estimates the Total of the Population using Sum of Population and Sales from 2023.
 
-Year over year differences where automaticly generated using Pivot Table Value Field Settings. 
+Year-Over-Year differences where automatically generated using Pivot Table Value Field Settings. 
 
-Custom Formatting used ${\color{red}▼}$ ${\color{green}▲}$ indicators showcasing values to previous year is linked to the dashoard as a Linked Picture using Othe Paste Options.
+Custom Formatting used ${\color{red}▼}$ ${\color{green}▲}$ indicators showcasing values to previous year is linked to the Dashoard as a Linked Picture using Othe Paste Options.
 
 ## Analysis
+
+
+
