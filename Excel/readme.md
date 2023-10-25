@@ -44,4 +44,16 @@ Another connects the functionality of the Combo Box drop down list, from Form Co
 ```vba
 ClearManualFilter
 ```
-Line prevented Slicer from selecting two values at once.
+Line prevented the slicer from 'Multi-Select' of two values at once.
+
+Year over year differences where automaticly generated using Pivot Table Value Field Settings.
+
+```dax
+= DIVIDE([Sum of Number of New Sales];[Sum of Number of Population]; "2010-2022")
+```
+DAX generates two of the measures from the Dasboard. Ratio of New Sales in the Vehicle Population in percents. The third argument in the function returns note about the data limitation if Population equals 0.
+```dax
+=[Sum of Number of Population] + CALCULATE('fSales'[Sum of Number of New Sales]; 'fSales'[YearID] = 14)
+```
+Second measure estimates the Total of the Population using Sum of Population and Sales from 2023.
+
