@@ -57,6 +57,8 @@ Second measure estimates the Total of the Population using Sum of Population and
 
 Year over year differences where automaticly generated using Pivot Table Value Field Settings. 
 
-Custom Formatting used for$${\color{red}▼}$$ ▲ indicators showcasing values to previous year is linked to the dashoard as a Linked Picture using Othe Paste Options.
+Custom Formatting used ▼ ▲ indicators showcasing values to previous year is linked to the dashoard as a Linked Picture using Othe Paste Options.
+
+<span style="color:blue">some *blue* text</span>.
 
 
