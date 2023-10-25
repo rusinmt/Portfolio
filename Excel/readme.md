@@ -22,4 +22,26 @@ Sub Clear()
 End Sub
 ```
 
-First one helps to clear manual filters for "County", "Make" and "Model" while exploaring the data.
+First one helps to clear manual filters for "County", "Make" and "Model" slicers while exploaring the data.
+
+```vba
+Sub DropDown()
+    
+    With ActiveWorkbook.SlicerCaches("Slicer_Fuel_Type1")
+        If Range("U13").Value = "1" Then
+            .SlicerItems("Electric Chargers").Selected = True
+            .SlicerItems("Hydrogen Fueling Stations").Selected = False
+        ElseIf Range("U13").Value = "2" Then
+            .ClearManualFilter
+            .SlicerItems("Electric Chargers").Selected = False
+            .SlicerItems("Hydrogen Fueling Stations").Selected = True
+        End If
+    End With
+    
+End Sub
+```
+Another connects the functionality of the Combo Box drop down list, from Form Control elements, used for more user friendly and aestheticly pleasing interface. It uses Cell Link to define which Fuel Type to show on the interactive 'Chart 1.1' by filtering correct values from the Table 'Map' via dedicated slicer.
+```vba
+ClearManualFilter
+```
+Line prevented Slicer from selecting two values at once.
