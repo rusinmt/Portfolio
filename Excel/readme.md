@@ -6,7 +6,7 @@ Analyzing the adoption of Hydrogen-Powered Vehicles and comparing their prevalen
 
 The portfolio project entailed a comprehensive series of data management and analysis tasks. To begin, Power Query played a pivotal role in appending and transforming the data, ensuring its structure and organization for subsequent analysis. This initial step laid the foundation for a more in-depth exploration of the dataset.
 
-Subsequently, Power Pivot was employed to establish a data model, involving the creation of relationships between different data sets. This phase required a deeper understanding of the queried data to derive meaningful connections and insights. 
+Subsequently, Power Pivot was employed to establish a data model, involving the creation of relationships between data. This phase required a deeper understanding of the queried dataset to derive meaningful connections and insights. 
 
 ![datamodel](https://github.com/rusinmt/portfolio/assets/143091357/e67143ee-e4df-4e14-ba0f-20c2b831b28d)
 
