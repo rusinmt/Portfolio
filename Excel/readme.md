@@ -59,5 +59,6 @@ Year over year differences where automaticly generated using Pivot Table Value F
 
 Custom Formatting used ▼ ▲ indicators showcasing values to previous year is linked to the dashoard as a Linked Picture using Othe Paste Options.
 
-<code style="color : red">text</code>
+<code style="color : red">▼</code>
 
+$${\color{green}Green}$$
