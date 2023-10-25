@@ -46,8 +46,6 @@ ClearManualFilter
 ```
 Line prevented the slicer from 'Multi-Select' of two values at once.
 
-Year over year differences where automaticly generated using Pivot Table Value Field Settings.
-
 ```dax
 = DIVIDE([Sum of Number of New Sales];[Sum of Number of Population]; "2010-2022")
 ```
@@ -56,4 +54,7 @@ DAX generates two of the measures from the Dasboard. Ratio of New Sales in the V
 =[Sum of Number of Population] + CALCULATE('fSales'[Sum of Number of New Sales]; 'fSales'[YearID] = 14)
 ```
 Second measure estimates the Total of the Population using Sum of Population and Sales from 2023.
+
+Year over year differences where automaticly generated using Pivot Table Value Field Settings. Custom Formatting used for [red]▼[color10]▲ indicators showcasing values to previous year is linked to the dashoard as a Linked Picture using Othe Paste Options.
+
 
