@@ -55,6 +55,8 @@ DAX generates two of the measures from the Dasboard. Ratio of New Sales in the V
 ```
 Second measure estimates the Total of the Population using Sum of Population and Sales from 2023.
 
-Year over year differences where automaticly generated using Pivot Table Value Field Settings. Custom Formatting used for [red]▼[color10]▲ indicators showcasing values to previous year is linked to the dashoard as a Linked Picture using Othe Paste Options.
+Year over year differences where automaticly generated using Pivot Table Value Field Settings. 
+
+Custom Formatting used for [red]"▼"[color10]"▲" indicators showcasing values to previous year is linked to the dashoard as a Linked Picture using Othe Paste Options.
 
 
