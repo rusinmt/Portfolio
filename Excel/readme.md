@@ -10,9 +10,9 @@ Subsequently, Power Pivot was employed to establish a data model, involving the 
 
 ![datamodel](https://github.com/rusinmt/portfolio/assets/143091357/e67143ee-e4df-4e14-ba0f-20c2b831b28d)
 
-The project delved further into the dataset, implementing advanced functions and techniques, including Find and Replace, Index(Match), SUMIF, and XLOOKUP, to manipulate and extract data effectively.
+The project delved deeper into the dataset, implementing structured functions such as Find and Replace, Index(Match), SUMIF, and XLOOKUP, to effectively manipulate and extract data.
 
-Handling data in various formats, such as unifying date formats and incorporating geographic data, presented its own set of challenges. The utilization of pivot tables proved invaluable in structuring and summarizing data efficiently. Additionally, conditional data manipulation was achieved through the use of functions like IF() and FILTER(), while custom formatting and DAX measures were used in presenting key metrics in the dashboard.
+Managing data in various formats, such as standardizing date formats and incorporating geographic data. The utilization of pivot tables proved invaluable in structuring and summarizing data efficiently. Additionally, conditional data manipulation was achieved through the use of functions like IF() and FILTER(), while custom formatting and DAX measures were used in presenting key metrics in the dashboard.
 
 VBA code automates two funtions of the Dashboard.
 
@@ -26,7 +26,7 @@ Sub Clear()
 End Sub
 ```
 
-First one helps to clear manual filters for "County", "Make" and "Model" slicers while exploring the data.
+The first one helps clear manual filters for 'County,' 'Make,' and 'Model' slicers while exploring the data.
 
 ```vba
 Sub DropDown()
@@ -59,7 +59,7 @@ DAX generates two of the measures from the Dashboard. Ratio of New Sales in the 
 ```
 Second measure estimates the Total of the Population using Sum of Population and Sales from 2023.
 
-Year-Over-Year differences where automatically generated using Pivot Table Value Field Settings. 
+Year-Over-Year differences were automatically generated using Pivot Table Value Field Settings. 
 
 Custom Formatting used ${\color{red}▼}$ ${\color{green}▲}$ indicators showcasing values to previous year is linked to the Dashoard as a Linked Picture using Othe Paste Options.
 
