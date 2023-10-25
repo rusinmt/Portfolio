@@ -6,7 +6,11 @@ Analyzing the adoption of hydrogen-powered vehicles and comparing their prevalen
 
 The portfolio project entailed a comprehensive series of data management and analysis tasks. To begin, Power Query played a pivotal role in appending and transforming the data, ensuring its structure and organization for subsequent analysis. This initial step laid the foundation for a more in-depth exploration of the dataset.
 
-Subsequently, Power Pivot was employed to establish a data model, involving the creation of relationships between different data sets. This phase required a deeper understanding of the queried data to derive meaningful connections and insights. The project delved further into the dataset, implementing advanced functions and techniques, including Find and Replace, Index(Match), SUMIF, and XLOOKUP, to manipulate and extract data effectively.
+Subsequently, Power Pivot was employed to establish a data model, involving the creation of relationships between different data sets. This phase required a deeper understanding of the queried data to derive meaningful connections and insights. 
+
+![datamodel](https://github.com/rusinmt/portfolio/assets/143091357/e67143ee-e4df-4e14-ba0f-20c2b831b28d)
+
+The project delved further into the dataset, implementing advanced functions and techniques, including Find and Replace, Index(Match), SUMIF, and XLOOKUP, to manipulate and extract data effectively.
 
 Handling data in various formats, such as unifying date formats and incorporating geographic data, presented its own set of challenges. The utilization of pivot tables proved invaluable in structuring and summarizing data efficiently. Additionally, conditional data manipulation was achieved through the use of functions like IF() and FILTER(), while custom formatting and DAX measures were used in presenting key metrics in the dashboard.
 
@@ -58,3 +62,5 @@ Second measure estimates the Total of the Population using Sum of Population and
 Year over year differences where automaticly generated using Pivot Table Value Field Settings. 
 
 Custom Formatting used ${\color{red}▼}$ ${\color{green}▲}$ indicators showcasing values to previous year is linked to the dashoard as a Linked Picture using Othe Paste Options.
+
+## Analysis
