@@ -48,7 +48,7 @@ End Sub
 ```
 Another connects the functionality of the Combo Box drop down list, from Form Control elements, used for more user friendly and aesthetically pleasing interface. It uses Cell Link to define which Fuel Type to show on the interactive 'Chart 1.1' by filtering correct values from the Table 'Map' via dedicated slicer.
 ```vba
-ClearManualFilter
+.ClearManualFilter
 ```
 Line prevented the slicer from 'Multi-Select' of two values at once.
 
