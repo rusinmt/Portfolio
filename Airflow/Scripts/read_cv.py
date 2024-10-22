@@ -174,8 +174,8 @@ def process_pdf(pdf_path: str, model: YOLO):
     return name, box
 
 def main():
-    base_folder = r"/mnt/c/Users/Mateusz/transform/r"
-    error_folder = os.path.join(base_folder, "review")
+    base_folder = r"/mnt/c/Users/Mateusz/transform"
+    error_folder = os.path.join(base_folder, "r")
     model_path = r"C:\Users\Mateusz\model\yolov8s_handwritten_digits_v002.pt"
    
     model = load_model(model_path)
